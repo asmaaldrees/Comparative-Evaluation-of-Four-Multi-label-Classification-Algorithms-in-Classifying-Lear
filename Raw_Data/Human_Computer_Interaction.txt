@@ -1,0 +1,323 @@
+ACM SIGCHI Curricula for Human-Computer Interaction
+This publication is a report of the ACM Special Interest Group on Computer-Human Interaction (SIGCHI) Curriculum Development Group. Table of Contents: * reface * Chapter 1: Introduction * Chapter 2: Human-Computer Interaction * Chapter 3: Courses in HCI * Chapter 4: HCI Curriculum Designs * Chapter ...
+Keywords: human-computer interaction, HCI, human-centered design, curriculum, courses, user interface design, interaction design
+
+CS 247 Human Computer Interaction
+Course website with readings, photos of projects and a video from the 2006 class. "CS 247 is a theoretical and practical exploration of Human Computer Interaction design. Successful participants will become well-versed in the utility of observation, idea logs, brainstorming, bodystorming, personas, ...
+Keywords: interaction design, human computer interaction
+
+Human-Computer Interaction and Information Management Research Needs
+This report was prepared by the Human-Computer Interaction and Information Management (HCI &amp; IM) Coordinating Group and released in October 2003. It identifies the main challenges facing research and development in HCI &amp; IM and provides motivation for greater U.S. government efforts in this ...
+Keywords: Technology -- Social aspects, Computers -- Social aspects, Human-computer interaction -- Research
+
+Laboratory for HCI, CSCW and UbiComp
+HCI and design research lab with useful photos, slides, projects and software. "GroupLab, led by Dr. Saul Greenberg, comprises faculty, students and visiting researchers with interests in Human Computer Interaction and Computer Supported Cooperative Work. Within Human Computer Interaction (HCI), we ...
+Keywords: user interface design, HCI, human-computer interaction, context-aware, computer supported cooperative work, CSCW
+
+Human-Computer Interaction Course
+Course website at Georgia Tech, includes a syllabus, lecture slides, assignments, links to other courses, and links to general HCI resources. "This course will teach you about the importance of the human-computer interface in software design and development. The objectives of the course are * To ...
+Keywords: Human-Computer Interaction
+
+University of Maryland, Human-Computer Interaction Lab
+"From the Internet to robotics, technology is changing the way people live and learn. As new technologies become ever more critical to people's lives, it is important to design them to support people in their roles as learners, explorers, and workers." The Human-Computer Interaction Lab (HCIL) at ...
+Keywords: Human-computer interaction, Human-computer interaction -- Research, Information technology, Information technology -- Research, User interfaces (Computer systems), User interfaces (Computer systems) -- Evaluation, Science, Science -- Technology, Social studies, Social studies -- Technology
+
+MouseSite
+The MouseSite is a resource for exploring the history of human computer interaction beginning with the pioneering work of Douglas Engelbart and his colleagues at Stanford Research Institute in the 1960s.
+Keywords: computer mouse, Engelbart
+
+Human Interface Project
+Intriguing video demonstrating "real human interface" to computer operations. Concept, design and high-tech by multitouch-barcelona.com. Music: wake up, wake up by lullatone.com. Filmed at hangar.org.
+Keywords: interaction design, HCI, Human-computer interaction, human-centered computing, HCC
+
+Georgia Tech: Contextual Computing Group
+The Contextual Computing Group is a research organization at Georgia Tech College of Computing that focuses on the field of contextually-aware, wearable computing systems. The group is interested in "how the continued emergence of on-body computational resources will impact society." Topics ...
+Keywords: Computer science -- Periodicals, Human-computer interaction -- Research, Computer science -- Research, Science, Science -- Technology, Social studies, Social studies -- Technology
+
+Georgia Tech: Contextual Computing Group
+The Contextual Computing Group is a research organization at Georgia Tech College of Computing that focuses on the field of contextually-aware, wearable computing systems. The group is interested in "how the continued emergence of on-body computational resources will impact society." Topics ...
+Keywords: Computer science -- Research, Human-computer interaction -- Research, Computer science -- Periodicals, Science, Science -- Technology, Social studies, Social studies -- Technology
+
+Towards Better Interactive Systems : Methodology and Problems in Human-Computer Interaction
+Understanding human-computer interaction is an issue which is gaining more attention. Significant progress in the design of better interactive systems will come through a needed methodology. Facts and beliefs about interaction are recalled. Four approaches to a conceptual framework which have been ...
+Keywords: user interface, methodology, CAD, design, methods
+
+Multitouch Barcelona - Natural Interaction Design
+A recently born interaction design group that explores natural communication between people and technology. We design experiences that merge real and digital into a creative environment where people are invited to touch, play, move, feel as they do in the real world.
+Keywords: interaction design, HCI, Human-computer interaction, human-centered computing, HCC
+
+User Centered System Design : New Perspectives on Human-Computer Interaction
+A pluralistic approach, design computers from the user's point of view
+Keywords: systems, design, user interface, color, computer graphics
+
+Index of Learning Theories and Models
+This website features theories on how people learn. The resource is useful for scholars in various fields such as instructional design and human-computer interaction. The theories of learning are grouped into paradigms, behaviorist theories, cognitivist theories, constructivist, social, and ...
+Keywords: Philosophy -- Educational Philosophy, Philosophy -- Process skills
+
+Evaluation and Representation
+In this paper the author will consider four key concepts: design, evaluation, models, and representation. In combination, definitions of these concepts impinge on each other and they are further conditioned by the author intention to represent design knowledge within computers. The issue of ...
+Keywords: CAD, representation, design, evaluation
+
+Curious Agents in Virtual Exhibitive Environments Simulative Human-Computer Interaction
+The creation of virtual environments is becoming the alternative for spatial design, while what can be expanded from the real environment is often questioned. This paper proposes the agent interface based on curiosity to create human computer interaction in virtual exhibitive environments. From a ...
+Keywords: Virtual Environment, Digital Design, Agent, Curiosity, Interfaces
+
+Animal Diversity Web
+Animal Diversity Web (ADW) is an online database of animal natural history, distribution, classification, and conservation biology, from the University of Michigan. It is a searchable encyclopedia, science learning tool and virtual museum. It has pages suggesting uses for the site in both ...
+Keywords: Animal, Bone, Mammal, Skeletal system, Teaching material, Computer-assisted learning, Critical analysis/critical thinking, Data analysis, collection, interpretation, Field laboratory experience/field trips, Inquiry-based learning, Multimedia/audiovisual instruction, Student-centered instruction
+
+University of Maryland: Active Logic, Metacognitive Computation, and Mind
+The long-term goal of the Active Logic, Metacognitive Computation, and Mind project at University of Maryland, College Park, Computer Science Department is "to design and implement common sense in a computer." The website offers an explanation for what a project of this nature involves and the ...
+Keywords: Artificial intelligence, Human-computer interaction, Computers -- Technological innovations, Natural language processing (Computer science), Human-computer interaction -- Research, Artificial intelligence -- Research, Natural language processing (Computer science) -- Research., Language Arts, Language Arts -- Process skills, Science, Science -- Technology
+
+The Changes in Computer Anxiety in a Required Course
+Abstract: The purpose of the study is to investigate the changes in computer anxiety, attitudes towards computers, and feelings related to computers among students due to participation in the basic course of computer science. The theoretical background is based on theories of human-computer ...
+Keywords: studies and solutions
+
+Advanced Ubiquitous Media for Interactive Space
+Developing ubiquitous media for interactive space requires interdisciplinary collaboration in studying ubiquitous computing. This work generalizes the criteria in the many disciplines of ubiquitous computing into a conceptual framework, including interaction interfaces, sensing technologies, ...
+Keywords: ubiquitous media, interactive space, human-computer interaction
+
+Journal of Usability Studies - JUS
+The Journal of Usability Studies (JUS) is a peer-reviewed, international, online publication dedicated to promote and enhance the practice, research, and education of usability engineering. Its aim is to provide usability practitioners and researchers with a forum to share: * empirical findings, * ...
+Keywords: usability, user interface design, HCI, human-computer interaction, context-aware, computer supported cooperative work, CSCW
+
+Digital MaterialPerception, Interaction and Immersion in Virtual Environments
+This paper outlines two major aspects of virtual environments for architectural design. On the one hand it focusses on how to use virtual reality as an extended tool to generate spatial design by building up and interacting with a three-dimensional digital model. On the other hand it describes - ...
+Keywords: Virtual Environment, Digital Architecture, Immersion, Perception, Human-Computer Interaction
+
+Jnd.org
+With a work history that includes Apple and Hewlett Packard, Dr. Don Norman is certainly no pushover when it comes to technology. He created this site to express his vision of technology that is inviting and enjoyable to use, instead of being cold and inhuman. Several of his essays are presented ...
+Keywords: New products -- Design, Human-computer interaction, Graphical user interfaces (Computer systems) -- Design, Design -- Human factors, User interfaces (Computer systems) -- Design.
+
+Interacting with a Computer Augmented Environment
+In Sony CSL Interaction Laboratory, we are investigating future human-computer interaction technologies that augment real world environments. In such an environment, as we can combine many physical tools to perform a task in a real world, we consider that it should be possible to dynamically combine ...
+Keywords: augmented, interaction
+
+SGtools: A Computer Tool for Exploring Designs with Set Grammars
+A set grammar interpreter is presented in this paper. It differs from previous interpreters in many ways: it accepts any shapes for edition, the user rather than symbols, manipulates shapes, and rules can be stored and retrieved. This tool is intended as a conceptual design tool and not as a tool ...
+Keywords: shape grammars, human-computer interaction, collaboration
+
+Projects of Multitouch-Barcelona
+Projects of the interaction design firm Multitouch-Barcelona. Each project has a description, images and some have videos. Image caption: "On May 2008 our project was selected for the Openroom section during Offf Festival 2008. To promote our presentation in the festival we designed a graphic ...
+Keywords: interaction design, HCI, Human-computer interaction, human-centered computing, HCC
+
+How May I Help You?
+How May I Help You? (HMIHY) is a product of AT &amp;T research that revolutionizes the way customers interact with automated telephone technical support services. Until recently, callers were required to choose from a list of options with their keypad. Newer systems allow the user to make the same ...
+Keywords: Natural language processing (Computer science), Human-computer interaction -- Research, Natural language processing (Computer science) -- Research.
+
+The Interactive Workspaces Project: Experiences with Ubiquitous Computing Rooms
+A project of the Stanford University Computer Sciences Department is exploring ways for technology to enhance office productivity. Specifically, researchers use large displays with integrated human-computer interaction to create the iRoom, an interactive workspace of the future. This ubiquitous ...
+Keywords: User interfaces (Computer systems), Electronic data processing -- Distributed processing, Embedded computer systems., Labor productivity -- Technological innovations., Ubiquitous computing.
+
+Interaction in Architectural Immersive Applications Using 3D Video
+In this paper we describe the impact of 3D video technology on immersive telepresence applications in the context of architecture. This technology enables new ways of collaborating and communicating between distant locations. The photorealistic appearance of a 3D user representation and other ...
+Keywords: Human-Computer Interaction, 3D Video, Virtual Reality, Tele-Immersion, Prediction and Evaluation
+
+Interaction Methods for Architecture in Virtual Environments
+Virtual and Augmented Reality have become common tools in the architectural design process. This technology assists all participants in gaining planning certainty. To interact with the digital models, different input methods are used and adapted by the authors like keyboard, on screen menu, tangible ...
+Keywords: Human-Computer Interaction, Interface, Virtual Reality, Augmented Reality
+
+Usability Case Library
+This collection of case studies, developed by companies and organizations interested in Human Computer Interface (HCI) education, is intended to showcase real products or systems to which scenario-based usability development practices have been applied. The studies are intended to supplement the ...
+Keywords: Computer science, Technology, Usability
+
+An architectural framework within a spatially immersive real-time environment for advanced communication and collaboration
+In this paper we present a framework for use in the blue-c, a collaborative telepresence environment. We implemented the framework on top of the blue-c API to enable new ways of designing digital 3D spaces in an immersive way. The framework will be used to support designers in creating spatial ...
+Keywords: Virtual Reality, Tele-Immersion, Collaborative Environment, 3D Video, Human-Computer Interaction
+
+Approaches to Design Collaboration Research
+This survey of architectural design collaboration identifies and categorizes strong research from the past ten years. It starts by describing how the research ranges in focus, scale and structure, then clarifies how different projects fit in a continuum from conceptual theory to pragmatic ...
+Keywords: design collaboration, groupwork, computer-supported cooperative design, human-computer interaction
+
+HealthyComputing.com
+Neck, back, and wrist pain are common complaints from people who regularly use a computer. To help these people become more comfortable and less susceptible to long-term problems, this site offers many suggestions for proper computer ergonomics. Some of the best tips are on office setup, such as ...
+Keywords: Human engineering., Human-computer interaction, Overuse injuries, Overuse injuries -- Prevention., Computer users -- Health and hygiene.
+
+e-Learning Definition
+Due to a government initiative (UMIC, 2003), the University of Minho (Minho, 2003) among other Portuguese Universities is embracing the e-University model (Minho, 2003). To achieve this learning stadium, all the Campus has to be involved in the initiative. With this purpose many initiatives are ...
+Keywords: e-Learning concepts, e-Learning, ComputerScience/Human-Computer Interaction/
+
+Laboratory of Applied Informatics Research
+The Laboratory of Applied Informatics Research (LAIR ) at Indiana University, Bloomington (IUB) conducts research on information retrieval, machine learning, and human-computer interaction. The website provides links to information on various projects that address topics such as "agent-based ...
+Keywords: Computers, Computers -- Research, Science, Science -- Technology
+
+Research Projects of the Laboratory of Applied Informatics Research
+The Laboratory of Applied Informatics Research (LAIR ) at Indiana University, Bloomington (IUB) conducts research on information retrieval, machine learning, and human-computer interaction. The website provides links to information on various projects that address topics such as "agent-based ...
+Keywords: Computers, Computers -- Research, Science, Science -- Technology
+
+Human-Computer Interaction Group (HCI)
+A group founded in 1984 to pursue research into the design and evaluation of interactive systems. Its interdisciplinary approach integrates rigorous formal methods from the latest software engineering research with theories of perception, learning, and error developed within cognitive and social ...
+Keywords: Computer Systems
+
+Kids Design the Future
+The Human Computer Interaction Lab at the University of Maryland wants children to have "a voice in making new technology for kids." To meet this goal, the group have organized a technology design team which brings together children (ages seven to eleven) and researchers from computer science, ...
+Keywords: Technology, Technology and children, Technology -- Study and teaching, Technology -- Study and teaching (Elementary), Social studies, Social studies -- 
+
+Speech-Driven Computer-Aided Design - Innovation in Human-Computer Interaction
+The use of computers in architectural design has shifted from what initially was a very numerical approach into a graphical way and thus into a designerly way of working. Through the extensive use of WIMPs CAAD packages today are more or less user-friendly. In the meantime the ever increasing ...
+Keywords: Electronic Design Media, Human-Computer Interaction, Design
+
+Integrating Generative Modelling and Design Process
+While researchers learn to generate design options with a computer, the question of how a designer interacts with these options remains largely unexcavated. This paper explores how a generative system should interact with a designer. It argues that limitations in human cognition require a designer ...
+Keywords: human-computer interaction, generative design, creativity, design process, 3D modelling
+
+Video Lectures: Computer Science
+The main purpose of the project Videolectures.Net is to provide free and open access of a high quality video lectures presented by distinguished scholars and scientists at the most important and prominent events like conferences, summer schools, workshops and science promotional events from many ...
+Keywords: algorithmic information theory, algorithms and data structures, artificial intelligence, bioinformatics, chemoinformatics, computer graphics, computer vision, cryptography and security, databases, data mining, data visualization, decision support, digital signal processing, evolutionary computation, fuzzy logic, grid computing, human computer interaction, image analysis, information extraction, information retrieval, intelligent agents, interviews, logic, machine learning, natural language processing, network analysis, optimization methods, programming languages, robotics, search engines, semantic web, software and tools, spatial data structures, speech analysis, text mining, web mining, web search
+
+What do Prototypes Prototye?
+The authors propose a better language and use for prototypes and prototype testing. "Prototypes are widely recognized to be a core means of exploring and expressing designs for interactive computer artifacts. It is common practice to build prototypes in order to represent different states of an ...
+Keywords: why prototype, types of prototypes, prototype testing
+
+Making Designs Come Alive: Using Physically Based Modeling Techniques in Space Layout Planning
+This paper introduces the concept of responsive design. It elaborates this concept as an approach to free form, adaptable, automated design applying physically based modeling techniques to the design process. Our approach attempts to bridge the gap between totally automated design and the free form ...
+Keywords: Physically Based Space Layout, Physically Based Design, Responsive Design, Space Layout Planning, Computer-aided Design, Human-computer Interaction
+
+Focused Sharing of Information for Multidisciplinary Decision Making by Project Teams
+Today's electronic and paper-based approaches to the sharing of project information do not scale to the information sharing and interaction challenges of multi-disciplinary project team meetings. The inability to share and interact with information easily and effectively is one of the biggest ...
+Keywords: Interactive Workspaces, Product Modeling, Human-Computer Interaction, Decision Support, 4D Modeling
+
+CS 160:: User Interface Design, Prototyping and Evaluation
+CS 160 is an introduction to Human Computer Interaction (HCI). You will learn to prototype, evaluate, and design a user interface. You will be expected to work with a group of other students in this project-based course. Your team's semester-long project will be proposed by your group. Project ...
+Keywords: user interface design, prototyping, human-centered computing, software prototyping, user interfrace prototyping, software evaluation
+
+GENERATIVE INTERFACES AND SCENARIOS - INTERACTION IN INTELLIGENT ARCHITECTURE
+New media and modern building automation have a strong impact on contemporary architecture. So far one could regard built architecture as static. These new technologies introduce a dynamic impulse to architecture. The objective of our research and teaching work is to demonstrate the impact of ...
+Keywords: CAAD Curriculum, Human-Computer Interaction, Web-Based Design, Building Automation, Generative Graphical Interfaces
+
+Cityscape Computing System
+The central feature of the project is the development of a computer and its interfaces to simulate urban space and, in the context of an intermedia city tour, to allow citizens to creatively influence their urban space by manipulating media structures at chosen points throughout the city. A master ...
+Keywords: Interactive Urbanism, Media Installation, Human-Computer-Interaction
+
+Communicating with Space and People - Smart Interface Design for Enhancing User Awareness and Interactions
+Smart space design has become an important research paradigm because of the emerging information and communication technology, smart materials, and sensory technology. A space equipped with human-computer interfaces, communicates not only with space but also with its occupants. In previous ...
+Keywords: Smart space, human computer interaction, interface design, house sense, commonsense
+
+A Model for Integrated Spatial and Structural Design of Buildings
+Recent advances in computer graphics and 3D user interfaces have enabled the emergence of 3D sketch modeling as a viable approach to architectural design, especially in the early schematic phase. This paper describes how a system can be built and used which integrates the capabilities of a good ...
+Keywords: Structural Design, Spatial Design, Design Integration, Human-Computer Interaction, Feature-Based Modeling, Finite Element Analysis, Geometric Inference
+
+Design Space Analysis as "Training Wheels" in a Framework for Learning User Interface Design
+Abstract from Chi 1995: "Learning about design is a central component in education for human-computer interaction. We have found Design Space Analysis to be a useful technique for students learning user interface design skills. In the FLUID tool described here, we have combined explicit instruction ...
+Keywords: conceptual design space, HCI education, Design Space Analysis, design rationale, design skills, interactive multimedia
+
+Design in virtual environments using architectural metaphor : a HIT lab gallery
+This thesis explores the application and limitations of architectural metaphor in the design of virtual environments. Architecture, whether physical or virtual, is the expression of a society realized as meaningful space. Physical and virtual architecture have their own constraints and context, yet ...
+Keywords: Virtual Reality, Human-Computer Interaction
+
+The Invention Factory
+The Invention Factory is a nontraditional youth-based, after-school program in Honolulu that teaches information technology and mechanics to teenagers through interactive, hands-on projects that improve human computer interaction for individuals with disabilities. One objective of the program is to ...
+Keywords: Science and Technology, Teaching Standards, Science as Inquiry
+
+Exporting the Studio Model of Learning
+We have conducted a series of interdisciplinary studios that partner students in the School of Architecture with peers in the College of Computing Sciences, with two principal goals: to foster creativity in the development of information technology, and conversely, to support creativity through ...
+Keywords: interdisciplinary design studio, ubiquitous social computing, computer supported collaborative work, human computer interaction
+
+CAPTCHA Project: Telling Humans and Computers Apart (Automatically)
+Many online services are being inundated by new users that are not people at all, but rather computer programs designed to sign up for thousands of free email accounts, cast votes in online polls, or perform other automated tasks. Since there needs to be some way to tell whether a user is a human or ...
+Keywords: Computers -- Social aspects, Human-computer interaction -- Research, Computer science -- Research, Computer programs -- Human interaction
+
+CANVAS at the Krannert Art Museum
+CANVAS --the Collaborative Advanced Navigation Virtual Art Studio, housed at the Krannert Art Museum, University of Illinois, Champaign--is a three-screened, back-projectioned virtual-reality open lab for research and teaching projects by faculty in the fine and applied arts and other areas of the ...
+Keywords: Computer science, Mathematics, human-computer interaction, computer graphics, virtual reality, multimedia presentation, art and technology
+
+The Institute for the Interdisciplinary Study of Human &amp; Machine Cognition
+The Institute for the Interdisciplinary Study of Human &amp; Machine Cognition (IHMC) is an interdisciplinary research unit of the University of West Florida. Researchers and staff at the IHMC investigate "a broad range of topics related to understanding cognition in both humans and machines with a ...
+Keywords: Human-machine systems., Human-computer interaction -- Research, Cognition, Science, Science -- Engineering, Science -- Technology, Science -- Process skills
+
+iSphere: A Proximity-based 3D Input Interface
+This paper presents a 24 degree of freedom input device for 3D modeling. iSphere uses the proximity information of pulling-out and pressing-in capacitive sensors to manipulate 12 control points of a 3D surface simultaneously . The iSphere dodecahedron is demonstrated manipulating an analog ...
+Keywords: 3D input device, proximity sensing, parametric modeling, human-computer interaction
+
+An Interface Proposal for Collaborative Architectural Design Process
+The aim of this paper is to explore how new technological opportunities affect approaches of designers during collaborative architectural design process. Which factors affect the communication and the quality of interaction? The study is based on two phases: the data input by the designer via ...
+Keywords: Collaborative design, human-computer interaction, user participation in design
+
+Realestate online information systems
+Several commercial real-estate sites provide listings of available commercial property on the Internet. These listings are generated on the basis of selection criteria as floor area, price and location. Despite the obvious utility of the listings and their promise for the transaction process and ...
+Keywords: e-commerce, human-computer interaction, building information systems, web-based communication
+
+Towards a natural and appropriate Architectural Virtual Reality: the nAVRgate project. Past, present, future
+The lure of virtual environments is strong and the apparent potential is enticing. But questions of how Human Computer Interaction (HCI) issues should be handled and married with best practice in Human-Human Interaction (HHI) remains largely unresolved. How should architectural images and ideas be ...
+Keywords: Virtual Environments, Navigation, Interaction, Perception
+
+Using Hand Movement System to Operate 3D Objects in Virtual Environment
+This study integrates infrared distance measuring sensors and applies wrist rotations and hand movements to replace the space operations of conventional mouse and Data Glove. Through an array of infrared distance measuring devices, the position and direction of the hand in the space can be precisely ...
+Keywords: Input Device, Hand Movement, Human-Computer Interaction, InfraredDistance Measuring, Virtual Environment
+
+Assistance to Coordination in the AEC Sector - A multi-view interface dedicated to building construction activity
+In the Architecture Engineering and Construction (AEC) sector, cooperation between actors is essential for projects success. During the building construction activity, organization is both hierarchical and adhocratic. Decision assistance tools have to integrate these heterogeneous parameters. The ...
+Keywords: Decision system, Coordination, Building construction, Multi-view interface, Product and process modelling, Human-computer interaction
+
+Intelligence Technologies as a Means of Enhancing Spatial Experience
+Following the evolution of human-computer interaction to date, intelligent user interfaces (IUIs) seem to be one of the most important paradigms for future research. ?Intelligent? or quasi-intelligent behaviour may be applied to both virtual (intelligent virtual environments) and real space (Ambient ...
+Keywords: Ambient Intelligence, environmental design, activity theory, adaptation
+
+iSphere:A free-hand 3D modeling interface
+Making 3D models should be an easy and intuitive task like free-hand sketching. This paper presents iSphere, a 24 degree of freedom 3D input device. iSphere is a dodecahedron embedded with 12 capacitive sensors for pulling-out and pressing-in manipulation on 12 control points of 3D geometries. It ...
+Keywords: 3D Input Device, Proximity Sensing, Parametric Modeling, Human-Computer Interaction
+
+Evaluating Workflow and Modeling Strategies of Pen Computing in the Beginning Architectural Design Studio
+This paper investigates the impact of Tablet PCs on the workflow in an undergraduate design studio. We examined how well the students adapted the Tablet PC into their day-to-day design work and evaluated the appropriateness of the Tablet PC as a common digital tool used in an architectural design ...
+Keywords: Digital Design Education, Human-Computer Interaction, 3D Modeling, Pen Computing, Task Analysis
+
+MAS.961 Ambient Intelligence, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: ubiquitous computing, wearable computing, pervasive computing, HCI, Artificial Intelligence and Robotics, Media Arts and Sciences, smart networked objects, augmented and mixed realities, tangible computing, smart environments, intelligent interfaces, Industrial and Organizational Psychology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.965 Relational Machines, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Media Arts and Sciences, language processing, human relationships, machine teammates, Artificial Intelligence and Robotics, emotional expression, representation and manipulation, interactive learning, ambient agent interaction, collaboration, emotional design, measuring relationships and interactions, wearable agent interaction, tutorials, relational machines, technology, robotic therapy, assitive robotics for elderly, robotic pets
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.964 Common Sense Reasoning for Interactive Applications, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: user goals, culture, common sense knowledge, artificial intelligence, partial knowledge, Media Arts and Sciences, semantics, common sense reasoning, language, knowledge collection, inference, human-computer interaction, machine understanding, education, interface design, interactive applications, knowledge quality
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.630 Affective Computing, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: creativity, decision-making, Numeracy and Computational Skills, Media Arts and Sciences, emotion, perception, learning, autism, neuroscience
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Non-Visual Haptic Interaction Design - Guidelines and Applications
+This dissertation has three cornerstones:??* Haptics ?* Human-Computer Interaction (HCI) ?* Blind Users ??Haptics deals with controlling human movements and getting feedback through the sense of touch. A haptic interface transmits forces to a person?s hand or fingers in a way that mimics the ...
+Keywords: Haptics, Human-Computer Interaction, Blind People, Design Guidelines, Computer Access
+
+Responsive Architecture: User-centered Interactions within the Hybridized Model of Control
+In the September 1969 issue of Architectural Design, Andrew Rabeneck wrote about the use of cybernetic devices within an automated architecture. He hypothesized that the concept of ?flexibility? was introduced to architecture because existing building technologies were inherently inflexible. He ...
+Keywords: Responsive architecture, User-centred design, HCI, Intelligent buildings
+
+The Constructed Image
+Rendering engines produce ever higher degrees of photorealism, and the process of image-making becomes increasingly automated. Architects benefit from this, but they also pay a price. They exchange local control at the tip of a pencil for global control through a list of variables. They exchange ...
+Keywords: computer rendering, hand drawing, hybrid media, human-computer interaction
+
+Coastline--Seamless Articulation Program for Informatics Recruitment and Intersegmental Transfer (C-SPIRIT)
+This collaborative Coastline-Seamless Articulation Program for Informatics Recruitment and Intersegmental Transfer (C-SPIRIT) project is creating a fully articulated Informatics program between Coastline Community College and the University of California, Irvine. Informatics is defined as a focus on ...
+Keywords: Science -- Technology, Science -- Instructional issues
+
+The Effect of Stereovision on the Experience of VR Models of the External Surroundings and the Interior of a Building
+Virtual reality offers considerable promise with regard to facilitating the building process. A good example is the facilitation of communication between architects and building companies, sellers and buyers or between community planners and the general public. It is often thought that in order to ...
+Keywords: Design Process, Virtual Environments, Human-Computer Interaction, 3D City Modelling, Environmental Simulation
+
+Pi-Resolution in Design Space Exploration
+In studying the phenomenon of design we use models to envision mechanisms by which computers might support design. In one such model we understand design as guided movement through a space of possibilities. Design space explorers embody this model as mixed-initiative environments in which designers ...
+Keywords: Design Space Explorers, Typed Feature Structures, Functional Decomposition, Mixed Initiative
+
+Virtual environments in architecture and planning design: 4 possible approaches
+Advancements in information retrieval (IR), local and wide area networks (LAN, WAN) and the Internet, human-computer interaction (HCI), and virtual reality (VR) technologies have enabled the emergence and availability of affordable real-time computer data visualisation and manipulation systems that ...
+Keywords: Virtual Reality, Virtual Environment, Collaborative Design
+
+Cornucopia Limited: Design and Dissent on the Internet
+The Internet provides a remarkable demonstration of the persistence of the gift in contemporary commerce. Net enthusiasts seem prepared to donate much to the common good. This generous spirit ought to strike resonances with the culture of design, which generally promotes a creative ethos of ...
+Keywords: design computing digital media economics threshold trickster e-commerce
+
+The Electronic Neighbourhood - A New Urban Space
+During the event Cultural Market Days on 23 and 24 August 2003 at Noerrebro Park in Copenhagen, visitors could also enter the marketplace from their home via the Internet, as a digital 3D model had been constructed that showed the marketplace with all its information booths and activities. This ...
+Keywords: 3D Modelling, Virtual Environments, Design Process, Human-Computer Interaction, Collaborative Design, Urban Planning
+
+Structural Feel or Feelings for Structure? - Stirring Emotions through the Computer Interface in Behaviour Analysis of Building Structures
+The use of computers in the analysis of architectural structures has at present become indispensable and fairly routine. Researchers &amp; professionals in architecture and engineering have taken advantage of current computer technology to develop richer and more comprehensive interactive interfaces ...
+Keywords: Affective Interfaces, Human-Computer Interaction, Computer-Aided-Engineering 

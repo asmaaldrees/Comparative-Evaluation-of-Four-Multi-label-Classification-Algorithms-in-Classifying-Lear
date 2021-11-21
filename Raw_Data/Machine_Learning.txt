@@ -1,0 +1,254 @@
+The inspiration for the design of the course module
+This module introduces a short course on the applications of statistical machine learning to three problems in computational bioogy: genefinding, molecular classification of cancers using microarray data, and inferring signaling and regulatory networks from microarray, and protein interaction data. ...
+Keywords: Bayesian networks, classification using microarray data, computational biology, genefinding, inference of regulatory and signaling networks, statistical machine learning, support vector machines
+Rights: http://creativecommons.org/licenses/by/2.0/
+
+Weka Machine Learning Project
+If you are inspired to try the process, the Weka Machine Learning Project from Waikato University offers open source software that can be used for data mining tasks. Visitors can also find the projects 1993 to 2006 publications, many of which are available for free in as PDFs. The "related" section ...
+Keywords: Mathematics, Mathematics -- Technology, Mathematics -- Applied mathematics, Mathematics -- Patterns
+
+Cartoon: Machine Learning
+A cartoon that can be used in teaching about Machine Learning estimation techniques. Cartoon by John Landers (www.landers.co.uk) based on an idea from Dennis Pearl (The Ohio State University). Free to use in the classroom and on course web sites.
+Keywords: Statistical Inference and Techniques
+
+The Use of Decision Trees in the Modeling of a Waste Water Treatment Plant
+Wastewater treatment plants (WWTP) are dynamic and complex systems, the management of which can be improved by different approaches to modeling and predicting teir operation. Machine learning tools (decision trees) were used to build useful prediction models for wastewater treatment plant ...
+Keywords: wastewater, wastewater treatment plant, modeling, machine learning, decision trees
+
+Machine Learning - Connectionism
+This document considers Artifical Intellegence (AI) and neural works
+Keywords: ukoer, AI, neural works, perceptrons, -, Information and Computer Sciences, Creative Arts and Design
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Data Mining Theory
+Data Mining is a technique to discover meaningful knowledge from massive data.
+Keywords: sement, statistics, machine learning, data retrieval, decision tree
+
+6.867 Machine Learning, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: modern machine learning methods, linear regression, support vector machines, Electrical Engineering and Computer Science, boosting, Electrical Electronics and Communications Engineering, machine learning algorithms, model selection, classification, hidden Markov models, linear/additive models, statistical inference, active learning, Bayesian networks, generalization, representation
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Text Scrubbing Part I
+Medical Text Scrubbing, AI and Architecture, Dictionaries and Rules, Machine Learning and Trained Systems
+Keywords: Social Sciences
+
+Artificial Intelligence and Machine Learning
+Course website with syllabus, lectures, handouts, assignments, exams and software. One can also view the lectures as video. "This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, ...
+Keywords: artificial intelligence, machine learning, probability theory
+
+Statistical machine learning for computational biology
+The course is the second module of a three module course entitled "Bioinformatics: from sequence to structure". This course focuses on learning statistical models from biological data. Three problems are covered: gene finding, classification of gene expression data, and inferring regulatory networks ...
+Keywords: bayesian networks, classification of microarray data, computational gene finding, Hidden Markov models, learning regulatory networks from microarray and proteomic data, stasistical machine learning, support vector machines
+Rights: http://creativecommons.org/licenses/by/2.0/
+
+NASA: Machine Learning Systems
+The Machine Learning Systems (MLS) Group at NASA's Jet Propulsion Laboratory conducts basic and applied research with a focus on finding "software solutions to hard problems requiring data mining, knowledge discovery, pattern recognition, and automated classification and clustering." In particular, ...
+Keywords: Computer software, Space sciences, Space sciences -- Technological innovations, Science, Science -- Space sciences
+
+Artificial Intelligence Research Laboratory at Iowa State University
+The web site of the Artificial Intelligence (AI) Research Laboratory at Iowa State University, which provides overviews of the laboratory's research programs: AI, machine learning, data mining, information integration, semantic web, and informatics in several areas of science. The research pages ...
+Keywords: Artificial intelligence, Bioinformatics, Learning theory, Cognitive science, Machine learning, Computational biology, Data mining, information technology
+
+JMLR Special Issue on Shallow Parsing
+The Journal of Machine Learning Research (JMLR) is a publication that addresses new methods, techniques, and developments in this area of study. The topic of this special issue of the JMLR is shallow parsing. There are six papers that consider how natural language sentences can be analyzed and ...
+Keywords: Artificial intelligence, Natural language processing (Computer science), Artificial intelligence -- Research, Natural language processing (Computer science) -- Research.
+
+Introduction
+This is introductory module to the innovative research-oriented course of Bioinfomatics at the advanced undergraduate or beginnig graduate level. The course concerns computational and statistical methods for problems which are coming to the forefront of bioinformatics as the Human Genome equencing ...
+Keywords: bioinformatics, DNA microarrays, gene expression, classification, machine learning, robotics, genetic networks
+Rights: http://creativecommons.org/licenses/by/1.0
+
+INDOOR NAVIGATION AND WORKPIECE OUTLINE RECOGNITION FOR AUTONOMOUS CONSTRUCTION MACHINERY
+We study basic functions for autonomous construction machines, such as indoor navigation, workpiece outline recognition and machine learning method. The indoor navigation is based on laser scanners and 2D map matching of the surrounding walls. The positioning results are accurate in spite of ...
+Keywords: autonomous, indoor navigation, vision system, recognition, machine learning
+
+STAR methodology-based learning about construction accidents and their prevention
+This paper presents the results of a feasibility study concerning the application of STAR-methodology-basedmachine learning to construction accidents and their prevention. A ten-stage knowledge acquisition process is presented and its individual stages described. Knowledge about construction ...
+Keywords: Construction accidents and their prevention, Knowledge acquisition, Machine learning, Multi-stepmachine learning process
+
+Data Mining and Machine Learning
+Common applications of data mining include fraud detection and marketing, but data mining has also been applied in paleoecology, and medical genetics as described on this website from the University of Helsinki. The project "develops methods and tools for analyzing large data sets and for searching ...
+Keywords: Mathematics, Mathematics -- Technology, Mathematics -- Applied mathematics
+
+Statistics 202: Statistical Aspects of Data Mining
+This is the Google campus version of Stats 202 which was taught at Stanford invsummer (2007). The material can be found at www.stats202.com. The main topics are exploring and visualizing data, association analysis, classification, and clustering. The textbook is Introduction to Data Mining by Tan, ...
+Keywords: machine learning, data mining, knowledge discovery, statistics
+
+Towards a Multi Agent System for the Support of Collaborative Design
+In this paper we are drafting the outline of a framework for a Multi Agent System (MAS) for the support of Collaborative Design in the architectural domain. The system we are proposing makes use of Machine Learning (ML) techniques to infer personalized knowledge from observing a users? action in ...
+Keywords: Multi Agent Systems, Design &amp, Decision Support Systems, Collaborative Design, Human Computer Interfaces, Machine learning, Data Mining
+
+Master of Science in Robotics
+"This new and unique program administered by the GRASP Lab of the University of Pennsylvania will educate students in the interdisciplinary aspects of the science and technology of robotic and intelligent machines. The modern expert in robotics and intelligent systems must be proficient in ...
+Keywords: robotics, mechatronics, reconfigurable robots
+
+Sequence-based prediction in the conceptual design of bridges
+This paper explores the application of a machine learning technique in knowledge support systems in civil engineering design. It presents a sequence-based prediction method for engineering design and demonstrates its utility in the conceptual design of bridges. The basic idea of sequence-based ...
+Keywords: Machine Learning, Time
+
+6.892 Computational Models of Discourse, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: natural language, automatic discourse processing, plan recognition algorithms, speech processing, automatic essay writing, Speech and Rhetorical Studies, symbolic learning, machine learning, discourse analysis, models of coherence and cohesion, discourse structure, text segmentation, Electrical Engineering and Computer Science, dialogue systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.864 Advanced Natural Language Processing, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: text processing, voice response, translation, NLP, lexical, linguistics, machine learning, lexicon, parsing, Artificial Intelligence and Robotics, syntax, dialogue, comprehension, speech processing, language model, speech recognition, speech generation, understanding, voice processing, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Active Learning Challenge
+This challenge addresses machine learning problems in which labeling data is expensive, but large amounts of unlabeled data are available at low cost. Such problems might be tackled from different angles: learning from unlabeled data or active learning. In the former case, the algorithms must ...
+Keywords: causality, virtual lab, active learning
+
+3D City Modeler with Fuzzy Multiple Layers Perceptron: Application of soft computing in computer aided architectural design systems
+A computer aided design (CAD) system that can store the design knowledge of users is proposed. Specifically, a computer system for generating 3D city models from satellite images is formulated, implemented and tested. Techniques from neural networks, fuzzy systems, image processing, pattern ...
+Keywords: Architectural Rendering, Computer Simulation
+
+BEARS conference UC Berkeley
+The Berkeley EECS Annual Research Symposium (BEARS) is a conference hosted by UC Berkeley's Electrical Engineering and Computer Sciences department in the College of Engineering. This website provides the agenda for the 2005 BEARS (held on February 10 and 11) along with information on the presenters ...
+Keywords: Computer science, Engineering, Engineering -- Research, Computer science -- Research, Science, Science -- Engineering, Science -- Technology
+
+Topic in Depth - Data Mining
+This Topic in Depth explores data mining, also known as knowledge discovery in databases. Data mining is used to extract implicit, previously unknown, but potentially useful information from raw data. It is a blend of three main subjects: statistics, artificial intelligence, and machine learning. ...
+Keywords: Science -- Technology, Mathematics -- Applied mathematics
+
+The topics of CAAD: An evolutionary perspective ? a research for representing the space of CAAD
+This paper is concerned with the ongoing changes and the evolution of CAAD using machine-assisted techniques. It is feasible to create a hypothesis of the identity of the discipline depicted in the archived published output, and semantically link it to the data cloud. This allows for expansion of ...
+Keywords: Ontology, clustering, metrics, machine learning, data mining
+
+UC Berkeley: Webcast of EECS Annual Research Symposium
+The Electrical Engineering and Computer Sciences (EECS) at UC Berkeley hosted its first annual BEARS conference in 2004. The series of events gave EECS researchers an opportunity to present "significant new research thrusts and accomplishments." A webcast of the conference and accompanying ...
+Keywords: Engineering, Engineering -- Computer network resources, Engineering -- Congresses, Science, Science -- Engineering
+
+Active Control Of Indoor Environmental Quality
+This paper presents a methodology for the integrated control of Indoor Environmental Quality. The most important aspect of the methodology is the treatment of the task as a multi-objective optimization problem. Appropriate control actions that achieve reasonable tradeoffs among conflicting ...
+Keywords: building automation, control, multi-objective optimization, indoor environmental quality
+
+Artificial Intelligence Topics
+Artificial Intelligence Topics is a virtual library that provides basic, understandable information and non-technical resources on artificial intelligence, with an emphasis on material available online. Materials include interactive features, video clips, papers, textbooks, databases, information on ...
+Keywords: Artificial intelligence, Technology, Robotics, Computer science, Engineering
+
+Laboratory of Applied Informatics Research
+The Laboratory of Applied Informatics Research (LAIR ) at Indiana University, Bloomington (IUB) conducts research on information retrieval, machine learning, and human-computer interaction. The website provides links to information on various projects that address topics such as "agent-based ...
+Keywords: Computers, Computers -- Research, Science, Science -- Technology
+
+Research Projects of the Laboratory of Applied Informatics Research
+The Laboratory of Applied Informatics Research (LAIR ) at Indiana University, Bloomington (IUB) conducts research on information retrieval, machine learning, and human-computer interaction. The website provides links to information on various projects that address topics such as "agent-based ...
+Keywords: Computers, Computers -- Research, Science, Science -- Technology
+
+Video Lectures: Economics
+The main purpose of the project Videolectures.Net is to provide free and open access of a high quality video lectures presented by distinguished scholars and scientists at the most important and prominent events like conferences, summer schools, workshops and science promotional events from many ...
+Keywords: machine learning, marketing, leadership, management, networked organizations, transportation and logistics, venture capital, virtual enterprises
+
+BEARS conference UC Berkeley
+The Berkeley EECS Annual Research Symposium (BEARS) is a conference hosted by UC Berkeley's Electrical Engineering and Computer Sciences department in the College of Engineering. This website provides the agenda for the 2005 BEARS (held on February 10 and 11) along with information on the presenters ...
+Keywords: Engineering, Engineering -- Research, Computer science, Computer science -- Research, Science, Science -- Engineering, Science -- Technology
+
+Searching with Experience
+This paper describes the motivation and development of a new algorithm for ranking web pages. This development aims to enable the implementation of a search engine that can provide highly personalised results to queries. It was initiated by a request from the Dutch CAD industry, but has generic ...
+Keywords: search engine, page ranking, product information, construction supply chain, machine learning
+
+PROJECT EMD-MLR: Educational Materials Development through the Integration of Machine Learning Research into the Senior Design Projects
+This project focused on Machine Learning (ML) and has the following objectives: 1) the development of educational material in the form of software implementations of ML algorithms and the compilation of accompanying documentation; 2) the creation of an on-line ML Repository via the archiving of the ...
+Keywords: Science, Science -- Technology
+
+16.413 Principles of Autonomy and Decision Making, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: propositional inference, execution, a.i., uncertainty, reasoning, autonomous systems, Markov processes, decision analysis, constraint satisfaction, reinforcement learning, limitations, local stochastic search, function approximators, network optimization, genetic algorithms, decision trees, scheme, operations research, search trees, artificial intelligence, algorithms, plan spaces, logic, optimization algorithms, decision theoretic planning, linear programming, heuristic search, constraint-based search, tradeoffs, learning algorithms, decision support, decision-making, web-based, state, Aeronautics and Astronautics, integer programming, model theory, constraints, Operations Research, neural nets, model-based reasoning, autonomy, Decision making, stochastic, Markov decision process, game tree search, propositional logic, system state, satisfaction, deduction, planning, dynamic programming, machine learning, 16.413, rule-based systems, search and reasoning, model-based diagnosis, computational performance
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Data Mining
+Data Mining, also known as Knowledge Discovery in Databases, is a process used to extract implicit, previously unknown, but potentially useful information from raw data. This first website (1) provides a basic overview of Data Mining and some applications for the process. Common applications of data ...
+Keywords: Data mining, Data mining -- Automation, Data mining -- Research, Science, Science -- Technology
+
+Video Lectures: Computer Science
+The main purpose of the project Videolectures.Net is to provide free and open access of a high quality video lectures presented by distinguished scholars and scientists at the most important and prominent events like conferences, summer schools, workshops and science promotional events from many ...
+Keywords: algorithmic information theory, algorithms and data structures, artificial intelligence, bioinformatics, chemoinformatics, computer graphics, computer vision, cryptography and security, databases, data mining, data visualization, decision support, digital signal processing, evolutionary computation, fuzzy logic, grid computing, human computer interaction, image analysis, information extraction, information retrieval, intelligent agents, interviews, logic, machine learning, natural language processing, network analysis, optimization methods, programming languages, robotics, search engines, semantic web, software and tools, spatial data structures, speech analysis, text mining, web mining, web search
+
+Machine Learning for Expert Systems : Motivation and Techniques
+Computational models of solid objects are potentially useful in a variety of scientific and engineering fields, and in particular in the field of design and manufacturing automation for the mechanical industries. In recent years a multitude of modelling systems have been implemented both by research ...
+Keywords: solid modeling, geometric modeling
+
+Electronic Statistics Textbook
+This Electronic Statistics Textbook offers training in the understanding and application of statistics. The material was developed at the StatSoft; D department based on many years of teaching undergraduate and graduate statistics courses and covers a wide variety of applications, including ...
+Keywords: statistics, probability, ANOVA, classification trees, cluster analysis, experimental design, discriminant analysis, factor analysis, linear models, linear regression, neural networks, quality control, data mining, text mining, estimation, machine learning, time series, forecasting
+
+Liz's Research Interests
+Artificial intelligence projects include; a href="http://www.cs.colorado.edu/~lizb/Chaography/Chaography.html"&gt;Chaography&lt;/a&gt;, a pair of tools that use mathematics to generate choreographic variations: Chaographer, which uses a chaotic mapping to generate variations on a musical piece; ...
+Keywords: Algorithms, Artificial Intelligence, Chaos, Differential Equations, Music, Nonlinear Dynamics, Topology
+
+Outside the Box-HVAC Management Techniques That Consider the World Around Them
+This paper summarises CSIRO's work on intelligent HVAC management techniques, with a particular focus on techniques designed to participate in demand management programmes. Such programmes are of significant interest, seen as a way of reducing expenditure and minimizing energy consumption in ...
+Keywords: HVAC management techniques
+
+Making Rebuttals Available Digitally for Minimising Biases in Mental Judgements
+The problem of heuristic biases (illusions) discussed by Tversky and Kahneman (1982) that can lead to errors in judgement by human designers, when they use precedent knowledge presented graphically (Bay 2001). A Cognitive framework of belief, goal, and decision, and a framework of representation of ...
+Keywords: analogy, bias, design thinking, environmental design, heuristics
+
+Open, Self Organising Repository for Scientific Information Exchange
+In the paper-based world, CAAD-associations, such as SIGRADI, and scientific publishers aim at getting the right people together and for making sure their work gets distributed to their peers. Electronic networks, such as the Internet, are providing scientists with the means to pursue those ...
+Keywords: Scientific Knowledge Management, Retrospective CAAD Research, CAADrelated Publications, Web-based Bibliographic Database, Machine Learning
+
+HST.951J Medical Decision Support, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: decision support, classification trees, computer-based diagnosis, neural networks, learning systems, Health Sciences and Technology, Health/Health Care Administration/Management, therapeutic interventions, knowledge-based systems, logistic regression, rough sets, predictive model construction, evaluation, machine learning methods, Electrical Engineering and Computer Science, artificial intelligence, decision analysis, planning monitoring, medical software
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.096 Algorithms for Computational Biology, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: clustering algorithms, machine learning applications, RNA folding, scale-free networks, genome duplication, gene finding, Bioinformatics, biological sequence analysis, genome assembly, genome rearrangements, evolutionary theory, gene expression, motif discovery, comparative genomics, Electrical Engineering and Computer Science, global and local sequence alignment
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+An Intelligent Assistant for the Architectural Design Studio
+It seems by now fairly accepted by many researchers in the field of the Computer Aided Design that the way to realise support tools for the architectural design is by means of the realisation of Intelligent Assistants. This kind of computer program, based on the Knowledge Engineering and ...
+Keywords: Design Studio
+
+Collective Intelligence in Action
+"There's a great deal of wisdom in a crowd, but how do you listen to a thousand people talking at once? Identifying the wants, needs, and knowledge of internet users can be like listening to a mob. In the Web 2.0 era, leveraging the collective power of user contributions, interactions, and feedback ...
+Keywords: collective intelligence, data mining
+
+
+HST.951J Medical Decision Support, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: rough sets, Health Sciences and Technology, therapeutic interventions, HST.951, predictive model construction, planning monitoring, Health/Health Care Administration/Management, neural networks, 6.873, machine learning methods, decision analysis, artificial intelligence, Electrical Engineering and Computer Science, learning systems, computer-based diagnosis, evaluation, logistic regression, medical software, knowledge-based systems, Medical technology, classification trees, decision support
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.095J Computational Biology: Genomes, Networks, Evolution, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: evolutionary theory, scale-free networks, network evolution, phylogenetics, regulatory motifs, network motifs, Electrical Engineering and Computer Science, genome duplication, graph algorithms, gene finding, genome assembly, rapid evolution, sequence alignment, Networks: Gene expression analysis, genome rearrangements, RNA folding, hidden Markov models, Evolution: Comparative genomics, Genomes: Biological sequence analysis, Bioinformatics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.512 Genomic Medicine, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: bioethics, genomic measurement, genetic disease, individual pharmacology, computational biology, informatics, complex traits, genomic technologies, microarray, genetics, Biotechnology, genomes, genomics, bioinformatics, pharmacogenomics, cancer diagnostics, genomic medicine, Health Sciences and Technology, machine learning, integrative genomics, biomedical
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.465 Topics in Statistics: Statistical Learning Theory, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Mathematics, concentration inequalities in product spaces, boosting, Mathematical Statistics and Probability, neural networks, empirical process theory, Vapnik- Chervonenkis theory, support vector machines, machine learning algorithms
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.092 Bioinformatics and Proteomics, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: signal processing, robotics, biotechnology applications, Electrical Engineering and Computer Science, actual implementations, machine learning, Bioinformatics, scale-free networks, sequence analysis, proteomics, control theory, network theory, engineering design issues, bioinformatics, Bayesian methods, microarray expression analysis, real-world examples
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Perception Aspects in Underground Spaces using Intelligent Knowledge Modeling
+The intensification, combination and transformation are main strategies for future spatial development of the Netherlands, which are stated in the Fifth Bill regarding Spatial Planning. These strategies indicate that in the future, space should be utilized in a more compact and more efficient way ...
+Keywords: Underground Space, Perception, Soft Computing
+
+6.804J Computational Cognitive Science, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Cognitive Science, cognitive science, 9.660, inductive learning, artificial intelligence, computational theory, machine learning, human cognition, innate knowledge, inductive reasoning, human knowledge representation, computational cognitive science, Electrical Engineering and Computer Science, 9.66, Brain and Cognitive Sciences, 6.804
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.963 Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: input, intelligent agent software, artificial intelligence, digital devices of the future, Media Arts and Sciences, computer systems, smart computers, context, Computer Software and Media Applications Other, context-aware application, computer systems that adapt
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.838 Algorithms for Computer Animation, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, computer animation, inverse kinematics, physical simulation, keyframing, algorithms, data-driven methods, optimization, optimal control, Animation Interactive Technology Video Graphics and Special, Computer animation, motion capture
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/ 

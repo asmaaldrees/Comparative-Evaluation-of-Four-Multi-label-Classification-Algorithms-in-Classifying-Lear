@@ -1,0 +1,321 @@
+Real-Time Embedded Systems - Embedded systems modelling
+This lecture forms part of the "Embedded systems modelling" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded systems modeling lecture, embedded systems modelling, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, embedded system modelling, embedded systems modelling lecture, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Embedded systems modelling
+This quiz forms part of the "Embedded systems modelling" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded systems modeling quiz, embedded systems modelling, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, embedded system modelling, embedded systems modelling quiz, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Embedded systems modelling
+This quiz forms part of the "Embedded systems modelling" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded systems modeling quiz, embedded systems modelling, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, embedded system modelling, embedded systems modelling quiz, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Introduction to Embedded Real-Time Systems &amp; Scheduling
+This lecture is the only part of the "Introduction to Embedded Real-Time Systems &amp; Scheduling" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded real-time systems lecture, embedded real-time scheduling, real-time embedded systems, real time embedded systems, real-time embedded system, real time embedded system, rtes, embedded systems, embedded real-time scheduling lecture, real-time embedded systems lecture, real time embedded systems lecture, real-time embedded system lecture, real time embedded system lecture, rtes lecture, embedded systems lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Embedded Systems
+Industry and embedded systems
+Keywords: Bus systems, Driver Development, Hardware, Signal processing, Software
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Real-Time Embedded Systems - Revision topics
+This lecture is the only part of the "Revision topics" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, real-time embedded systems lecture, real-time embedded systems revision, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems revision lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Readme file for Real-Time Embedded Systems
+This readme file contains details of links to all the Real-Time Embedded Systems module's material held on Jorum and information about the module as well.
+Keywords: ukoer, complete rate monotonic scheduling lecture, complete rate monotonic scheduling, complete rating monotonic scheduling lecture, complex rms scheduling lecture, complex rms scheduling, complex scheduling lecture, concurrency and determinism lecture, concurrency and determinism, concurrency lecture, concurrency, cyclic executives lecture, cyclic executives, cyclic scheduling lecture, cyclic scheduling, deadline monotonic scheduling lecture, deadline monotonic scheduling, determinism lecture, determinism, embedded real-time scheduling lecture, embedded real-time scheduling, embedded real-time systems lecture, embedded software development lecture, embedded software development practical, embedded software development quiz, embedded software development, embedded system lecture, embedded system modelling, embedded system, embedded systems lecture, embedded systems modeling lecture, embedded systems modeling quiz, embedded systems modelling lecture, embedded systems modelling quiz, embedded systems modelling, embedded systems, ES characteristics lecture, es chararcteristics, inter task communication lecture, inter task communication practical, inter task communication quiz, inter task communication, inter task communications lecture, inter task communications practical, inter task communications quiz, inter task communications, inter-task communications lecture, inter-task communications practical, inter-task communications quiz, inter-task communications, memory management lecture, memory management quiz, memory management, multi-tasking lecture, multi-tasking practical, multi-tasking quiz, multi-tasking, processing interrupts lecture, processing interrupts quiz, processing interrupts, real time embedded system lecture, real time embedded system practical, real time embedded system quiz, real time embedded system, real time embedded systems lecture, real time embedded systems practical, real time embedded systems quiz, real time embedded systems, real-time embedded system lecture, real-time embedded system practical, real-time embedded system quiz, real-time embedded system, real-time embedded systems lecture, real-time embedded systems practical, real-time embedded systems quiz, real-time embedded systems revision lecture, real-time embedded systems revision, real-time embedded systems, real-time operating system lecture, real-time operating system practical, real-time operating system quiz, real-time operating system, real-time operating systems lecture, real-time operating systems practical, real-time operating systems quiz, real-time operating systems, rtes lecture, rtes practical, rtes quiz, rtes, scheduling strategies lecture, scheduling strategies, scheduling strategy lecture, scheduling strategy, simple rate monotonic scheduling lecture, simple rate monotonic scheduling, simple real time system structure, simple real-time system structure lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Real-time operating systems
+This lecture forms part of the "Real-time operating systems" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, real-time operating systems lecture, real-time operating system, real-time operating systems, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time operating system lecture, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Complete Rate Monotonic Scheduling Example
+This lecture is the only part of the "Complete Rate Monotonic Scheduling Example" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, complete rating monotonic scheduling lecture, complete rate monotonic scheduling, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, complete rate monotonic scheduling lecture, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Complex RMS and Deadline Monotonic Scheduling
+This lecture is the only part of the "Complex RMS and Deadline Monotonic Scheduling" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, complex scheduling lecture, complex rms scheduling, deadline monotonic scheduling, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, complex rms scheduling lecture, deadline monotonic scheduling lecture, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Inter-task communications
+This lecture forms part of the "Inter-task communications" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, inter-task communications lecture, inter-task communications, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, inter task communications, inter task communication, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture, inter task communications lecture, inter task communication lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Multi-tasking demonstration and case studies
+This practical and code form part of the "Multi-tasking demonstration and case studies" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, multi-tasking practical, multi-tasking, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems practical, real-time embedded system practical, real time embedded systems practical, real time embedded system practical, rtes practical
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Introduction to embedded software development
+This quiz forms part of the "Introduction to embedded software development" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded software development, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, embedded software development quiz, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Real-time operating systems
+This practical and code form part of the "Real-time operating systems" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, real-time operating systems practical, real-time operating system, real-time operating systems, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time operating system practical, real-time embedded systems practical, real-time embedded system practical, real time embedded systems practical, real time embedded system practical, rtes practical
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Inter-task communications
+This quiz forms part of the "Inter-task communications" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, inter-task communications quiz, inter-task communications, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, inter task communications, inter task communication, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz, inter task communications quiz, inter task communication quiz
+Rights: http://creativecommons.org/licenses/by-nc/2.0/uk/
+
+Real-Time Embedded Systems - Introduction to embedded software development
+This quiz forms part of the "Introduction to embedded software development" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded software development, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, embedded software development quiz, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Real-time operating systems
+This quiz forms part of the "Real-time operating systems" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, real-time operating systems quiz, real-time operating system, real-time operating systems, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Introduction to Scheduling Strategies
+This lecture is the only part of the "Introduction to Scheduling Strategies" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, scheduling strategies lecture, scheduling strategies, real time embedded systems, real time embedded system, real-time embedded systems, real-time embedded system, rtes, scheduling strategy, real time embedded systems lecture, real time embedded system lecture, real-time embedded systems lecture, real-time embedded system lecture, rtes lecture, scheduling strategy lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - ES characteristics, design challenges &amp; approaches
+This lecture is the only part of the "ES characteristics, design challenges &amp; approaches" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, ES characteristics lecture, es chararcteristics, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, embedded system, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture, embedded system lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Multi-tasking demonstration and case studies
+This quiz forms part of the "Multi-tasking demonstration and case studies" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, multi-tasking quiz, multi-tasking, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Memory management
+This quiz forms part of the "Memory management" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, memory management quiz, memory management, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Processing interrupts
+This quiz forms part of the "Processing interrupts" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, processing interrupts quiz, processing interrupts, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Processing interrupts
+This quiz forms part of the "Processing interrupts" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, processing interrupts quiz, processing interrupts, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Real-time operating systems
+This practical and code form part of the "Real-time operating systems" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, real-time operating systems practical, real-time operating systems, real-time operating system, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time operating system practical, real-time embedded systems practical, real-time embedded system practical, real time embedded systems practical, real time embedded system practical, rtes practical
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Inter-task communications
+This quiz forms part of the "Inter-task communications" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, inter-task communications quiz, inter-task communications, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, inter task communications, inter task communication, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz, inter task communications quiz, inter task communication quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Introduction to embedded software development
+This practical forms part of the "Introduction to embedded software development" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded software development practical, embedded software development, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems practical, real-time embedded system practical, real time embedded systems practical, real time embedded system practical, rtes practical
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Simple Real Time System Structure
+This lecture is the only part of the "Simple Real Time System Structure" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, simple real-time system structure lecture, simple real time system structure, real-time embedded systems, real time embedded systems, real time embedded system, real-time embedded system, rtes, real-time embedded systems lecture, real time embedded systems lecture, real time embedded system lecture, real-time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Concurrency and Determinism
+This lecture is the only part of the "Concurrency and Determinism" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, concurrency lecture, concurrency, determinism, real time embedded systems, real time embedded system, real-time embedded system, real-time embedded systems, rtes, concurrency and determinism, determinism lecture, real time embedded systems lecture, real time embedded system lecture, real-time embedded system lecture, real-time embedded systems lecture, rtes lecture, concurrency and determinism lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Memory management
+This quiz forms part of the "Memory management" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, memory management quiz, memory management, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Cyclic Executives and Cyclic Scheduling
+This lecture is the only part of the "Cyclic Executives and Cyclic Scheduling" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, cyclic scheduling lecture, cyclic executives, cyclic scheduling, real time embedded systems, real time embedded system, real-time embedded systems, real-time embedded system, rtes, cyclic executives lecture, real time embedded systems lecture, real time embedded system lecture, real-time embedded systems lecture, real-time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Processing interrupts
+This lecture forms part of the "Processing interrupts" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, processing interrupts lecture, processing interrupts, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Multi-tasking demonstration and case studies
+This lecture forms part of the "Multi-tasking demonstration and case studies" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, multi-tasking lecture, multi-tasking, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-nd/2.0/uk/
+
+Real-Time Embedded Systems - Inter-task communications
+This practical and code form part of the "Inter-task communications" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, inter-task communications practical, inter-task communications, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, inter task communications, inter task communication, real-time embedded systems practical, real-time embedded system practical, real time embedded systems practical, real time embedded system practical, rtes practical, inter task communications practical, inter task communication practical
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Real-time operating systems
+This quiz forms part of the "Real-time operating systems" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, real-time operating systems quiz, real-time operating systems, real-time operating system, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time operating system quiz, real-time embedded systems quiz, real-time embedded system quiz, real time embedded systems quiz, real time embedded system quiz, rtes quiz
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Memory management
+This lecture forms part of the "Memory management" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, memory management lecture, memory management, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems lecture, real-time embedded system lecture, real time embedded systems lecture, real time embedded system lecture, rtes lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Topic in Depth - Embedded Systems
+Embedded systems are dedicated computers designed to perform a specific task. They are usually fairly simple devices that are used in areas where powerful, customizable computers are unnecessary; however, they can also be quite complex on occasion. Embedded systems can be found almost anywhere, ...
+Keywords: Science -- Technology
+
+Methods and Algorithms for System Design - 04 - Resource sharing and binding (Chapter 4)
+Additional materials: Embedded Systems Design: A Unified Hardware/Software Introduction. Chapter 4: Custom single-purpose processor Hardware.
+Keywords: embedded systems design, processors, hardware, algorithms, design
+
+Methods and Algorithms for System Design - 04 - Resource sharing and binding (Chapter 2)
+Additional materials: Embedded Systems Design: A Unified Hardware/Software Introduction. Chapter 2: Custom single-purpose processor Hardware.
+Keywords: embedded systems design, processors, hardware, algorithms, design
+
+Real-Time Embedded Systems - Multi-tasking demonstration and case studies
+This practical and code form part of the "Multi-tasking demonstration and case studies" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, multi-tasking practical, multi-tasking, real-time embedded systems, real-time embedded system, real time embedded systems, real time embedded system, rtes, real-time embedded systems practical, real-time embedded system practical, real time embedded system practical, rtes practical
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Real-Time Embedded Systems - Introduction to embedded software development
+This lecture forms part of the "Introduction to embedded software development" topic in the Real-Time Embedded Systems module.
+Keywords:
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+ELEC226 Course Philosophy
+This is an introductory module to ELEC226: Microcontroler and Embedded Systems Laboratory.
+Keywords: ELEC226, Lab, Microcontroller, MSP430
+Rights: http://creativecommons.org/licenses/by/1.0
+
+Embedded Systems
+The April 2003 issue of ACM Queue, the online magazine of the Association for Computing Machinery, is dedicated to embedded systems. Seven articles are included in the issue, dealing with the design and construction process of embedded devices, programming, and the hardware/software interface.
+Keywords: Science, Science -- Engineering, Science -- Technology
+
+Microcontroller and Embedded Systems Laboratory
+Basic introduction to microcontroller-based embedded systems development. Includes structured laboratory exercises in the following areas: assembly programming, C language programming, peripheral interfacing, interrupt management, structured programming, task scheduling, simple digital signal ...
+Keywords: elec226, Embedded, Microcontroller, msp430
+Rights: http://creativecommons.org/licenses/by/1.0
+
+5.4 - Lab 5: Optimization and Low Power Modes
+In this lab, we will learn the basics of optimizing code intended for embedded systems.
+Keywords: ez430, low power, msp430, optimization
+Rights: http://creativecommons.org/licenses/by/2.0/
+
+IBM Research Home Page
+This is the home page of IBM Research with hyperlinks to pages covering their activities in numerous scientific disciplines, including electrical engineering, materials science, physics, communications technology, semiconductor technology, storage, and server &amp; embedded systems.
+Keywords: Electrical Engineering, Science -- Engineering, Science -- Technology
+
+A Software Package for Enhanced Student-Learning in Real-Time Embedded-Systems Networking
+Today, embedded systems networking is common in manufacturing, automobiles, medical equipment, and home appliances, but few undergraduate engineering and technology curricula teach courses devoted to it. Not having appropriate educational experiences risks a decline in US technical expertise. ...
+Keywords: Science -- Engineering, Vocational Education -- Trade and industrial
+
+Security in Embedded System Design- Case Study: Role-based Access Control in Embedded System Modeling Languages
+This is a case study that shows how to introduce RBAC modeling concepts into a design modeling language for embedded systems.
+Keywords: Trustworthy Systems
+
+Lab 9: Optimization and Low Power Modes
+In this lab, we will learn the basics of optimizing code intended for embedded systems.
+Keywords: elec226, lab 9, low power, optimization
+Rights: http://creativecommons.org/licenses/by/1.0
+
+Embedded Systems
+Embedded systems are dedicated computers designed to perform a specific task. They are usually fairly simple devices that are used in areas where powerful, customizable computers are unnecessary; however, they can also be quite complex on occasion. Embedded systems can be found almost anywhere, ...
+Keywords: Computers -- Technological innovations, Computer systems, Embedded computer systems., Embedded computer systems. -- Bibliography
+
+New and Innovative Educational Material for Teaching Mixed-Domain, Embedded Systems Design to Undergraduate/Graduate Students
+Efforts related to development of innovative, mixed-signal system design, teaching materials and methodology are presented that focus on the co-design of performance-optimized modules for signal sensing, control, actuation, and communication in embedded systems. The methods developed to assess the ...
+Keywords: Science -- Engineering, Vocational Education -- Technology, Vocational Education -- Trade and industrial
+
+Dr. Dobb's Embedded Systems 
+Embedded Systems is one of the specialized sites stemming from Dr. Dobb's Journal. In addition to serving as an excellent source of news and product development articles, the site is a portal to many other Internet resources on embedded system applications. Information tailored to specific ... 
+Keywords: Operating systems (Computers), Computer programming, Computers -- Research, Computers -- Technological innovations, Programming languages (Electronic computers) -- Computer network resources, Programming languages (Electronic computers) -- Computer network resources -- Directories., High performance computing -- Research, Embedded computer systems., 
+
+Security Modeling and Analysis 
+This is a case study that follows the introductory courseware on security in embedded system design. The case study shows a simple domain-specific modeling language that could be used create of embedded systems and their security aspects, and an analysis tool that validates that the system design ... 
+Keywords: Trustworthy Systems, 
+
+Circuit theory for embedded systems 
+This basic subject, which should essentially be completed in the IT class, consists of the basic understanding, interpretation, and design of circuits. 
+Keywords: Signal and circuit, 
+
+Controlling The Real World With Computers: Control And Embedded Systems 
+For a detailed explanation of how devices are used to control various appliances, motors, and other real world products, this site is worth a visit. Sixteen sections comprise the site, and each includes background information and an example experiment. Although certain equipment is required for the ... 
+Keywords: Science, Science -- Engineering, Science -- Technology, 
+
+Focus on Embedded Systems - Free Beer vs. Free Speech 
+"Why do developers want to use open-source software, and Linux, in embedded systems? Throughout 2000, LinuxDevices.com conducted a survey of developers to try to understand their motivations for using Linux in embedded systems and intelligent devices. Some of the most interesting results are in the ... 
+Keywords: free speech, freedom of information, Linux, open source, embedded computing, 
+
+A multidisciplinary cooperative problem-based learning approach to embedded systems design 
+Abstract: " A multidisciplinary cooperative problem-based learning approach toembedded systems design Maskell, D.L. Grabau, P.J. Sch. of Eng., Electr. &amp; Comput. Eng., James Cook Univ. of North Queensland, Townsville, Qld.; This paper appears in: Education, IEEE Transactions on Publication Date: ... 
+Keywords: circuit CAD, computer science education, educational courses, electronic engineering education, microcomputer applications, real-time systems, teaching,
+
+Embedding Robots Into the Internet 
+The Center for Robotics and Embedded Systems at the University of Southern California is the source of this paper about networked robots. The paper provides some valuable insights into how robots can be used in human environments and how they can be controlled and coordinated with wireless ... 
+Keywords: Science, Science -- Engineering, Science -- Technology,
+
+Wind River and NASA: Embedded Development for the Extreme Demands of Space Exploration 
+Demands of Space Exploration An article from Dedicated Systems Magazine highlights the role of embedded systems in NASA's Mars Exploration Rovers, which were launched in June and July 2003. The technologies that enabled the rovers to have powerful, reliable operation are described. 
+Keywords: Science, Science -- Engineering, Science -- Technology, Science -- Space sciences,
+
+USC: The Interaction Lab 
+The Interaction Lab at the University of Southern California is part of the Center for Robotics and Embedded Systems (CRES) and the USC Robotics Labs. Its work involves "using a behavior-based approach to control, favoring solutions that are distributed, scalable, and robust" and when possible, ... 
+Keywords: Robotics, Robotics -- Research., Robotics -- Study and teaching., Science, Science -- Technology,
+
+The Basics of Programming Embedded Processors: Part 9 
+Complex systems need testing to ensure that they work as they are intended. But bugs can be subtle, particularly in embedded systems, where specialized hardware and real-time responsiveness make programming more challenging. Fortunately, there are many available techniques for software testing that ... 
+Keywords: Science -- Engineering, Vocational Education -- Technology, Vocational Education -- Technical,
+
+EETimes Network: The Worldwide Electronics Resource 
+EEdesign (last mentioned in the February 15, 2002 NSDL Report for Math, Engineering, and Technology is one of many Web sites that are part of the EETimes Network. This new resource for electrical engineering (EE) and electronics professionals integrates the online versions of global technical ... 
+Keywords: Engineering -- Periodicals, Electronics -- Periodicals., Electrical engineering -- Periodicals., 
+
+ACM Queue: Tomorrow's Computing Today 
+ACM Queue is a magazine of the Association for Computing Machinery, and its online version is available at this site. The publication strives to intelligently assess "the challenges expected to arise in the near term as emerging capabilities or technologies gain widespread acceptance." While it is ... 
+Keywords: Computer industry -- Periodicals, Computers -- Technological innovations, Computer science -- Periodicals, Computer science -- Research, 
+
+eBlocks : Embedded Systems Building Blocks 
+The goal of the eBlocks project is to empower people with no programming or electronics experience to build basic useful electronic systems around the home, office, classroom, etc. To achieve this goal we have created and assessed embedded system building blocks - eBlocks - that are easily connected ... 
+Keywords: early computing concepts, engagement, CS0, Quantitative-small scale, exploratory, recruitment,
+
+Embedded Systems: A Volatile Business 
+The embedded industry is one of the least studied high-tech arenas on the planet, despite the vast number of products we produce that change people's lives. Embedded.com conducts surveys from time to time, as does VDC and EE Times. I recently gained access to data collected and analyzed by Embedded ... 
+Keywords: Science -- Engineering, Vocational Education -- Trade and industrial, 
+
+EETimes Network: The Worldwide Electronics Resource 
+EEdesign (last mentioned in the February 15, 2002 NSDL Report for Math, Engineering, and Technology is one of many Web sites that are part of the EETimes Network. This new resource for electrical engineering (EE) and electronics professionals integrates the online versions of global technical ... 
+Keywords: Engineering -- Periodicals, Electrical engineering -- Periodicals., Electronics -- Periodicals., Science, Science -- Engineering,
+
+JavaOne 2003 Conference: General Session Webcasts 
+The JavaOne Conference concluded on June 13, 2003, and this site has downloadable video of thirteen presentations given at the event. The speakers address topics ranging from the general Java platform to mobile and advanced networking applications. The first presenter sets the tone for the ... 
+Keywords: Java (Computer program language), Java (Computer program language) -- Software., JavaScript (Computer program language), Webcasting, Java (Computer program language) --Computer network resources., 
+
+Fractal Art: Room One 
+The producers of these Mandelbrot fractals work as computer scientists in the Institute for Operating Systems of the University of Karlsruhe. Krueger is involved in the design of a new object-oriented operating system while Wolf works on a tool for the computer-aided generation of controlling ... 
+Keywords: Fractals,
+
+GSEEM: a European Master Program on Global Software Engineering 
+International Journal in Engineering Education, volume 24 number 4, pp. pp. 747-760, 2008. Special Issue: Trends in Software Engineering Education. Abstract: "This paper presents a novel European Master programme on Software Engineering (SE), being put forward by four leading institutions from ... 
+Keywords: European Master Program; teaching Global Software Engineering; shared modules, 
+
+Learning Product Design Through Hands-on Mechatronic Project 
+Partnering with Carnegie Mellon University and Polytechnic Institute of New York University (NYU Poly), this project creates a product design/mechatronics technology center (MTC) that will provide hands on training in emerging mechatronics product design. Technician education must be aligned with ... 
+Keywords: Science -- Engineering, Vocational Education -- Technical, 
+
+6.834J Cognitive Robotics, Spring 2005 (MIT) 
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ... 
+Keywords: Robotics Technology/Technician, decision-theoretic planning, real-time deduction, robustness algorithms, cooperative air vehicles, reasoning, Aeronautics and Astronautics, cooperative robotics, temporal planning, Artificial Intelligence and Robotics, robotic systems, museum tourguide, nursebot, mars exploration rover, reasoning under uncertainty, path planning, mars explorers, distributed robotics, embedded devices, dynamics re-planning, dynamic execution, robustness paradigms, intelligence paradigms, contingency planning, real-time search, human-interaction systems, cognitive robotics, intelligence algorithms, Electrical Engineering and Computer Science, autonomous robots, mapping, localization, Aeronautics/Aviation/Aerospace Science and Technology General, 
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/

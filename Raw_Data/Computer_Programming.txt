@@ -1,0 +1,79 @@
+20.180 Biological Engineering Programming, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is:
+Keywords: theory and practice of complex systems design, Agricultural/Biological Engineering and Bioengineering, biological engineering problems, structured computer programming skills, theory and design of complex systems construction, Biological Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.090 Building Programming Experience: A Lead-In to 6.001, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, practice problems, laboratory, collaboration, Computer Programming Other, instruction in programming fundamentals, computational terms, programming, Computer Programming/Programmer General
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+E. Duval, E. Forte, K. Cardinaels, B. Verhoeven, R. Van Durm, K. Hendrikx, M. Wentland-Forte, N. Ebel, M. Macowicz, K. Warkentyne, en F. Haenni, The ARIADNE Knowledge Pool System
+Communications of the ACM 44 With the exploding popularity of the Internet and Web, opportunities for useful educational applications of digital resources have also increased dramatically. However, developing and exploiting these applications entail many challenges. Producing quality content is ...
+Keywords: learning
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.001 Structure and Interpretation of Computer Programs, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: interpretation, abstraction, structure, Scheme, iteration, programming, languages, Computer Programming/Programmer General, recursion, computer programs, object oriented, Electrical Engineering and Computer Science, procedures
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.189 A Gentle Introduction to Programming Using Python, January (IAP) 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Computer Programming/Programmer General, dictionaries, control flow, objects, strings, Python, introduction to programming, structuring programs, incremental programming, lists, data structures, web search, mutability, recursion, branching and repetition, Electrical Engineering and Computer Science, teamwork, modularity, scope, tuples, debugging programs, how to think like a computer scientist
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+1.00 Introduction to Computers and Engineering Problem Solving, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computer, Civil and Environmental Engineering, software development, searching, object oriented, numerical methods, Java, data structures, computer graphics, graphical user interface, sorting, software, problem solving, programming, Computer Engineering General, C++, C, Computer Programming/Programmer General, engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.821 Programming Languages, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: polymorphism, imperative programming language, denotational semantics, type systems, Scheme+, inference, programming language, modules, multiprocessing, meta-circular interpreters, object oriented programming, ogic programming languages, Scheme, Computer Programming/Programmer General, functional programming language, Electrical Engineering and Computer Science, operational semantics, Programming languages (Electronic computers), programming, abstract types
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+1.020 Ecology II: Engineering for Sustainability, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: matlab, population modeling, Civil and Environmental Engineering, human impact on environment, crop irrigation, nutrients, mass balance, life cycle analysis, energy transport, resource economics, natural resources, pesticides, building energy, mass transport, groundwater, air quality, chemical kinetics, Environmental Studies, modeling, energy balance, economics, assessment of model predictions
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.035 Computer Language Engineering (SMA 5502), Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computer language engineering, machine code, MIPS, computer language, Electrical Engineering and Computer Science, program optimization, software, compilers, Computer Programming Other, high-level programming, Java
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.410J Introduction to Algorithms (SMA 5503), Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: network flow, sorting, Mathematics, hashing, Electrical Engineering and Computer Science, computational geometry, number-theoretic algorithms, caching, shortest paths, algorithms, Electrical and Electronic Engineering Technologies/Technicians Other, graph algorithms, efficient algorithms, Computer Programming/Programmer General, search trees, polynomial and matrix calculations, divide-and-conquer, heaps, dynamic programming, parallel computing, amortized analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.895 Essential Coding Theory, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: algorithmic significance, Electrical Engineering and Computer Science, theoretical computer scientists, decoding algorithms, applications, limitations, Hamming, error-correcting codes, combinatorial performance, theorems, asymptotic, Shannon, techniques, computer science, Computational Mathematics, Computer Programming/Programmer General
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.345 Automatic Speech Recognition, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: speech recognition, stochastic modelling, Computer Programming Specific Applications, signal representation, Electrical Engineering and Computer Science, search algorithms, speech production, pattern classification, acoustic theory, speaker adaptation, language modelling, paralinguistic information, Speech processing systems, Automatic speech recognition, acoustic-phonetics, speech understanding, multimodal processing, automatic speech recognition
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.092 Java Preparation for 6.170, January (IAP) 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Advanced control flow, Primitives, Defensive programming, Object oriented programming, class file main methods fields, Collections, Computer Programming/Programmer General, True subtyping composite, Arrays, Objects declaration assignment mutation scope, Inheritence, Throwing and catching exceptions, Nested classes, Data structures, Control flow method calls if/then for loop while loop, Electrical Engineering and Computer Science, Interfaces, Classes vs Objects/Instances, Abstract superclasses, Java program structure, Hashing, Writing interfaces abstract classes, Method Overloading, Method Overriding, Floating point precision, Polymorphism, Depth First Search alogithm
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.004 Computation Structures, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Computers -- Circuits, computation, sequential circuit, programming, Electrical Engineering and Computer Science, finite-state machines, software structure, computer architecture, Computer Programming Other, Logic design, MOS transistor, gates, procedures, Computer architecture, RISC processor, digital system, processes, primitives, logic gate, instruction set design, concurrency, instructions, combinational circuit, computation structure
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.084J Nonlinear Programming, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: quasi-Newton methods, 15.084, Lagrangian relaxation, Nonlinear programming, Lagrange multiplier theory, Computer Programming Other, interior point, non-linear programming, feasible directions, integer programming, Sloan School of Management, control, optimality conditions, projection, resource allocation, conjugate direction, communications, nonlinear programming, Newton, power systems, Electrical Engineering and Computer Science, nondifferentiable optimization, duality theory, constrained optimization, unconstrained optimization, nonlinear optimization, 6.252, Lagrange multiplier, gradient, convex analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.844 Computability Theory of and with Scheme, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: programming theory, programming semantics, Incompleteness Theorems, Halting Problem for Scheme, Electrical Engineering and Computer Science, computability, logic of programming, Computer Programming Specific Applications, Hilbert s Tenth Problem, programming language, Scheme evaluation, term rewriting theory, algebraic manipulation, Scheme
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/ 

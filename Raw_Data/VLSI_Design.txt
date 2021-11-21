@@ -1,0 +1,28 @@
+Elective 1_EC1561Syllabus
+This gives the syllabus of the first elective in Microelectronics being offered by ECE Department.
+Keywords: Microelectronics Fabrication,CMOS layout design,VLSI design
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+The VLSI Design Automation Assistant : First Step
+This paper describes an approach to VLSI design synthesis using both knowledge-based expert systems and data and control flow analysis. The authors are concerned with design synthesis as it proceeds from an algorithmic description of a VLSI system to a list of technology-independent registers, ...
+Keywords: design, automation, integrated circuits, synthesis, expert systems, systems, knowledge base
+
+4B7 VLSI Design, Technology and CAD
+The aim of this module is to describe the design, technology and manufacture of MOS integrated circuits and future nano-scale electron devices. It will provide a firm foundation for those wishing to pursue careers in applications or in research/development in the field of semiconductor ...
+Keywords: VLSI
+
+MIT: Computation Structures Group
+The Computation Structures Group is part of the Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology (MIT). Their mission is "to enable the creation and development of high-performance, reliable and secure computing systems that are easy to interact ...
+Keywords: Computer science -- Computer network resources, Computer science -- Study and teaching (Higher), Computer systems -- Study and teaching (Higher), Science, Science -- Engineering, Science -- Technology
+
+MIT: Computation Structures Group
+The Computation Structures Group is part of the Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology (MIT). Their mission is "to enable the creation and development of high-performance, reliable and secure computing systems that are easy to interact ...
+Keywords: Computer science -- Study and teaching (Higher), Computer science -- Computer network resources, Computer systems -- Study and teaching (Higher), Science, Science -- Engineering, Science -- Technology
+
+The Complexity of Manipulating Hierarchically Defined Sets of Rectangles
+Algorithms that manipulate sets of rectangles are of great practical importance in VLSI design systems and other applications. Although much theoretical work has appeared recently on the complexity of rectangle problems, it has assumed that the inputs are given as a list of rectangles. In this paper ...
+Keywords: rectangles, algorithms, computational geometry, data structures
+
+Discrete and Computational Geometry
+An international journal of mathematics and computer science that accepts research articles of high quality in discrete geometry and on the design and analysis of geometric algorithms; more specifically, DCG publishes papers on such topics as configurations and arrangements, spatial subdivision, ...
+Keywords: Algebraic Geometry, Combinatorics, Computer Science, Convex/Discrete Geometry, Graph Theory

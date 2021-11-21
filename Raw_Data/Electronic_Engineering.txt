@@ -1,0 +1,150 @@
+Project Mechatronics: Microchip Mechatronics Design Center
+Current news and information about mechatronics.
+Keywords: Engineering, Science news, Mechatronics, Manufacturing Technology -- Mechatronics, Mechatronics, Mechanical engineering, Electronic engineering, Design, Robotics
+
+Compensation methods : electronic engineering : presentation transcript
+This presentation is a part of the level 5 module -- Electronic Engineering, part of the 2009/2010 Engineering (foundation degree, BEng and HN) courses from University of Wales Newport (course codes H101, H691, H620, HH37 and 001H). It is a part of the core modules for the full time 1 st year ...
+Keywords:bandwidth, electronic engineering, hn, newport, compensated amplifier, engscoer, compensation, newportunioer, gain curve, compensation methods, engsc, amplifier, dominant pole compensation, oer, frequency compensation, ukoer, lead lag compensation
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Amplifier compensation (Electronic engineering)
+This is a presentation about amplifier compensation in the level 5 module Electronic Engineering and forms part of the 2009/2010 Engineering (foundation degree, BEng and HN) courses from University of Wales Newport (course codes H101, H691, H620, HH37 and 001H). It is a part of the core modules for ...
+Keywords: ukoer, engscoer, ccby, University of Wales, Newport, newportUniOER, Engineering Department, education, higher education, learning, Electronic Engineering
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Mechatronics Tutorial Information
+The following links will take you to various tutorials and references on key subjects in mechatronics.
+Keywords: Engineering, Engineering -- Study and Teaching, Mechatronics, Education and Training Resources -- College level, Manufacturing Technology -- Mechatronics, Education, Tutorials, Mechatronics, Mechanical engineering, Electronic engineering
+
+Definitions of "Mechatronics"
+Definitions from a variety of resources and institutions.
+Keywords: Encyclopedias and dictionaries, Engineering design, Mechatronics, Dictionaries, Glossaries, and Terminology, Manufacturing Technology -- Mechatronics, Definitions, Mechatronics, Mechanical engineering, Electronic engineering
+
+Electronic engineering : presentation transcript
+This presentation is a part of the level 5 module -- Electronic Engineering, part of the 2009/2010 Engineering (foundation degree, BEng and HN) courses from University of Wales Newport (course codes H101, H691, H620, HH37 and 001H). It is a part of the core modules for the full time 1 st year ...
+Keywords:engsc, university of wales, non-linear devices, newportunioer, thevenins theorem, miller effect, electronic engineering, electronics, hn, frequency, transistors, hybrid parameter network, newport, field effect transistor, equivalent circuits, foundation degree, circuit calculations, 2009, engscoer, circuit theory, kirchhoffs law, hybrid, bipolar, oer, engineering, eft, beng, high frequency, circuits, ukoer, superposition, hybrid model, bipolar transistor
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Interactive distance learning over ISDN in electronic engineering education
+Abstract: "An ISDN-based distance learning system is presented, and its main components are discussed in some detail, togheter with the guidelines which have led to its realization and determine its current further development. Some results derived from the use of the system in Electronic ...
+Keywords: distance, learning, isdn, electronic, education
+
+Stabilised power supplies : electronic engineering : presentation transcript
+This presentation is a part of the level 5 module -- Electronic Engineering, part of the 2009/2010 Engineering (foundation degree, BEng and HN) courses from University of Wales Newport (course codes H101, H691, H620, HH37 and 001H). It is a part of the core modules for the full time 1 st year ...
+Keywords: ic regulators, comparator, series regular operation, regulator, oer, engineering, configuration, beng, zener diode, newport, stabilised power supplies, diode, regulators, stabilised, foundation degree, ac, switching regulators, newportunioer, electronic engineering, electronics, voltage, hn, reference, zener, power, power supplies, dc acdc, ukoer, current, feedback, university of wales
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Interactive distance learning over ISDN in electronic engineering education
+Abstract: "An ISDN-based distance learning system is presented, and its main components are discussed in some detail, togheter with the guidelines which have led to its realization and determine its current further development. Some results derived from the use of the system in Electronic ...
+Keywords: distance, learning, isdn, electronic, education
+
+Amplifiers with feedback : electronic engineering : presentation transcript
+This presentation is a part of the level 5 module -- Electronic Engineering, part of the 2009/2010 Engineering (foundation degree, BEng and HN) courses from University of Wales Newport (course codes H101, H691, H620, HH37 and 001H). It is a part of the core modules for the full time 1 st year ...
+Keywords: input, output, voltage, voltage series feedback, configuration, series feedback, resistance, university of wales, feedback, gain, engsc, newportunioer, bandwidth, electronics, oer, beng, current shunt feedback, voltage shunt feedback, shunt feedback, newport, ukoer, current, current series feedback, engscoer, foundation degree, amplifiers, 2009, amplifiers with feedback, electronic engineering, engineering, hn
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Photonics and Electronic Engineering
+If you have ever listened to a CD, talked on a telephone, or bought groceries at a store with a scanner, you have used the type of technology Barbara Washburn teaches people about. Washburn is an electronic engineer who specializes in laser/electro-optics. Read about her here.
+Keywords: science, people, math, technology, photonics, Science, Math, Engineering, Technology -- Photonocist, Profiles -- Barbara Washburn - Photonocist
+
+Applications of semiconductor devices : switches (Electrical and Electronic principles)
+This is a presentation about semiconductor devices - switches in the level 4 module Electrical and Electronic Principles and forms part of the 2009/2010 Engineering (foundation degree, BEng and HN) courses from University of Wales Newport (course codes H101, H691, H620, HH37 and 001H). It is a part ...
+Keywords: ukoer, engscoer, ccby, University of Wales, Newport, newportUniOER, Engineering Department, education, higher education, learning, Electrical and Electronic Engineering
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Ladder Logic
+Created by Tony R. Kuphaldt, with help from contributor Roger Hollingsworth, this chapter of All About Circuit's fourth volume on Digital circuits describes the logic behind them. The chapter is divided into six sections: "Ladder" diagrams, Digital logic functions, Permissive and interlock circuits, ...
+Keywords: Science, Science -- Engineering, Science -- Physics
+
+Example Resumes
+This resource, created by the ATE National Resource Center, provides sample resumes for those in the field of engineering. The resource provides sample resumes in chemical engineering, civil engineering, computer technology, electronic engineering technology, information technology and graphic ...
+Keywords: Science -- Engineering, Science -- Technology
+
+Program for Information Technology (IT) Acceleration
+The Program for IT Acceleration is a technical work based learning program for high school students dually enrolled in computer and information technology degree programs at the Daytona Beach Community College Advanced Technology Center (ATC). The ATC is a public-private partnership of the community ...
+Keywords: Science, Science -- Technology
+
+Counter and sequencer design (Digital logic and software principles) : student presentation transcript
+This is a presentation about counter and sequencer design in the level 4 module Digital Logic and Signal Principles and forms part of the 2009/2010 Engineering (foundation degree, BEng and HN) courses from University of Wales Newport (course codes H101, H691, H620, HH37 and 001H). It is a part of ...
+Keywords: ukoer, engscoer, ccby, University of Wales, Newport, newportUniOER, Engineering Department, education, higher education, learning, Electronic Engineering
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Karnaugh Mapping
+Written by Tony R. Kuphaldt, this chapter of All About Circuit's fourth volume on Digital circuits describes the Karnaugh maps, "a simplification tool applicable to digital logic." The chapter is divided into eleven sections, including an introduction, on topics including Venn diagrams and sets, ...
+Keywords: Science, Science -- Engineering, Science -- Physics
+
+Diodes and Rectifiers
+Written by Tony R. Kuphaldt, this chapter of All About Circuit's third volume on Semiconductors describes the physics behind diodes and rectifiers. The chapter is divided into fourteen sections on topics including diode ratings, voltage multipliers, and zener diodes. Each section has clear ...
+Keywords: Science, Science -- Engineering, Science -- Physics
+
+Engineering in Medicine and Biology Society Undergraduate Student Design Competition
+The competition involves designing and building an original device or product not currently offered on the market that applies engineering principles and technology to problems in medicine and biology. Other acceptable designs include a modification of an existing product, and may consist of ...
+Keywords: Design, Electronic engineering, Biological engineering, Medicine
+
+Amplifiers and Active Systems
+Created by Tony R. Kuphaldt, this chapter of All About Circuit's third volume on Semiconductors describes amplifiers and active devices. The chapter is divided into seven sections: From electric to electronic, Active versus passive devices, Amplifiers, Amplifier gain, Decibels, Absolute dB scales, ...
+Keywords: Science, Science -- Engineering, Science -- Physics
+
+Basic AC Theory
+reated by Tony R. Kuphaldt with help from Harvey Lew, Duane Damiano, Mark D. Zarella, John Symonds, and Jason Starck, this chapter of All About Circuit's second volume on Alternating Current describes the basic theory and principles at work. The chapter is divided into six sections: What is ...
+Keywords: Science, Science -- Engineering, Science -- Physics
+
+Using Robotics in the Engineering Technology Classroom
+This paper describes how robotics technology is used in Electronic Engineering Technology (EET) and Mechanical Engineering Technology (MET) curriculum to enhance students education along with outreach programs offered to local high school students. Details are presented on how robots and robotic ...
+Keywords: Science, Science -- Engineering, Science -- Technology
+
+Social Design in Multidisciplinary Engineering Design Courses
+Abstract ?In this paper we propose a social design focus in multidisciplinary engineering design courses as a paradigm that can develop the human and social capital needed in modern undergraduate engineering education facing the current global challenges. In particular we propose the Social ...
+Keywords: Collaborative Engineering Design, Concurrent Engineering, Multidisciplinary, Social Design
+
+Effective teaching and learning in engineering education using a Web-based tutorial and assessment tool for advanced electronic
+Abstract: "This paper presents experiences using a novel Web-based tool called OASIS (Online ASessment and Integrated Study), in the teaching of a Part 3 course in the Department of Electrical and Electronic Engineering at the University of Auckland. OASIS was employed for formative and summative ...
+Keywords: oasis, web-based, assessment
+
+Effective teaching and learning in engineering education using a Web-based tutorial and assessment tool for advanced electronic
+Abstract: "This paper presents experiences using a novel Web-based tool called OASIS (Online ASessment and Integrated Study), in the teaching of a Part 3 course in the Department of Electrical and Electronic Engineering at the University of Auckland. OASIS was employed for formative and summative ...
+Keywords: oasis, web-based, assessment
+
+THE DOCTOR'S WORLD; After 40 Years, Pacemakers Are Smarter and Safer
+New York Times article, dated October 27, 1998. Excerpt: " Arne H. W. Larsson's last billion heart beats have made him a medical marvel, a pioneer in one of the great triumphs of cardiology and electronic engineering. Forty years ago this month, Mr. Larsson, now 83, became the world's first ...
+Keywords: pacemaker, Ake Senning, Arne Larsson
+
+18.410J Introduction to Algorithms (SMA 5503), Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: network flow, sorting, Mathematics, hashing, Electrical Engineering and Computer Science, computational geometry, number-theoretic algorithms, caching, shortest paths, algorithms, Electrical and Electronic Engineering Technologies/Technicians Other, graph algorithms, efficient algorithms, Computer Programming/Programmer General, search trees, polynomial and matrix calculations, divide-and-conquer, heaps, dynamic programming, parallel computing, amortized analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+A multidisciplinary cooperative problem-based learning approach to embedded systems design
+Abstract: " A multidisciplinary cooperative problem-based learning approach toembedded systems design Maskell, D.L. Grabau, P.J. Sch. of Eng., Electr. &amp; Comput. Eng., James Cook Univ. of North Queensland, Townsville, Qld.; This paper appears in: Education, IEEE Transactions on Publication Date: ...
+Keywords: circuit CAD, computer science education, educational courses, electronic engineering education, microcomputer applications, real-time systems, teaching
+
+6.091 Hands-On Introduction to Electrical Engineering Lab Skills, January (IAP) 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: op-amps, analog, function generators, digital to analog, Electrical and Electronic Engineering Technologies/Technicians Other, introduction to electronics, Electrical Engineering and Computer Science, digital, timers, digital design, passive electronic components, electronic components, analog to digital, integrated circuits, digital circuits, oscilloscopes, multimeters, debugging, logic analyzers, active electronic components, soldering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Strategies for teaching mixed-attainment groups in engineering education.
+Abstract: "This paper outlines delivery of a second-year undergraduate module in electronic engineering. A package of learning materials, including an open-ended mathematical CAL (computer-aided learning) package, was used to support students whose ability, ambitions and subsequent programmes vary ...
+Keywords: computer-aided learning, mixed-attainment teaching, teaching strategies
+
+Build It and Will They Come?: Refurbishing and Restoring an ECET Curriculum
+Since the 1990s, nationwide enrollment in engineering technology programs has been declining. It has become increasing difficult to attract and retain students. A number of reasons have been attributed to this trend including; outdated curricula, loss of manufacturing jobs, off-shoring of jobs and a ...
+Keywords: Science -- Engineering, Vocational Education -- Trade and industrial
+
+Development of a New Curriculum for Robotics Interfacing Engineering
+This paper describes a course and laboratory of Robotics Interfacing Engineering for students of manufacturing technology program (ITMT) in the Department of Industrial and Engineering Technology (IET). There are four Robotics courses offered in the IET Department spanning from 100 level to 400 ...
+Keywords: Science -- Engineering, Vocational Education -- Trade and industrial
+
+6.896 Theory of Parallel Hardware (SMA 5511), Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sorting networks, parallel hardware, systolic arrays, hypercubic networks, P-completeness, algorithms, physical design, Electrical and Electronic Engineering Technologies/Technicians Other, reconfigurable wiring, Electrical Engineering and Computer Science, arithmetic circuits, computer arithmetic, retiming, interconnection networks, fat-trees, area-time complexity, VLSI layout theory, boolean logic, clocking methodologies, parallel prefix
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.096J Introduction to Numerical Simulation (SMA 5211), Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Numerical Simulation, integral equations, discretization methods, network problems, Mechanical Engineering, Electrical and Electronic Engineering Technologies/Technicians Other, mathematics, 6.336, Electrical Engineering and Computer Science, matrix solution, model-order reduction, differential equations, Aeronautics and Astronautics, 16.910, Computer Engineering Technologies/Technicians Other, simulation, nonlinear problems, Monte Carlo, Newton method, 2.096
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/ 
+
+The Hobby of Electronic Circuit Engineering
+This website (originally created in Japanese and translated into English using translation software) by a Japanese systems engineer, Seiichi Inoue, provides an extensive overview of electronic circuit engineering. Topics covered include: Basic knowledge of Electronic parts, Basic knowledge of ...
+Keywords: Engineering, Electronics, Electronic circuits, Electronic circuits -- Computer simulation., Electronic circuit design, Science, Science -- Engineering, Science -- Technology

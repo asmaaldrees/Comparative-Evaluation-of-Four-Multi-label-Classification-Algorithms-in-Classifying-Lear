@@ -1,0 +1,46 @@
+Real-Time Embedded Systems - Introduction to Embedded Real-Time Systems &amp; Scheduling
+This lecture is the only part of the "Introduction to Embedded Real-Time Systems &amp; Scheduling" topic in the Real-Time Embedded Systems module.
+Keywords: ukoer, embedded real-time systems lecture, embedded real-time scheduling, real-time embedded systems, real time embedded systems, real-time embedded system, real time embedded system, rtes, embedded systems, embedded real-time scheduling lecture, real-time embedded systems lecture, real time embedded systems lecture, real-time embedded system lecture, real time embedded system lecture, rtes lecture, embedded systems lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Model-based Design for Mechatronics Systems
+It is now practical to write software for real-time systems long before the actual computer hardware is sitting in a physical prototype.
+Keywords: Engineering design, Mechatronics, Manufacturing Technology -- Current Issues and Publications, Manufacturing Technology -- Mechatronics, Mechatronics, Mechanical engineering, Electronics
+
+Principles and Practice of Constraint Programming: Conferences
+Links to previous and future conferences concerned with all aspects of computing with constraints including: algorithms, applications, environments, languages, models, systems. Contributions are welcome from any discipline concerned with constraints, including: artificial intelligence, combinatorial ...
+Keywords: Artificial Intelligence, Biology, Discrete Math, Linguistics, Operations Research
+
+Time to completion reveals problem-solving transfer
+Two equally skilled groups of students taking introductory mechanics solve related physics problem pairs in reverse order with respect to each other, using the web-based Socratic tutor, MasteringPhysics. In tutorial problems containing help in the form of requestable hints, descriptive text, and ...
+Keywords: PERC 2004, problem solving, information resources, educational aids, real-time systems, tutorial, Mastering Physics, hints, descriptive text, feedback, General Physics, Physics Education Research, Classical Mechanics, Education Practices, Active Learning, Problem Solving, Education (General), Science, Instructional issues, Physics
+
+Abstract State Machines
+The Abstract State Machine (ASM) Project (formerly known as the Evolving Algebras Project) was started by Yuri Gurevich as an attempt to bridge the gap between formal models of computation and practical specification methods. The ASM thesis is that any algorithm can be modeled at its natural ...
+Keywords: Computer Science, Operations Research
+
+Sensorland.com: The Online Information Centre for Sensing and Measurement
+This Web site has 90 technical articles on how various sensors, transducers, and data measurement systems are used and how they work. The site includes problems and solutions, a history of sensors, sensor tech tips, trainings, job search, applications, and resources for further study. Links are also ...
+Keywords: Electrical Engineering -- Controls and Systems, Automated Manufacturing, Science -- Engineering, Science -- Technology, Vocational Education -- Technology, 
+
+Vocational Education -- Tech prep
+A Software Package for Enhanced Student-Learning in Real-Time Embedded-Systems Networking
+Today, embedded systems networking is common in manufacturing, automobiles, medical equipment, and home appliances, but few undergraduate engineering and technology curricula teach courses devoted to it. Not having appropriate educational experiences risks a decline in US technical expertise. ...
+Keywords: Science -- Engineering, Vocational Education -- Trade and industrial
+
+Impact of a Classroom Interaction System on Student Learning
+We have developed and implemented a Web-based wireless classroom interaction system in a large-enrollment introductory physics lecture class that uses HP handheld computers (PDAs) to facilitate real-time two-way student interaction with the instructor. Our system is ahead of other “clicker” based ...
+Keywords: educational aids, computer aided instruction, real-time systems, PDA, handheld computers, General Physics, Physics Education Research, Education Practices, Technology, Audience Response, Education (General), Science, Instructional issues, Physics
+
+A multidisciplinary cooperative problem-based learning approach to embedded systems design
+Abstract: " A multidisciplinary cooperative problem-based learning approach toembedded systems design Maskell, D.L. Grabau, P.J. Sch. of Eng., Electr. &amp; Comput. Eng., James Cook Univ. of North Queensland, Townsville, Qld.; This paper appears in: Education, IEEE Transactions on Publication Date: ...
+Keywords: circuit CAD, computer science education, educational courses, electronic engineering education, microcomputer applications, real-time systems, teaching
+
+National Oceanic &amp; Atmospheric Administration (NOAA): Center for Operational Oceanographic Products and Services
+The Center for Operational Oceanographic Products and Services (CO-OPS) collects and distributes oceanographic observations and predictions to ensure safe, efficient and environmentally sound maritime commerce. The center provides water level and coastal current oceanographic products, measures and ...
+Keywords: Climatology, Physical oceanography
+
+Readme file for Real-Time Embedded Systems
+This readme file contains details of links to all the Real-Time Embedded Systems module's material held on Jorum and information about the module as well.
+Keywords: ukoer, complete rate monotonic scheduling lecture, complete rate monotonic scheduling, complete rating monotonic scheduling lecture, complex rms scheduling lecture, complex rms scheduling, complex scheduling lecture, concurrency and determinism lecture, concurrency and determinism, concurrency lecture, concurrency, cyclic executives lecture, cyclic executives, cyclic scheduling lecture, cyclic scheduling, deadline monotonic scheduling lecture, deadline monotonic scheduling, determinism lecture, determinism, embedded real-time scheduling lecture, embedded real-time scheduling, embedded real-time systems lecture, embedded software development lecture, embedded software development practical, embedded software development quiz, embedded software development, embedded system lecture, embedded system modelling, embedded system, embedded systems lecture, embedded systems modeling lecture, embedded systems modeling quiz, embedded systems modelling lecture, embedded systems modelling quiz, embedded systems modelling, embedded systems, ES characteristics lecture, es chararcteristics, inter task communication lecture, inter task communication practical, inter task communication quiz, inter task communication, inter task communications lecture, inter task communications practical, inter task communications quiz, inter task communications, inter-task communications lecture, inter-task communications practical, inter-task communications quiz, inter-task communications, memory management lecture, memory management quiz, memory management, multi-tasking lecture, multi-tasking practical, multi-tasking quiz, multi-tasking, processing interrupts lecture, processing interrupts quiz, processing interrupts, real time embedded system lecture, real time embedded system practical, real time embedded system quiz, real time embedded system, real time embedded systems lecture, real time embedded systems practical, real time embedded systems quiz, real time embedded systems, real-time embedded system lecture, real-time embedded system practical, real-time embedded system quiz, real-time embedded system, real-time embedded systems lecture, real-time embedded systems practical, real-time embedded systems quiz, real-time embedded systems revision lecture, real-time embedded systems revision, real-time embedded systems, real-time operating system lecture, real-time operating system practical, real-time operating system quiz, real-time operating system, real-time operating systems lecture, real-time operating systems practical, real-time operating systems quiz, real-time operating systems, rtes lecture, rtes practical, rtes quiz, rtes, scheduling strategies lecture, scheduling strategies, scheduling strategy lecture, scheduling strategy, simple rate monotonic scheduling lecture, simple rate monotonic scheduling, simple real time system structure, simple real-time system structure lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/ 

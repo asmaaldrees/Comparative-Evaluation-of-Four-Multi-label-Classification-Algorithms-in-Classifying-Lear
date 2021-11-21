@@ -1,0 +1,207 @@
+History of Java Programming
+Java was developed independently of the web, and went through several stages of metamorphosis before reaching its current status of de facto programming language for the world wide web. Below is a brief history of Java since its infancy to its current state.
+Keywords: History of Java Programming
+
+James Gosling - Thoughts for Students
+James Gosling is interviewed by Aaron Houston of Sun Microsystems. James provides some wisdom about Java and software development for students.
+Keywords: Java programming, Java language, history of computing, James Gosling
+
+Java.sun.com: New to Java Programming Center
+As part of Sun Microsystems' extensive online training, this Web site offers a large collection of articles and tutorials on the Java programming language. The material is presented in a series of four basic steps, beginning with an overview of the Java platform and common terminology. Several ...
+Keywords: Java (Computer program language), Java (Computer program language) -- Programmed instruction., Computer programming -- Handbooks, manuals, etc., Science, Science -- Technology, Science -- Instructional issues
+
+Java Programming Tutorials
+This site is much more than the name implies. In addition to an exhaustive reference on the Java programming language, other tutorials on C#, XML, Python, and JavaScript are available. The Java tutorials are divided into beginning, intermediate, and advanced sections, and sample programs and source ...
+Keywords: Java (Computer program language), Python (Computer program language), XML (Document markup language), Java (Computer program language) -- Programmed instruction., Python (Computer program language) -- Programmed instruction., XML (Document markup language) -- Programmed instruction., C# (Computer program language), C# (Computer program language) -- Programmed instruction.
+
+Java.sun.com: New to Java Programming Center
+As part of Sun Microsystems' extensive online training, this Web site offers a large collection of articles and tutorials on the Java programming language. The material is presented in a series of four basic steps, beginning with an overview of the Java platform and common terminology. Several ...
+Keywords: Java (Computer program language), Computer programming -- Handbooks, manuals, etc., Java (Computer program language) -- Programmed instruction.
+
+Video Tribute to James Gosling
+Video of James Gosling with quotes from co-workers, his daughter and many others. The "father of Java" is called a "rock star, "someone with vision and passion", "best programmer in the world".
+Keywords: Java programming, Java language, history of computing, James Gosling
+
+Introducing Compile and Runtime Errors in Java
+This module introduces a collection of modules on identifying and correcting errors in programs written in the Java programming languages. It covers both compile-time errors and runtime errors (exceptions). The compile-time errors are discussed both for Sun's compiler and the Eclipse compiler.
+Keywords: Compilation, Eclipse, Errors, Java, Runtime
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+01-23-1996 Java programming language first released
+Engineering Pathway's "Today in History" blog for January 23. "Today in History &amp; January 23, 1996 &amp; The first version of the Java programming language is released. Java was developed independently of the Web, starting in 1991 with a small group of Sun engineers called the ...
+Keywords: Java programming, Java language, history of computing, James Gosling
+
+Java History - How The JVM Spec Came To Be
+In this keynote from the JVM Languages Summit 2008, James Gosling discusses how his history with programming languages led to Java's creation, code as algebra, how users use a product in very unusual ways, Java as a compromise between C and scripting languages, ANDF and Virtual Machines, pointer ...
+Keywords: Java programming, Java language, history of computing
+
+Gospel of Java According to James
+During the JavaOne 2009 general session, Scott McNealy commemorated Jonathan Schwartz on his stewardship of Java. After accusing James Gosling of being 'the greatest programmer ever,' he then presented a short, humorous video (narrated by Gosling) about the history of Java.
+Keywords: Java programming, Java language, history of computing, John Gage, James Gosling, Bill Joy, Eric Schmidt, Tim Lindholm, George Paolini
+
+Project Poison Applet
+A site created by first-year computer science students as a Java programming project. Each of 12 topics (Algebra; Geometry; Trigonometry; Calculus; Matrices; Sequences &amp; Series; Complex Numbers; Vectors; Probability; Groups; Further Calculus; Further Probability) includes several pages ...
+Keywords: Basic Algebra, Imaginary/Complex Numbers, Euclidean Plane Geometry, Group Theory, Matrices, Calculus (Multivariable), Probability, Sequences and Series, Calculus (Single Variable), Trigonometry, Vectors
+
+High School eLearning
+High School eLearning is a commercial vendor of interactive, online courses with puzzles, games, and projects to make learning fun and reinforce concepts. The courses cover a variety of topics, are self-paced, and include self-grading quizzes and an online gradebook for students and parents. Website ...
+Keywords: Engineering, Health/Medicine, Mathematics, Technology, Algebra, Forensic science, Electronics, Java programming, Medical terminology
+
+Java Programming Tutorials
+This site is much more than the name implies. In addition to an exhaustive reference on the Java programming language, other tutorials on C#, XML, Python, and JavaScript are available. The Java tutorials are divided into beginning, intermediate, and advanced sections, and sample programs and source ...
+Keywords: C# (Computer program language), C# (Computer program language) -- Programmed instruction., XML (Document markup language), XML (Document markup language) -- Programmed instruction., Python (Computer program language), Python (Computer program language) -- Programmed instruction., Java (Computer program language), Java (Computer program language) -- Programmed instruction., Science, Science -- Technology
+
+Concurrent Programming Using Java
+The material shown on this website is covered in much more detail in the book, Concurrent Programming: The Java Programming Language, published by Oxford University Press in March 1998. This site provides an introduction to the Java programming language in concurrent or multithreaded applications. ...
+Keywords: Operating Systems, Programming Languages
+
+Introduction to OO Programming in Java - Creating Classes
+This lecture forms part of the "Creating Classes" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, classes, aggregate classes, java classes, access modifier, access modifiers, class, G622, OO, object oriented programming, OOP, java, programming, OO programming, object-oriented programming, object-oriented, object oriented, classes lecture, aggregate classes lecture, java classes lecture, access modifier lecture, access modifiers lecture, class lecture, G622 lecture, OO lecture, object oriented programming lecture, OOP lecture, java lecture, programming lecture, OO programming lecture, object-oriented programming lecture, object-oriented lecture, object oriented lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to OO Programming in Java - Introduction to the AWT
+This reading material forms part of the "Introduction to the AWT" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, AWT reading material, AWT, graphics, AWT class library, object-oriented, OOP, java, programming, object oriented programming, object-oriented programming, OO, object oriented, G622, OO programming, graphics reading material, AWT class library reading material, object-oriented reading material, OOP reading material, java reading material, programming reading material, object oriented programming reading material, object-oriented programming reading material, OO reading material, object oriented reading material, G622 reading material, OO programming reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to OO Programming in Java - Introduction to the AWT
+This visual aid forms part of the "Introduction to the AWT" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, classes visual guide, AWT, graphics, AWT class library, object-oriented, OOP, java, programming, object oriented programming, object-oriented programming, OO, object oriented, G622, OO programming, AWT visual aid, graphics visual aid, AWT class library visual aid, object-oriented visual aid, OOP visual aid, java visual aid, programming visual aid, object oriented programming visual aid, object-oriented programming visual aid, OO visual aid, object oriented visual aid, G622 visual aid, OO programming visual aid
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Arrays in Java (Arrays)
+Abstraction is a significant problem in learning to program. The learner has to relate the surface code to the operations in the memory of the computer. Visualisation of an ?array? is used here to help learners to form a mental concept that enables them to make sense of the surface code. A play-like ...
+Keywords: arrays, Java, programming, Mathematical and Computer Sciences
+Rights: http://creativecommons.org/licenses/by-sa/2.0/uk/
+
+PuzzleBeast
+A collection of computer-generated puzzles, some illustrated with Java applets, some with solutions included: The Fried Okra Perplexity, A Dozen Irritating Sliding Block Puzzles, The Bulbous Blob Puzzle, Meandering Monk Maze, The Kung Fu Packing Crate Maze, Rolling Block Puzzles, Dry Cleaner Puzzles ...
+Keywords: Graph Theory
+
+Java: The inside story
+Article with a synthesis of interviews by editor of JavaWorld and SunWorld. "Poised to fill World Wide Web browsers everywhere with animation, audio, and real-time interactivity, Sun's Java language has survived an odyssey through consumer electronics, PDAs, set-top boxes, and CD-ROMs. While some of ...
+Keywords: Java programming, Java language, history of computing
+
+Introduction to OO Programming in Java - Searching
+This lecture forms part of the "Searching" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, searching lecture, search, searching, OOP, object oriented, OO programming, object-oriented programming, object-oriented, OO, G622, java, programming, object oriented programming, search lecture, OOP lecture, object oriented lecture, OO programming lecture, object-oriented programming lecture, object-oriented lecture, OO lecture, G622 lecture, java lecture, programming lecture, object oriented programming lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to OO Programming in Java - Introduction to the AWT
+This visual aid forms part of the "Introduction to the AWT" topic in the Introduction to OO Programming in Java module
+Keywords: ukoer, scrollbars reading material, AWT, graphics, AWT class library, object-oriented, OOP, java, programming, object oriented programming, object-oriented programming, OO, object oriented, G622, OO programming, AWT reading material, graphics reading material, AWT class library reading material, object-oriented reading material, OOP reading material, java reading material, programming reading material, object oriented programming reading material, object-oriented programming reading material, OO reading material, object oriented reading material, G622 reading material, OO programming reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+How To Think Like a Computer Scientist - Java Version
+This is the fourth edition of a book I started writing in 1999, when I was teaching at Colby College. I had taught an introductory computer science class using the Java programming language, but I had not found a textbook I was happy with. For one thing, they were all too big! There was no way my ...
+Keywords: introduction to programming, java, debugging
+
+Introduction to OO Programming in Java - Searching
+This task guide forms part of the "Searching" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, searching task guide, search, searching, OOP, object oriented, OO programming, object-oriented programming, object-oriented, OO, G622, java, programming, object oriented programming, search task guide, OOP task guide, object oriented task guide, OO programming task guide, object-oriented programming task guide, object-oriented task guide, OO task guide, G622 task guide, java task guide, programming task guide, object oriented programming task guide
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to OO Programming in Java - Introduction to the AWT
+This visual aid forms part of the "Introduction to the AWT" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, graphics visual aid, AWT, graphics, AWT class library, object-oriented, OOP, java, programming, object oriented programming, object-oriented programming, OO, object oriented, G622, OO programming, AWT visual aid, AWT class library visual aid, object-oriented visual aid, OOP visual aid, java visual aid, programming visual aid, object oriented programming visual aid, object-oriented programming visual aid, OO visual aid, object oriented visual aid, G622 visual aid, OO programming visual aid
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Java Technology in Digital TV
+Sun Microsystems, the maker of the Java programming language, is exploring the potential uses for Java in digital television. To this end, Sun has developed the Java TV Application Programming Interface (API) in cooperation with other consumer electronics companies. This Web site provides an ...
+Keywords: Java (Computer program language), Digital television, Digital media, Digital television -- Technological innovations.
+
+Introduction to Computer Science using Java
+Created by Professor Bradley Kjell from the Computer Science Department at Central Connecticut State University, this introductory resource on Java programming contains 87 chapters, divided into 13 sections, on topics including hardware and software, arrays, applets and graphics, and graphical user ...
+Keywords: Science, Science -- Technology, Science -- Instructional issues, Vocational Education, Vocational Education -- Technology, Vocational Education -- Technical, Vocational Education -- Instructional issues
+
+Free Electronic Book: Thinking in Java, 3rd Edition
+This highly acclaimed online book is intended to provide a thorough introduction to the Java programming language. Spanning sixteen chapters plus appendices, Thinking in Java should be sufficient for all but the most advanced or obscure topics. The book covers the basics of objects, coding style, ...
+Keywords: Java (Computer program language), Computer programming -- Handbooks, manuals, etc., JavaScript (Computer program language) -- Study and teaching., Java (Computer program language) -- Computer network resources., Java (Computer program language) -- Handbooks, manuals, etc., Science, Science -- Technology
+
+Introduction to OO Programming in Java - Introduction to the AWT
+This reading material forms part of the "Introduction to the AWT" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, AWT class library reading material, AWT, graphics, AWT class library, object-oriented, OOP, java, programming, object oriented programming, object-oriented programming, OO, object oriented, G622, OO programming, AWT reading material, graphics reading material, object-oriented reading material, OOP reading material, java reading material, programming reading material, object oriented programming reading material, object-oriented programming reading material, OO reading material, object oriented reading material, G622 reading material, OO programming reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Java Components for Mathematics
+Configurable mathematical software components written in the Java programming language and meant to be used on instructional Web pages as interactive illustrations, special-purpose calculators, support for exercises, etc. The components in Version 1 are mostly useful for calculus and pre-calculus ...
+Keywords: Pre-Calculus, Calculus (Single Variable)
+
+Introduction to OO Programming in Java - Introduction to the AWT
+This lecture forms part of the "Introduction to the AWT" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, AWT, graphics, AWT class library, object-oriented, OOP, java, programming, object oriented programming, object-oriented programming, OO, object oriented, G622, OO programming, AWT lecture, graphics lecture, AWT class library lecture, object-oriented lecture, OOP lecture, java lecture, programming lecture, object oriented programming lecture, object-oriented programming lecture, OO lecture, object oriented lecture, G622 lecture, OO programming lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+The History of Java Technology
+History of the java programming language and related technologies. The website has a timeline and a "who's who". "Today, with technology such a part of our daily lives, we take it for granted that we can be connected and access applications and content anywhere, anytime. Because of Java, we expect ...
+Keywords: Java programming, Java language, history of computing, John Gage, James Gosling, Bill Joy, Eric Schmidt, Tim Lindholm, George Paolini
+
+Introduction to OO Programming in Java - Creating Classes
+This reading material forms part of the "Creating Classes" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, classes reading material, class reading material, classes, aggregate classes, java classes, access modifier, access modifiers, class, G622, OO, object oriented programming, OOP, java, programming, OO programming, object-oriented programming, object-oriented, object oriented, aggregate classes reading material, java classes reading material, access modifier reading material, access modifiers reading material, G622 reading material, OO reading material, object oriented programming reading material, OOP reading material, java reading material, programming reading material, OO programming reading material, object-oriented programming reading material, object-oriented reading material, object oriented reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Multimedia for computer science: from CS0 to grades 7-12
+"The pipeline for women and minorities entering CS/IT is shrinking. Using a combination of multimedia e-learning and mentoring, we seek to widen the pipeline in both first year college courses and grades 7-12. We are developing multimedia that complements a new first semester Computer Science (CS0) ...
+Keywords: pipeline, women, minorities, e-learning, CS0, computer science, programming, attract, retain, mentoring, role models, CIMEL, community, underrepresented, middle school, high school
+
+A Visual Approach for Exploring Computational Design
+This thesis concerns the use of computers for learning about computational design and shape grammars. It discusses how software can be developed to create ?microworlds? for designing, and how to take into account the needs of designers whilst retaining a transparency of process in computational ...
+Keywords: Computational Design, CAD, Design Education, Shape Grammars, Exploratory Learning
+
+A Brief History of the "Java" Green Project
+History of Java from java community site. "Java, whose original name was Oak, was developed as a part of the Green project at Sun. It was started in December '90 by Patrick Naughton, Mike Sheridan and James Gosling and was chartered to spend time (and money!) trying to figure out what would be the ...
+Keywords: Java programming, Java language, history of computing
+
+Introduction to OO Programming in Java - Creating Classes
+This reading material forms part of the "Creating Classes" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, methods reading material, classes, aggregate classes, java classes, access modifier, access modifiers, class, G622, OO, object oriented programming, OOP, java, programming, OO programming, object-oriented programming, object-oriented, object oriented, classes reading material, aggregate classes reading material, java classes reading material, access modifier reading material, access modifiers reading material, class reading material, G622 reading material, OO reading material, object oriented programming reading material, OOP reading material, java reading material, programming reading material, OO programming reading material, object-oriented programming reading material, object-oriented reading material, object oriented reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Computer-Aided Mobile GPS Education Set
+Published in Int. J. Engng Ed. Vol. 24, No. 1, pp. 40, 2008. Part of special issue in IJEE on Mobile Technologies in Engineering Education (II). Abstract: "This paper describes the design of a computer-aided educational mobile GPS (Global Positioning System) set. By means of this set, ...
+Keywords: GPS, mobile technology, computer aided, communication, education set
+
+Introduction to OO Programming in Java - Creating Classes
+This reading material forms part of the "Creating Classes" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, classes reading material, class reading material, classes, aggregate classes, java classes, access modifier, access modifiers, class, G622, OO, object oriented programming, OOP, java, programming, OO programming, object-oriented programming, object-oriented, object oriented, aggregate classes reading material, java classes reading material, access modifier reading material, access modifiers reading material, G622 reading material, OO reading material, object oriented programming reading material, OOP reading material, java reading material, programming reading material, OO programming reading material, object-oriented programming reading material, object-oriented reading material, object oriented reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to OO Programming in Java - Creating Classes
+This task guide forms part of the "Creating Classes" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, class task guide, classes, aggregate classes, java classes, access modifier, access modifiers, class, G622, OO, object oriented programming, OOP, java, programming, OO programming, object-oriented programming, object-oriented, object oriented, classes task guide, aggregate classes task guide, java classes task guide, access modifier task guide, access modifiers task guide, G622 task guide, OO task guide, object oriented programming task guide, OOP task guide, java task guide, programming task guide, OO programming task guide, object-oriented programming task guide, object-oriented task guide, object oriented task guide
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to OO Programming in Java - Creating Classes
+This reading material forms part of the "Creating Classes" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, objects reading material, classes, aggregate classes, java classes, access modifier, access modifiers, class, G622, OO, object oriented programming, OOP, java, programming, OO programming, object-oriented programming, object-oriented, object oriented, classes reading material, aggregate classes reading material, java classes reading material, access modifier reading material, access modifiers reading material, class reading material, G622 reading material, OO reading material, object oriented programming reading material, OOP reading material, java reading material, programming reading material, OO programming reading material, object-oriented programming reading material, object-oriented reading material, object oriented reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to OO Programming in Java - Creating Classes
+This reading material forms part of the "Creating Classes" topic in the Introduction to OO Programming in Java module.
+Keywords: ukoer, access modifiers reading material, classes, aggregate classes, java classes, access modifier, access modifiers, class, G622, OO, object oriented programming, OOP, java, programming, OO programming, object-oriented programming, object-oriented, object oriented, classes reading material, aggregate classes reading material, java classes reading material, access modifier reading material, class reading material, G622 reading material, OO reading material, object oriented programming reading material, OOP reading material, java reading material, programming reading material, OO programming reading material, object-oriented programming reading material, object-oriented reading material, object oriented reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+1.00 Introduction to Computers and Engineering Problem Solving, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computer, Civil and Environmental Engineering, software development, searching, object oriented, numerical methods, Java, data structures, computer graphics, graphical user interface, sorting, software, problem solving, programming, Computer Engineering General, C++, C, Computer Programming/Programmer General, engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.092 Introduction to Software Engineering in Java, January (IAP) 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: chat client and server, belote, conditionals, software engineering, introductory programming, inheritance, social network, Electrical Engineering and Computer Science, abstraction, Computer Software Engineering, loops, classes, object oriented programming, programming, java, arrays, methods, design, software design, exceptions, objects
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Web-Based Virtual-Reality for Collaboration on Urban Visual Environment Assessment
+This research aims to facilitate public participation in urban landscape visual assessment (ULVA). To support virtual collaboration in ULVA, it is desirable to provide both quantitative analysis and 3D simulation over the Internet. Although the rendering of urban models in common web browser ...
+Keywords: Geographic Information Systems, Internet, Urban Landscape, Visual Assessment, Virtual Reality
+
+Uses of Java Applets in mathematics education
+This document discusses and illustrates a variety of applications for Java applets designed for mathematics instruction. The author aims to demonstrate that applets are very powerful as a medium of instruction. Examples of ways in which applets can improve mathematics instruction are given. Applets ...
+Keywords: Mathematics, Integrated/interdisciplinary approaches, Integrated/interdisciplinary approaches -- Mathematics, Mathematics -- Geometry -- Angles, Mathematics -- Geometry -- Trigonometry, Mathematics -- Instructional issues
+
+1.001 Introduction to Computers and Engineering Problem Solving, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: C, numerical methods, graphical user interface, software development, computer graphics, computer, engineering, data structures, searching, object oriented, sorting, Java, Civil and Environmental Engineering, Civil Engineering General, C++, problem solving, software, programming
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/ 

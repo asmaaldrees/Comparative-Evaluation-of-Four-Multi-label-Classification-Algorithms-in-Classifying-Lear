@@ -1,0 +1,74 @@
+Intel C++ Compiler 7.1 for Linux
+Software developers in academia and not-for-profit research institutions may find this tool to be helpful for creating applications in the C++ programming language. Intel offers a free C++ compiler for the Linux operating system for non-commercial uses. After completing a brief registration process, ...
+Keywords: Computer software
+
+Software from Alan J. Miller
+Dozens of FORTRAN downloads, organized into logistic regression, TOMS algorithms, special code for F and NAS compilers, code converted from the Naval Surface Warfare Center Library of Mathematics, miscellaneous other code, and applied statistics algorithms.
+Keywords: Statistics
+
+6.827 Multithreaded Parallelism: Languages and Compilers, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: compilers, Parallel processing (Electronic computers), multithreaded parallelism, term rewriting, symmetric multiprocessors, Electrical Engineering and 
+Computer Science, clusters, non-strictness, polymorphism, languages, Electrical Electronics and Communications Engineering, compiler optimizations, nondeterminism, static analysis, higher order functions, explicit parallel programming, implicit parallel programming, lambda calculus
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Computer Language Engineering
+This course analyzes issues associated with the implementation of high-level programming languages. Topics covered include: fundamental concepts, functions, structures of compilers, basic program optimization techniques, the interaction of theory and practice, and using tools in building software. ...
+Keywords: Science, Science -- Technology, Vocational Education, Vocational Education -- Technology, Vocational Education -- Technical
+
+The Numerical Algorithms Group (NAG)
+Products and services; libraries for the solution of mathematical problems: numerical software; statistical software covering all areas of statistical computation; compilers, tools, and code coverters for developers and programmers, symbolic software (AXIOM, a symbolic solver for computer algebra ...
+Keywords: Linear Algebra, Modern Algebra, Statistics
+
+6.035 Computer Language Engineering (SMA 5502), Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computer language engineering, machine code, MIPS, computer language, Electrical Engineering and Computer Science, program optimization, software, compilers, Computer Programming Other, high-level programming, Java
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+The Basics of Programming Embedded Processors: Part 1
+Presented in this series of six articles we will contentrate on high-level programming languages, specifically the C language. High-level languages were once shunned as too inefficient for embedded microcontrollers, but better compilers, more compilerfriendly architectures, and faster processors and ...
+Keywords: Science -- Technology, Vocational Education -- Technology, Vocational Education -- Technical
+
+The Published Data of Robert Munafo
+Mathematical data includes Mu-Ency, The Encyclopedia of the Mandelbrot Set (History, Exploring, Area, Algorithms, Naming, etc), properties of specific numbers, such as 2.68542 . . . and 143, and very large numbers and ways to write them. Programs include the source code for ries, a program for Linux ...
+Keywords: Analytic Number Theory, Computer Science, Equations, Fractals, Music, Number Sense/About Numbers
+
+Iowegian's dspGuru: Digital Signal Processing Central
+dspGuru is a site dedicated to digital signal processing (DSP) designers. It has a good collection of resources for both beginners and seasoned users. Many open-source software titles can be freely downloaded, ranging from implementations of DSP algorithms to compilers and other software development ...
+Keywords: Digital communications, Signal processing, Signal processing -- Digital techniques
+
+sbParser-SDK 3.6 for Win32
+A program that provides an easy way to create an sbParser object that can solve mathematical functions of any length. You can declare up to 24 variables (6 with the ActiveX-control) that can be defined and redefined, which is useful for fast calculations, e.g. for function plotters. Examples for the ...
+Keywords: Functions
+
+Carl Offner's Home Page
+Expository papers by Offner on mathematics and computer science (levels: advanced undergraduate to first-year graduate student): Repetitions of Words and the Thue-Morse Sequence; Finite Fields and Pseudo-Random Number Generation; Some Early Analytic Number Theory; A Little Harmonic Analysis; and Notes ...
+Keywords: Analytic Number Theory, Computer Science, Sequences and Sets
+
+The Brighton University Resource Kit for Students
+The Brighton University Resource Kit for Students (BURKS) is an archive with "compilers, tutorials and reference manuals for dozens of different programming languages, a dictionary of computing with over 13,000 entries...a vast amount of useful software, information about the Internet itself, and ...
+Keywords: Internet, Computer network resources, Computer software, Computer programming, Computer programming -- Handbooks, manuals, etc., Computer programs, Computer programming -- Computer network resources
+
+DIY Calculator
+How Computers Do Math; or preview its table of contents. The book's interactive laboratories guide you in the creation of a simple calculator program to run on your DIY Calculator; its accompanying CD-ROM contains a virtual "Do-it-Yourself (DIY)" computer/calculator ...
+Keywords: History and Biography
+
+Podcast on Software Engineering Careers
+Podcast on software engineering careers produced by the Sloan Career Cornerstone Center. "The explosive impact of computers and information technology on our everyday lives has generated a need to design and develop new computer software systems and to incorporate new technologies into a rapidly ...
+Keywords: engineering careers
+
+An educational tool for teaching compiler construction
+Abstract: "Compiler construction is a well-developed discipline since there is a long tradition of producing compilers supported by practical underlying theory and a large selection of textbooks. In the compiler construction course, students learn how to write a compiler by hand and how to generate ...
+Keywords: exploratory learning, industrial environment simulation, practice driven approach, project courses, role playing games, software, engineering education, systems management, teamwork
+
+Foreign Relations of the United States: Conference of Berlin (Potsdam) 1945, Vol. I & amp; II
+This two–volume publication contains official U.S. State Department documents that pertain to the 1945 Potsdam Conference in Berlin, Germany. Among the numerous documents in the volumes are several that deal with the first atomic test and the use of the atomic bomb against Japan, including a ...
+Keywords: Political Science, Military Science, History, Lawrence, Ernest O., Roosevelt, Franklin D., Stalin, Joseph, Stimson, Henry, Truman, Harry S., Churchill, Winston, Attlee, Clement
+
+Integration of C into an Introductory Course in Machine Organization
+We describe the reform of a fourth-semester course in computer organization in the Computer Science BS curriculum at the University of Texas at El Paso (UTEP), an urban minority-serving institution, where Java and integrated development environments (IDEs) have been adopted as the language and ...
+Keywords: Science -- Engineering, Vocational Education -- Trade and industrial
+
+About Grace Hopper
+Tribute to Grace Hopper on the Grace Hopper Conference website. Excerpt" "Most of us remember seeing Rear Admiral Grace Murray Hopper on television. We recall a charming, tiny, white-haired lady in a Navy uniform with a lot of braid, admonishing a class of young Naval officers to remember their ...
+Keywords: Admiral Grace Hopper, Grace Hopper Celebration conference, gender equity, women in computing

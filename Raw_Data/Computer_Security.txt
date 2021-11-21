@@ -1,0 +1,357 @@
+Computer Security Resource Center (CSRC): History of Computer Security
+This Web site serves as a collection of seminal research papers that "every serious student of computer security should read." Mostly from the 1970's but also stretching into the '80s, the papers were first collectively distributed at the 1998 National Information Systems Security Conference but are ...
+Keywords: Computer networks -- Security measures, Computer security -- Research., Computer security -- Standards., Computer security -- United States, Science, Science -- Technology, Social studies, Social studies -- Technology
+
+Computer Security Resource Center (CSRC): History of Computer Security
+This Web site serves as a collection of seminal research papers that "every serious student of computer security should read." Mostly from the 1970's but also stretching into the '80s, the papers were first collectively distributed at the 1998 National Information Systems Security Conference but are ...
+Keywords: Computer security -- United States, Computer networks -- Security measures, Computer security -- Research., Computer security -- Standards.
+
+Computer Security Institute (CSI) / FBI Survey
+The eighth annual Computer Crime and Security Survey, published on May 29, 2003, can be downloaded from this site after a brief, free registration. Developed jointly by the Computer Security Institute and the San Francisco branch of the Federal Bureau of Investigation, the 21-page report documents ...
+Keywords: Computer security -- Research., Computer security -- United States -- Periodicals, Computer security -- Evaluation., Computer security -- Technological innovations.
+
+Computer Immune Systems
+A research group at the University of New Mexico Computer Science Department is using an analogy to biological immune systems to develop similarly functioning computer security systems. This is a significant departure from existing methods. Computer immune systems are designed to detect and contain ...
+Keywords: Computer security, Computer security -- Technological innovations., Computer networks -- Security measures, Computer algorithms., Computer viruses -- Research., Computer viruses -- Prevention, Computer security -- Research., Science, Science -- Technology
+
+Computer Immune Systems
+A research group at the University of New Mexico Computer Science Department is using an analogy to biological immune systems to develop similarly functioning computer security systems. This is a significant departure from existing methods. Computer immune systems are designed to detect and contain ...
+Keywords: Computer security, Computer networks -- Security measures, Computer security -- Research., Computer algorithms., Computer viruses -- Prevention, Computer viruses -- Research., Computer security -- Technological innovations.
+
+BlackHat Media Archives
+This massive archive of presentations is offered for "the world wide computer security community." The archive can be accessed at no cost, and mainly consists of slide presentations from BlackHat conferences and conventions. These events began in 1997 to help professionals assess potential risks and ...
+Keywords: Computer networks -- Security measures, Computer security -- Research., Computer security -- Evaluation., Computer security -- Standards., Computer security -- Technological innovations.
+
+Computer Security and Data Assurance Associate Degree Program
+In response to the national need for information technology workers with expertise in information systems security, this project has developed an associate degree program in computer security and data assurance at Norwalk Community College. The program leads students either to immediate employment ...
+Keywords: Science, Science -- Technology
+
+Cryptography Overview
+Provides an introduction and overview of the use of cryptography in computer security
+Keywords: Network Security
+
+International Journal of Computer Science and Security (IJCSS) Volume 3, Issue 5
+The Journal of Computer Science and Security (IJCSS) is a refereed online journal which is a forum for publication of current research in computer science and computer security technologies. It considers any material dealing primarily with the technological aspects of computer science and computer ...
+Keywords: Engineering, Technology, Computer science
+
+Vmyths.com: Truth about Computer Security Hysteria
+Citing common misconceptions and the deliberate distribution of misinformation about computer security, the Vmyths Web site serves as a reference to refute virus hoaxes and, more generally, to eliminate widespread hysteria by educating the unaware. False email warnings can cause the recipient to ...
+Keywords: World Wide Web -- Security measures., Computer security, Computer security -- Research., Practical jokes, Computer viruses, Computer viruses -- Prevention, Computer viruses -- Hoaxes
+
+SecurityFocus Online
+This news service from SecurityFocus is an excellent resource to learn about important computer security warnings and alerts. The Web site keeps track of many widely used software applications, while reporting known vulnerabilities as they are found. Viruses and worms are another key topic that ...
+Keywords: Computer security, Computer networks -- Security measures, Computer security -- Software, Computer networks -- Security measures -- Evaluation., Computer security -- Evaluation.
+
+Information for New and Home Users
+The CERT Coordination Center, which specializes in computer security issues, maintains this site to help home computer users understand the importance of proper security practices. Anyone who is setting up their first system or who has put off learning about this critical subject should consider ...
+Keywords: Computer security, Computer networks -- Security measures, Internal security
+
+Network and Computer Security
+A wide variety of educational resources and course materials are available through the Massachusetts Institute of Technologyâs Open Courseware Project. This particular course âNetwork and Computer Securityâ contains problem sets and exams with solutions as well as a full reading list that is ...
+Keywords: Science, Science -- Technology
+
+Cyber Crime Bleeds US Corporations, Survey Shows
+The Computer Security Institute (CSI) released the 2002 CSI/ FBI Computer Crime and Security Survey on April 7, 2002. This Web site is the press announcement for the release, which summarizes the institute's findings and briefly discusses the FBI's response to the growing problem of computer ...
+Keywords: Computer security -- United States, Computer crimes -- United States, Computer crimes -- Economic aspects -- United States.
+
+Honeypots: Tracking Hackers
+Honeypots are a relatively new technology in computer security. They are formally defined as "an information system resource whose value lies in unauthorized or illicit use of that resource." This is an intentionally broad definition, as honeypots can detect network intrusions, track online credit ...
+Keywords: Computer hackers, Computer networks -- Security measures, Computer security -- Research., Computer security -- Technological innovations.
+
+TCPA: Trusted Computing Platform Alliance
+The Trusted Computing Platform Alliance (TCPA) is one of the most high-profile operations for the development and adoption of an industry standard for personal computer security. The main participants in the TCPA are Compaq, HP, IBM, Intel, and Microsoft. This Web site has many documents written for ...
+Keywords: Computer security, Computer networks -- Security measures -- United States, Computer security -- Research., Computer network protocols -- Standards, Computer networks -- Standards, Internet -- Security measures
+
+Scientific American: Computer Hacking
+This article from Scientific American discusses the ins and outs of computer hacking, answering the question "How do computer hackers 'get inside' a computer?" The author of the article, Julie J.C.H. Ryan, is an assistant professor at The George Washington University and co-author of a book on ...
+Keywords: Computer security, Computer security -- Evaluation., Computer security -- Technological innovations., Social studies, Social studies -- Technology and civilization
+
+Bruce Schneier: Crypto-Gram Newsletter
+Crypto-Gram is a "free monthly newsletter providing summaries, analyses, insights, and commentaries on security: computer and otherwise." It is published on the fifteenth of every month by the founder of a network security company. Several 2003 issues have focused on cyber-terrorism, the risks it ...
+Keywords: Computer security -- United States -- Periodicals, Computer networks -- Security measures -- United States -- Periodicals, Internet -- Security measures -- Periodicals., Computer security -- Evaluation., Computer security -- Technological innovations.
+
+Common Criteria
+"The Common Criteria represents the outcome of a series of efforts to develop criteria for evaluation of IT security that are broadly useful within the international community." Providing an international support environment to developers and computer security professionals, this Web site is a focal ...
+Keywords: Computer security, Information technology -- Standards, Computer security -- Standards., Telecommunications -- Security measures -- Standards.
+
+Report: Pro-Islamic Hackers Gear up for Cyberwar
+An October 29, 2002 news article in USA Today describes a recent surge in activity of politically motivated hackers and cyber terrorists. The attacks, which range from Web site defacements to viruses and worms, are probably being perpetrated by individuals opposed to the US war on terrorism and ...
+Keywords: Computer hackers, Computer security, Computer security -- United States, Computer networks -- Security measures, Computer hackers -- United States
+
+Overcoming Security Challenges in Emerging Technologies
+Emerging technologies have the potential to greatly improve the quality of our lives. Without the appropriate checks and balances, however, these emerging technologies have the potential to also compromise our digital (and physical) security and privacy. A key goal of the UW CSE Computer Security ...
+Keywords: computer science, digital security, computer security
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Information security: greater need spurs hiring
+Read about a variety of people who have interesting jobs in the fields of Engineering and Information Technology!
+Keywords: Technology, Technology -- Software Programmer, Technology -- Computer Security Specialist
+
+Computer viruses now 20 years old
+BBC News, 10 November 2003. It begins: "This week computer viruses celebrate 20 years of causing trouble and strife to all types of computer users. US student Fred Cohen was behind the first documented virus that was created as an experiment in computer security. Now there are almost 60,000 viruses ...
+Keywords: computer virus, computer security
+
+Cyber Security &amp; Computer Forensics Project
+The Cyber Security/Computer Forensics Project at Del Mar College trains advanced technicians in the areas of cyber security, computer forensics, and data recovery and create curricula modules for dissemination to community colleges. The initiative develops and disseminates a comprehensive new ...
+Keywords: Science, Science -- Technology, Vocational Education, Vocational Education -- Technology
+
+Adaption and Implementation of a Cybersecurity and Cyberforensics Curriculum in a Two-Year Community College
+In order to meet the growing economic need for computer information technicians in central Indiana, Ivy Tech is enhancing an existing computer information technology curriculum to conform to National Security Telecommunications and Information System Security 4011 standards. Graduates are prepared ...
+Keywords: Science -- Technology, Vocational Education -- Technical
+
+Electronic Authentication: Issues Relating to its Selection and Use
+This report on electronic authentication was released in August 2002 by three working groups of the Federal Public Key Infrastructure Steering Committee. The purpose of the committee is to develop "a public key infrastructure to support secure electronic commerce and electronic messaging." This is ...
+Keywords: Computer security, Computer security -- United States, Electronic commerce, Data encryption (Computer science), Digital signatures., Signature (Law) -- United States -- Data processing.
+
+Privacy Technology Center
+Carnegie Mellon University's Privacy Technology Center was established to create "technologies and related policies with provable guarantees of privacy protection while allowing society to collect and share person-specific information for many worthy purposes." Besides making many of the center's ...
+Keywords: Privacy, Right of -- United States, Computer security -- Research., Computer science -- Societies, etc., Computer security -- Evaluation., Privacy, Right of -- Societies, etc., Science, Science -- Technology, Social studies, Social studies -- Technology
+
+Markle Foundation: The Task Force on National Security in the Information Age
+The main feature of this Web site is the report titled "Protecting America's Freedom in the Information Age," released in October 2002. It examines how to effectively use information technology to collect and analyze information pertinent to national security. The report states that current ...
+Keywords: Computer security, National security, Computer networks -- Security measures, Computer networks -- Security measures -- United States, Computer security -- United States -- Evaluation., Computer networks -- Security measures -- United States -- Evaluation.
+
+Privacy Technology Center
+Carnegie Mellon University's Privacy Technology Center was established to create "technologies and related policies with provable guarantees of privacy protection while allowing society to collect and share person-specific information for many worthy purposes." Besides making many of the center's ...
+Keywords: Privacy, Right of -- United States, Privacy, Right of -- Societies, etc., Computer security -- Research., Computer science -- Societies, etc., Computer security -- Evaluation.
+
+Distributed Intrusion Detection System
+Internet worms and other malicious code often scan firewalls to determine which ports are unprotected. While firewall users have access to their port scanning data in the form of log files, most do not make use of it. The Distributed Intrusion Detection System remotely monitors trends in worldwide ...
+Keywords: Computer security, Computer networks -- Security measures, Internet -- Security measures, Computer viruses -- Prevention, Firewalls (Computer security)
+
+Cyber-Crime Profiling (part 2)
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Robert Shaw. Running time approximately 44 minutes.
+Keywords: UKOER, cybercrime, information security, Computer security
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Hong Kong domain name dispute Msc level
+A post graduate level simulation produced for computer security students taking a law module. This simulation examines the legal response to domain name disputes in Hong Kong SAR and the United Kingdom.
+Keywords: domain name disputes, intellectual propety law, computer science, cyber squatting, UKOER
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Honeypots and Sandboxes
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Robert Shaw. Running time approximately 39 minutes.
+Keywords: UKOER, Computer security, forensic computing
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to E-investigation and Evidence (part 2)
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Hatem Tammam. Running time approximately 18 minutes.
+Keywords: UKOER, Computer security, forensic computing
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Learn HTML in 12 Easy Lessons
+Would you like to learn HTML? Use this step-by-step tutorial to learn all the basics right here.
+Keywords: Hyptext Markup Language (HTML), computers, technology, markup languages, instructional aids, Technology, Technology -- Software Programmer, Technology -- Technical Director for Computer Animation, Technology -- Computer Security Specialist
+
+Methods and Issues of E-investigation
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Hatem Tammam. Running time approximately 33 minutes.
+Keywords: UKOER, forensic computing, Computer security
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Computers, Crime and the Law
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Robert Shaw. Running time approximately 55 minutes.
+Keywords: UKOER, cybercrime, computer crime, Computer security
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Introduction to E-investigation
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Hatem Tammam. Running time approximately 45 minutes.
+Keywords: UKOER, forensic computing, Computer security
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Honeypots and Trojans
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Robert Shaw. Running time approximately 49 minutes.
+Keywords: UKOER, Computer security, forensic computing
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Cyber-Crime Profiling
+Video lecture from a series on Methods and Issues of e-Investigation delivered by Robert Shaw. Running time approximately 47 minutes.
+Keywords: UKOER, cybercrime, information security, Computer security
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Video on How Computer Viruses Work
+Video narrated by Marhall Brain, originator of the "How Stuff Works" website. "If you've had a computer for any long period of time, you've probably encountered a computer virus. Find out exactly what they are, and how they work in this HowStuffWorks video."
+Keywords: computer virus, computer security
+
+Computer Security in Undergraduate Computing Curricula: The Challenge of Educating the Next Generation of Information Security Specialists
+Computer science educators must prepare and train many more undergraduates in thefield of computer security. In particular, students need extensivehands-on training and education on what I call "the art and science of attack and defense." That means providingcoursework covering the concepts of ...
+Keywords: Non-journal article, Teaching strategies &amp; guidelines, Learner, Undergraduate lower division 13-14, Undergraduate upper division 15-16, Education, Learn, Teach
+
+Partnership in Cybersecurity and Information Assurance
+This project is comprehensively integrating cybersecurity concepts into the curriculum of the Computer Information Systems (CIS) Department at Borough of Manhattan Community College (BMCC). In addition, the project is offering an eight-week summer instructional program (a "bridge" program) for high ...
+Keywords: Science -- Technology
+
+Digital Forensics Certificate
+In response to a growing need for technicians trained in both computer security and digital forensics, Erie Community College's Digital Forensics Certificate program presents not only "the technological side of security management, but the law enforcement perspective and investigative skills needed ...
+Keywords: Science -- Technology, Vocational Education -- Technology, Social studies -- Criminology
+
+Cryptology ePrint Archive
+The International Association for Cryptologic Research (IACR) maintains this archive of nearly 400 research papers on various topics in cryptology. Contents date back to 1996, and new material is posted most weeks. Papers generally describe original theories about a certain topic, analyses of ...
+Keywords: Computer security, Cryptography, Data encryption (Computer science), Cryptography -- Handbooks, manuals, etc.
+
+Gaining access via net attacks
+Application and operating system attacks (part 2) and gaining access via network based attacks. Video lecture from a series on Methods and Issues of e-Investigation delivered by Dan Brearley. Running time approximately 47 minutes.
+Keywords: UKOER, Computer security, Session tracking, Cookies, cloning
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Firewalls op het werk.
+At the end of this unit: You can raise a matter with the board about the computer security at the airport. When performing this task: you have to persuade people of the necessity of your proposal by summing up possible consequences. you have to dr
+Keywords: computer, afstandsonderwijs
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.857 Network and Computer Security, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, electronic cash, information-flow models, authentication schemes, secret-key, identification schemes, signature, multi-user computer systems, intrusion detection, software protection, mandatory access control, email security, World Wide Web, secure operating systems, viruses, public-key, physical security, elementary cryptography, covert channels, authentication logic, Computer and Information Systems Security, www, secure web browsers, network security, formal models, electronic mail security, electronic voting, Computer Systems Networking and Telecommunications, certificates, discretionary access control, firewalls, biometrics, digital signatures, integrity models, distributed computer systems, ecommerce, payment protocols, architecture engineering, electronic commerce, System Administration/Administrator, computer security, risk assessment
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Firewalls op het werk.
+At the end of this unit: You can raise a matter with the board about the computer security at the airport. When performing this task: you have to persuade people of the necessity of your proposal by summing up possible consequences. you have to dr
+Keywords: computer, afstandsonderwijs
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Internet Quarantine: Requirements for Containing Self-Propagating Code
+Appearing at the INFOCOM conference in April 2003, this research paper provides insight into critical factors necessary to contain outbreaks of self-propagating code on the Internet. Citing the outbreak of the Code-Red worm in 2001 as an example, the authors justify the need for better methods of ...
+Keywords: Computer security, Computer networks -- Security measures, Computer viruses, Computer viruses -- Prevention, Computer networks -- Security measures -- Evaluation., Computer security -- Evaluation.
+
+Inside risks: Free speech online and offline
+Article in Communications of the ACM Volume 45, Number 6 (2002), Page 120. Excerpt: Why do we get so many bad laws about information? Many of them have to do (in some broad sense) with risks: with the perceived vulnerability of the Internet to hackers, credit-card thieves, and other undesirables. ...
+Keywords: free speech, freedom of information, computer security, internet security
+
+A Net Meltdown is Inevitable
+On October 22, 2002, an attack on the thirteen servers that act as the backbone of the Internet was carried out, briefly disabling nine of them. This drew attention to the often criticized organization that operates these servers, the Internet Corporation for Assigned Names and Numbers (ICANN). This ...
+Keywords: Computer security, Computer networks -- Security measures, Internet -- Security measures, Internet Corporation for Assigned Names and Numbers.
+
+Animation of Buffer Overflow, Cryptography and Other Security Software
+Interactive modules and animations of various buffer overflow vulnerabilities and simulated attacks. Support material includes instructor guide, detailed explanations for C programmers (experienced as well as novice), checklists for code inspection, evaluation of defense techniques, overall process, ...
+Keywords: Computer Security, Software Engineering 
+
+Chaffing and Winnowing: Confidentiality without Encryption
+This paper, provided by Ronald L. Rivest, professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology, proposes a new method of computer message security. The method is called "chaffing and winnowing." Messages are broken up into packets and each packet is ...
+Keywords: Computer security, Telecommunication systems -- Security measures, Computers -- Access control -- Keystroke timing authentication., Data protection, Science, Science -- Technology, Vocational Education, Vocational Education -- Technology
+
+NetworkSolution: Introduction to Cryptography
+This Web page provides a fairly non-technical introduction to some of the key principles and applications of cryptography. After a brief overview of the topic and a discussion of some basic terminology, the site addresses common cryptographic algorithms, their function, and how they work. A ...
+Keywords: Computer networks -- Security measures, Cryptography -- Handbooks, manuals, etc., Data encryption (Computer science) -- Handbooks, manuals, etc., Firewalls (Computer security), Cryptography -- Information services
+
+TechNewsWorld
+Billed as "All Tech, All the Time", the TechNewsWorld is a good way to stay on top of the latest developments in the worlds of technology, computing, information technology management, and other related areas. On the homepage, visitors can take a look at some of their top stories and then move on ...
+Keywords: Internet, Information technology, Computer security, Wireless communication systems, Information technology -- Management, Science, Science -- Technology, Vocational Education, Vocational Education -- Technology, Vocational Education -- Business, Vocational Education -- Technical
+
+Final Implementation Report and Recommendations of the Committee on ICANN Evolution and Reform
+On October 22, 2002, an attack on the thirteen servers that act as the backbone of the Internet was carried out, briefly disabling nine of them. This drew attention to the often criticized organization that operates these servers, the Internet Corporation for Assigned Names and Numbers (ICANN). ...
+Keywords: Computer security, Computer networks -- Security measures, Internet -- Security measures, Internet Corporation for Assigned Names and Numbers.
+
+Information Systems Security Certificate
+For this three-year project, faculty at Erie Community College (ECC) and the State University of New York (SUNY) Buffalo's Center of Excellence in Information Systems Assurance Research and Education are working together to develop four new courses, Introduction to Computer and Information Security, ...
+Keywords: Science, Science -- Technology, Science -- Instructional issues, Vocational Education, Vocational Education -- Technology
+
+MIT: Computation Structures Group
+The Computation Structures Group is part of the Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology (MIT). Their mission is "to enable the creation and development of high-performance, reliable and secure computing systems that are easy to interact ...
+Keywords: Computer science -- Computer network resources, Computer science -- Study and teaching (Higher), Computer systems -- Study and teaching (Higher), Science, Science -- Engineering, Science -- Technology
+
+White Paper on Corporate Computer Disposal Issues
+This white paper does an excellent job of raising awareness about computer disposal security issues. Although it is presented as a resource for corporate entities, the 24-page document makes some good points that can be useful to any computer user. A common misconception is that simply formatting a ...
+Keywords: Computer security, Computers, Computers -- Access control, Recycling (Waste, etc.)
+
+Cryptographic Toolkit
+The Cryptographic Toolkit is being developed by a subgroup of the National Institute of Standards and Technology (NIST), whos members work to implement and promote cryptographic technologies and efficient practices. The purpose of the toolkit is to "enable US Government agencies and others to select ...
+Keywords: Computer security, Computer networks -- Security measures, Data encryption (Computer science), Data encryption (Computer science) -- Handbooks, manuals, etc., Data encryption (Computer science) -- Standards.
+
+Internet Guide
+The Internet Guide is a no-nonsense site intended for Internet newbies. It consists of several short articles that discuss the basics of Internet navigation, common terms and phrases, Netiquette, and much more. Some specific technologies are also mentioned, such as Telnet and newsgroups. The Guide ...
+Keywords: Internet, Internet -- Handbooks, manuals, etc., Computer security, Browsers (Computer programs), Web search engines, Computer networks -- Security measures, Browsers (Computer programs) -- Handbooks, manuals, etc.
+
+Speex: A Free Codec For Free Speech
+Speex is an Open Source/Free Software patent-free audio compression format designed for speech. The Speex Project aims to lower the barrier of entry for voice applications by providing a free alternative to expensive proprietary speech codecs. Moreover, Speex is well-adapted to Internet applications ...
+Keywords: free speech, freedom of information, computer security, internet security
+
+MIT: Computation Structures Group
+The Computation Structures Group is part of the Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology (MIT). Their mission is "to enable the creation and development of high-performance, reliable and secure computing systems that are easy to interact ...
+Keywords: Computer science -- Study and teaching (Higher), Computer science -- Computer network resources, Computer systems -- Study and teaching (Higher), Science, Science -- Engineering, Science -- Technology
+
+Architectures for Intrusion Tolerant Database Systems
+The Cyber Security Group at Pennsylvania State University is developing database software that can detect "attacks by malicious transactions" and repair the database with no interruption. This research paper proposes five different schemes for implementing such a system, with each one building on ...
+Keywords: Computer security, Computer networks -- Security measures, Database design, Online databases., Database security.
+
+The TechTeacher Network
+Incorporating three podcasts (The TechTeacher, What's on the Web, and Bryte Idea Tech Tips), the TechTeacher Network offers the latest news and trends in educational technology. Topics here include creating web presentations, computer security, audiobooks, and various tools such as ...
+Keywords: Educational Technology, Educational Technology -- Educational media
+
+Beyond Discovery: The Code War
+This fascinating article explores the history and development of cryptography. Published in February 2003 by a division of the National Academy of Sciences, the article has substantial information on the applications of encryption in today's wired world. Additionally, it looks back at some of the ...
+Keywords: Computer security, Cryptography, Data encryption (Computer science)
+
+Center for Systems Security and Information Assurance (CSSIA)
+Security is on the minds of many in higher education, and the Center for Systems Security and Information Assurance (CSSIA) is very interested in playing a major role in this area of training and scholarship. With funds from the National Science Foundation, CSSIA has been working on developing an ...
+Keywords: Information technology -- Study and teaching, Computer security -- Study and teaching, Science, Science -- Technology, Science -- Instructional issues, Vocational Education, Vocational Education -- Technical, Vocational Education -- Instructional issues
+
+Cryptographic Toolkit
+The Cryptographic Toolkit is being developed by a subgroup of the National Institute of Standards and Technology (NIST), whos members work to implement and promote cryptographic technologies and efficient practices. The purpose of the toolkit is to "enable US Government agencies and others to select ...
+Keywords: Data encryption (Computer science), Data encryption (Computer science) -- Handbooks, manuals, etc., Computer security, Computer networks -- Security measures, Data encryption (Computer science) -- Standards., Science, Science -- Technology
+
+Information Security Basics
+Information Security Basics is designed to teach entry and mid-level IT workers the technological fundamentals of information security. The goal of this course is to provide trainees some preliminary knowledge of computer security to help in identifying and stopping various cyber threats. In ...
+Keywords: Information Security
+
+Go Digital: Your Digital World
+Go Digital is a "weekly BBC World Service programme that looks at how technology is changing our lives." Broadband users can watch video Webcasts of nearly two years worth of past programs, while audio is available to dialup users. Each episode lasts approximately 25 minutes, and features two or ...
+Keywords: Technology, Technology -- Social aspects, Information technology, Internet -- Technological innovations, Technology -- Study and teaching, Technology -- Research, Technology -- Great Britain, Digital media
+
+CERT Coordination Center
+The CERT Coordination Center is part of the Software Engineering Institute at Carnegie Mellon University. Its primary function is to work with industry to identify and eliminate Internet security vulnerabilities. Additionally, the center analyzes business and personal software to find potentially ...
+Keywords: Internet -- Security measures, Internet -- Security measures -- Research., Internet -- Security measures -- Societies, etc., Information storage and retrieval systems -- Security measures -- Research.
+
+Copy Protection
+With the recent shut down of the peer-to-peer file sharing utility Audiogalaxy, copy protection of all kinds of data is a very hot topic. Distribution of music, movies, and software is running rampant, and many believe the solution lies in better copy protection.To learn the basics of copy ...
+Keywords: Computer security, Computer security -- United States, Fair use (Copyright) -- United States, Copyright -- Music -- United States., Copyright and electronic data processing., Piracy (Copyright), Data encryption (Computer science), Data encryption (Computer science) -- Standards.
+
+Toward a Universal Order of Cyberspace: Managing Threats from Cybercrime to Cyberwar
+Although the danger of cyber terrorism and other forms of Internet-related crime is the subject of great debate, this report from the World Federation of Scientists does not downplay the potential consequences of such attacks. Developed by the organization's Permanent Monitoring Panel on Information ...
+Keywords: Computer hackers, Computer security, Terrorism, Cyberspace, Internet -- Security measures, Information storage and retrieval systems -- Security measures, Database security.
+
+United States Computer Emergency Readiness Team
+Established in 2003, the United States Computer Emergency Readiness Team (US-CERT) represents a substantial partnership between the Department of Homeland Security and the public and private sectors. The primary goal of US-CERT is "to protect the nation's Internet infrastructure." To achieve this ...
+Keywords: Internet -- Security measures, Computer networks -- Security measures, Computer security -- United States, Computer crimes -- United States, Science -- Technology, Social studies -- Criminology
+
+Digital Libraries - Free Speech And Privacy Under Attack In Cyberspace
+Article in Crossroads, Volume 1, Issue 4 (May 1995) table of contents Special issue on computers and society. Excerpt: "Citizens of cyberspace who find their physical feet resting firmly on American soil are not immune to the long arm of U.S. law. And as the number of Americans journeying into ...
+Keywords: free speech, freedom of information, computer security, internet security
+
+Institute for Security Technology Studies
+The Institute for Security Technology Studies (ISTS) at Dartmouth College "is dedicated to pursuing research that addresses critical national needs for security technology and policy in cyber and emergency response environments." Its interdisciplinary research draws from science, engineering, social ...
+Keywords: Computer security, Security systems, Social studies, Social studies -- Technology
+
+How Computer Viruses Work
+Part of the HowStuffWorks website, this site is organized around how computer viruses work, virus origins and history, virus evolution, worms, and protection. It also has a good set of related links. It begins: "Strange as it may sound, the computer virus is something of an Information Age marvel. ...
+Keywords: computer virus, computer security
+
+Protecting Applications against Malice Using Adaptive Middleware
+Security in distributed computing systems is a very important area of research, especially as malicious behavior is a growing cause of concern for businesses and organizations. This paper addresses an emerging method of maintaining security in untrustworthy environments. Until recently, the ...
+Keywords: Computer security, Computer networks -- Security measures, Middleware -- Security measures., Electronic data processing -- Distributed processing -- Security measures.
+
+Institute for Security Technology Studies
+The Institute for Security Technology Studies (ISTS) at Dartmouth College "is dedicated to pursuing research that addresses critical national needs for security technology and policy in cyber and emergency response environments." Its interdisciplinary research draws from science, engineering, social ...
+Keywords: Computer security, Security systems, Science, Science -- Technology, Social studies, Social studies -- Technology
+
+An FPGA Implementation of the Linear Cryptanalysis
+This advanced research paper addresses an application of field-programmable gate arrays (FPGAs) for a computationally intensive cryptographic task. Specifically, the method of linear cryptanalysis is used to break a Data Encryption Standard key (a former standard used by the US). Prior to this work, ...
+Keywords: Computer security, Computer networks -- Security measures, Cryptography, Data encryption (Computer science)
+
+Viewpoint: The COPA battle and the future of free speech
+Article in Communications of the ACM, Volume 42, Number 1 (1999), Pages 24-25. Excerpt: "Last October, a new battlefront opened in the U.S. war between those who see a risk to childhood's innocence and those who see a risk to free speech. The omnibus budget package includes the Child Online ...
+Keywords: free speech, freedom of information, computer security, internet security, COPA
+
+Minor in Computer Science at BYU
+Beginning Fall 2007, BYU students will be able to earn a minor in computer science. The minor is a new addition to the Computer Science family, which already includes bachelors degrees in Computer Science and Computer Science with a Bioinformatics Emphasis as well as masters and doctoral degrees in ...
+Keywords: computer science
+
+11-10-1983 First Documented Experimental Computer Virus
+Engineering Pathway's "Today in History" blog for November 10. "Today in History - November 10, 1983 - Fred Cohen presented to a security seminar the results of his test on the first documented virus, created as an experiment in computer security. The first virus in the wild was found earlier in ...
+Keywords: computer virus, Fred Cohen
+
+Anti-Terrorism Technology
+The September 11 terrorist attacks have spurred intense research efforts to develop new and better technologies that can be used in the War on Terror. Whether these innovations are designed to combat immediate threats or prevent future disasters, they will undoubtedly save lives. The Bridge (1) is a ...
+Keywords: Computer security -- Research., Bioterrorism -- Research -- Computer network resources., United States. Office of Homeland Security., Terrorism -- Prevention -- Technological innovations -- Computer network resources.
+
+Electronic Surveillance
+The FBI maintains a Web site (1) that explains the purposes and ramifications of the Communications Assistance for Law Enforcement Act (CALEA). In addition to discussing the telecommunication industry's role in supporting the act, the site defines electronic surveillance and offers several documents ...
+Keywords: Computer networks -- Security measures, Electronic surveillance, Internet -- Security measures, Electronic surveillance -- Government policy -- United States., Computer security -- Technological innovations. 

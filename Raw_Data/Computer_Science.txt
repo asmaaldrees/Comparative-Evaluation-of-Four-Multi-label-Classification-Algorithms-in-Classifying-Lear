@@ -1,0 +1,983 @@
+18.062J Mathematics for Computer Science, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is:
+Keywords: counting principles, sets, integer congruences, structural induction, permutations and combinations, asymptotic notation and growth of functions, mathematical definitions, generating functions, computer science, recursive definition, formal logic notation, proofs and applicable methods, Electrical Engineering and Computer Science, well-ordering, Mathematics, recurrences, Mathematics and Computer Science, discrete probability, relations, induction, proof methods, state machines and invariants, elementary graph theory, discrete mathematics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.089 Great Ideas in Theoretical Computer Science, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Computer and Information Sciences Other, p and np, turing machines, logic, efficient algorithms, pac learning, complexity, Electrical Engineering and Computer Science, quantum computing, quantum algorithms, godel, computer science, private key cryptography, finite automata, np completeness, public key cryptography, reducibility, computability, theoretical computer science, polynomial time
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.00 Introduction to Computer Science and Programming, Fall 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: libraries, binary search, algorithms, computation, exceptions, Python programming, building computational models, classes, big O notation, modules, Electrical Engineering and Computer Science, software engineering, recursion, Computer Science, control flow, inheritance, computer science, optimization problems, simulation, problem solving
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.895 Essential Coding Theory, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: algorithmic significance, Electrical Engineering and Computer Science, theoretical computer scientists, decoding algorithms, applications, limitations, Hamming, error-correcting codes, combinatorial performance, theorems, asymptotic, Shannon, techniques, computer science, Computational Mathematics, Computer Programming/Programmer General
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.170 Laboratory in Software Engineering, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: testing, design patterns, object modeling, Electrical Engineering and Computer Science, modularity, abstractions, Computer Science, programming method, specification, software systems, data abstraction, programming projects
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.824 Distributed Computer Systems Engineering, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.976 High Speed Communication Circuits and Systems, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: wireless, transmission line effects, gates, Electrical Engineering and Computer Science, data link, registers, narrowband, mixers, broadband, communication, high speed amplifiers, Telecommunication systems, Computer Science, circuit design, high speed communication circuits, Electrical Electronics and Communications Engineering, circuit, phase locked loops, high speed communication systems, behavioral level simulation techniques, VCO s, transistor level design
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.884 Complex Digital Systems, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: power, architectural exploration, constraints, robust, standard cell, project-oriented, timing, FPGA, Computer Science, construction, area, VLSI implementation, Mathematical Statistics and Probability, frameworks, designs, multi-million-gate, high-level synthesis tools, VLSI chips, reusable modules, Electrical Engineering and Computer Science, digital systems, modular, standard commercial EDA tools, CMOS
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.863J Natural Language and the Computer Representation of Knowledge, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: phonology, artificial intelligence, 6.863, language learning, Computer Engineering General, shift-reduce parsers, syntax, chart parsing, compositionality, computational methods, part of speech tagging, semantic interpretation, Earley s algorithm, computational models of language, Brain and Cognitive Sciences, origins of language, applications, feature-based parsing, 2-level morphology, natural language system design, semantics, syntactic features, lexical semantic, parsing algorithms, thematic structure, machine translation, quantifiers, grammars, Computational linguistics, discourse structure, computer science, automata, morphology, rule-based tagging, kimmo, pragmatic structure, context-free parsing, integrated lexicon, semantic structure, word modeling, Electrical Engineering and Computer Science, tagging, lexical-conceptual structure, brill tagger, hmm tagging, psycholinguistics, natural language processing, parsing, linguistic theory
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.867 Machine Learning, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: modern machine learning methods, linear regression, support vector machines, Electrical Engineering and Computer Science, boosting, Electrical Electronics and Communications Engineering, machine learning algorithms, model selection, classification, hidden Markov models, linear/additive models, statistical inference, active learning, Bayesian networks, generalization, representation
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.302 Feedback Systems, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: frequency-domain design, compensation techniques, Electrical Engineering and Computer Science, Nyquist criterion, feedback system, root locus method, internal compensation, operational amplifiers, phase lock loops, time-domain performance, frequency-domain performance. stability, power coverter systems, Electrical Electronics and Communications Engineering, external compensation
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.038J The Art of Approximation in Science and Engineering, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: algebraic symmetry, tree representations, homogeneous hierarchies, random walks, conservation/box models, divide and conquer, drag, Electrical Electronics and Communications Engineering, Buckingham Pi Theorem, flight, densities, pentagonal heat flow, dimensional analysis, science, UNIX, oil imports, triangle bisection, hydrogen size, managing complexity, extreme cases, pulley acceleration, heterogeneous hierarchies, jump heights, Mechanical Engineering, discretization, bending of light, swimming, waves, Electrical Engineering and Computer Science, cycling, symmetry, spring models, simple calculus, flying, invariance, proportional reasoning, gold, special cases, approximation, discarding information, engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.892 Computational Models of Discourse, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: natural language, automatic discourse processing, plan recognition algorithms, speech processing, automatic essay writing, Speech and Rhetorical Studies, symbolic learning, machine learning, discourse analysis, models of coherence and cohesion, discourse structure, text segmentation, Electrical Engineering and Computer Science, dialogue systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.641 Electromagnetic Fields, Forces, and Motion, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: electromechanical waves, electromagnetic, energy conservation, sensors, equations of motion, Maxwell s equations, boundary value problems, charge transport phenomena, synchronous, Electrical Engineering and Computer Science, dielectric, conduction, motion, magnetization, transducers, polarization, microelectromechanical systems, electromagnetic field, magnetic, induction, force densities, quasistatic, forces, commutator machines, electric, stress tensors, Physics General, thermodynamics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.635 Advanced Electromagnetism, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: remote sensing, integral equations, random media, scattering, negative refraction, microstrip integrated circuits, EM waves, Green s functions, photonic crystals, radiative transfer theory, electrodynamics, periodic structures, time domain method of moments, Electromagnetism, planarly layered media, Electrical Engineering and Computer Science, quantum optics, electromagnetism, special relativity, dispersive media, effective permittivities, Electrical Electronics and Communications Engineering, method of moments, waves
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.977 Semiconductor Optoelectronics: Theory and Design, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: optoelectronics, tunable lasers, microring devices, rate equation formalism, semiconductor optoelectronics, population inversion, coupled mode theory, Electrical Electronics and Communications Engineering, Semiconductors, resonator structures, band theory of solids, photons, fiber optic communications, modulation response, noise models, laser threshold, distributed feedback lasers, Optoelectronic devices, Matrix methods, Electrical Engineering and Computer Science, semiconductor
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.728 Applied Quantum and Statistical Physics, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: tunneling, Fermi-Dirac, atomic force microscope, quantum mechanics, distribution function, thermonic emitter, Engineering Physics, hydrogen atom, Bose-Einstein, Schrodinger, applied quantum physics, harmonic oscillator, electron microscope, quantum physics, scanning tunneling microscope, Boltzmann, variational methods, Electrical Engineering and Computer Science, statistical physics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.334 Power Electronics, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, dc-dc converters, power supplies, filters, modeling, radio-frequency power amplifiers, rectifiers, inverters, energy conversion and control, magnetic components, power circuit design, motion control systems, analysis, power electronics, power semiconductor devices, control techniques, Electrical Electronics and Communications Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.090 Building Programming Experience: A Lead-In to 6.001, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, practice problems, laboratory, collaboration, Computer Programming Other, instruction in programming fundamentals, computational terms, programming, Computer Programming/Programmer General
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.912 Introduction to Copyright Law, January (IAP) 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: DVDs and encryption, Lexis-Nexis, copyright as applied to music, 1976 Copyright Act, fair use, Grokster, Publishing, free software, The 1998 Digital Millennium Copyright Act, Library Access to Music Project, Software licensing, Electrical Engineering and Computer Science, opyright law, and education, american law structure of federal law, computers, Napster, The GNU General Public License, and P2P file-sharing, broadcasting, legal research and citations
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.400J Automata, Computability, and Complexity, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: completeness, infinite objects, computability, interactive proof systems, Electrical Engineering and Computer Science, mathematical models, complexity, undecidability, Turing machines, Church s Thesis, reducibility, Computational Mathematics, finite representation, automata, time complexity, Mathematics, NP-completeness, context-free languages, computation, finite automata, regular languages, probabilistic computation, 18.400, 6.045, partial recursive functions
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.431 Probabilistic Systems Analysis and Applied Probability, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: uncertainty modeling, limit theorem, uncertainty, uncertainty analysis, Markov process, probabilistic systems, simple random processes, transform techniques, Electrical Engineering and Computer Science, Mathematical Statistics and Probability, applied probability, probability distribution, uncertainty quantification, sample space, statistical inference, probabilistic systems analysis, random variables, analysis of uncertainty
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.001 Structure and Interpretation of Computer Programs, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: interpretation, abstraction, structure, Scheme, iteration, programming, languages, Computer Programming/Programmer General, recursion, computer programs, object oriented, Electrical Engineering and Computer Science, procedures
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+3.43J Integrated Microelectronic Devices, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, energy band diagram, metal-semiconductor junction, device characterization, semiconductor, short-channel MOSFET, device design, silicon, metal-oxide semiconductor structure, circuit, Materials Science and Engineering, integrated microelectronic devices, p-n junction, bipolar junction transistor, physics, MOS field-effect transistor, Electrical Electronics and Communications Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.911 Transcribing Prosodic Structure of Spoken Utterances with ToBI, January (IAP) 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: American English, prosodic structure, cognitive psychology, sample utterances, psycholinguistics, ToBI tutorial, phonetics, linguistics, speech acoustics or music, prosody of speech, ToBI system, intonation, Electrical Engineering and Computer Science, phonetic implementation, prosodic differences, Tones and Break Indices, phonology, rhythm, Speech and Rhetorical Studies, labelling, spoken utterances, grouping
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.111 Introductory Digital Systems Laboratory, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Boolean algebra, Electrical Engineering and Computer Science, FSM, digital circuit design, digital oscilloscopes, digital logic, Electrical Electronics and Communications Engineering, digital paradigm, PROM, finite-state machines, microprogrammed systems, digital abstractions, PAL, VHDL, flip-flops, laboratory, digital systems laboratory
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.774 Physics of Microfabrication: Front End Processing, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sige materials, plasma and reactive ion etching, Electrical Engineering and Computer Science, refractory metal silicides, processing, silicon, integrated circuit fabrication, chemical vapor deposition, rapid thermal processing, technological limitations, integrated circuits, integrated circuit design, fabrication processes, monolithic integrated circuits, process modeling, ion implantation, thermal oxidation, device operation, physical models, physical vapor deposition, Computer Hardware Engineering, bulk crystal growth, process simulation, epitaxial deposition, solid-state diffusion, Electrical Electronics and Communications Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.189 A Gentle Introduction to Programming Using Python, January (IAP) 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Computer Programming/Programmer General, dictionaries, control flow, objects, strings, Python, introduction to programming, structuring programs, incremental programming, lists, data structures, web search, mutability, recursion, branching and repetition, Electrical Engineering and Computer Science, teamwork, modularity, scope, tuples, debugging programs, how to think like a computer scientist
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.691 Seminar in Electric Power Systems, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: generating plants, steady-state and transient stability, Electrical Engineering and Computer Science, transformers, transmission lines, dynamics and control of multimachine systems, economic dispatch, computation and simulation, Planning and operation of modern electric power systems, Electrical and Power Transmission Installers Other, power system structure and operation, representation of components, power flow analysis, engineering aspects, system protection, loads, mobil and isolated power systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+STS.085 Ethics and the Law on the Electronic Frontier, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: academic freedom, societal needs, copyright control, encryption, Science Technology and Society, individual rights, Electrical Engineering and Computer Science, technology, software, intellectual property, copyright, communications, privacy, computer crime, Computer and Information Sciences General, ethics, computer, free speech, policy, national security, copyright law
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.101 Introductory Analog Electronics Laboratory, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: curve tracer, audio and radio frequency circuits, analog electronic circuits, digital multimeter, diode characteristics, electronic test equipment, JFETs, audio amplifier, preamplifier, op-amps, Electrical Electronics and Communications Engineering, oscilloscope, Electrical Engineering and Computer Science, function generator, transistors
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.002 Circuits and Electronics, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, independent and dependent sources, Fundamentals of the lumped circuit abstraction, Dynamics of first- and second-order networks, design in the time and frequency domains, Electrical/Electronics Drafting and Electrical/Electronics CAD/CADD, Resistive elements and networks, amplifiers, analog and digital circuits and applications, digital abstraction, switches and MOS devices, and energy storage elements
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.972 Algebraic Techniques and Semidefinite Optimization, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, semidefinite optimization, convexity-based ideas, efficient implementations, Computational Mathematics, polynomial equations, algebraic and computational techniques, complexity results, inequalities, optimization problems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.630 Electromagnetics, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: radiation, forces, guidance, electromagnetic waves, transmission line theory, dielectric waveguides, antennas, dipole antennas, phase matching, electrodynamics, equivalent principle, Engineering Mechanics, Maxwell, circuit, polarization, Electrical Engineering and Computer Science, wireless communications, energy, electromagnetics, propagation, optical fibers
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.642 Continuum Electromechanics, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: magnetohydrodynamic and electrohydrodynamic pumps and generators, static equililbrium, electromechanical systems, continuum feedback control, streaming interactions, statics, heat transfer, electromechanical flows, electromechanics, electrokinetics, field coupling, dynamics, ferrohydrodynamics, plasma dynamics, physiochemical systems, electron beam devices, Electromechanical and Instrumentation and Maintenance Technologies/Technicians Other, Electromechanical Technology/Electromechanical Engineering Technology, Electrical Engineering and Computer Science, materials processing, thermal and molecular diffusion, continuum mechanics, mechanical and electromechanical transfer relations
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+24.968J Speech Communication, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: prosodic aspects of speech, speech generation, 6.541, sound patterns, speech communication, acoustical theory, HST.710, articulatory phonetics, phonetic features, speech recognition, Linguistics and Philosophy, 24.968, Electrical Engineering and Computer Science, natural languages, Communication Studies/Speech Communication and Rhetoric, speech disorders, speech production, lexical access, Health Sciences and Technology, lexicons
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.372J Design and Fabrication of Microelectromechanical Devices, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Electronics and Communications Engineering, fluid flow, microscale transport, noise, microsystem design, sensors, inertial sensors, sensing/control systems, Mechanical Engineering, structural behavior, sensing methods, actuators, signal-to-noise, material properties, realistic microfabrication process, optical MEMS, amplifiers feedback systems, Electrical Engineering and Computer Science, microfabrication technologies, sensitivity, bioMEMS
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.763 Applied Superconductivity, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: quantum computing, applied superconductivity, superconducting electronics, Electrical Engineering and Computer Science, quantized circuits, electrodynamics of superconductors, the critical state model, type II superconductors, equivalent circuits, critical magnetic fields, London s model, superconducting materials, Josephson Junctions, microscopic theory of superconductivity, high-speed superconducting electronics, superconducting quantum devices, Engineering Physics, flux quantization, pinning
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.437J Distributed Algorithms, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: process synchronization, distributed graph algorithms, computational resources, concurrency control, distributed computation, distributed consensus, clock synchronization, concurrent algorithms, Electrical Engineering and Computer Science, fault tolerance, communication, Computational Mathematics, distributed networks, distributed algorithms, Mathematics, Electrical Electronics and Communications Engineering, algorithm, deadlock detection, distributed termination
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.435 System Identification, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: time series, order estimation, model structures, convergence, parameter estimation, robustness, parametrization, maximum likelihood estimation, bounded noise models, input-output models, structure determination, prediction error, non-parametric methods, mathematical models, Electrical Engineering and Computer Science, Akaike criterion, andasymptotic distribution, Systems Science and Theory, identifiability, state-space, consistency, Computational Mathematics, Kalman filters, recursive estimation
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.409 Behavior of Algorithms, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: primal and dual simplex methods and duality Strong duality theorem, von Neumann s algorithm, Renegar s condition numbers, spectral paritioning of well-shaped meshes, Gaussian elimination, Linear Programming, McSherry s spectral bisection algorithm, Growth factors of partial and complete pivoting, bandwidth of semi-random graphs., spectral paritioning of nearest neighbor graphs, GE of graphs with low bandwidth or small separators, Spectral Partitioning of planar graphs, Smoothed analysis, Computational Mathematics, Turner s theorem, Condition number, largest singluar value of a matrix, Mathematics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.897 Selected Topics in Cryptography, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: protocols, electronic voting, privacy amplification, composable notions of security for PK encryption and signatures, public-key infrastructures, theory of extractors, general multi-party computation, key exchange, cryptography, Electrical Engineering and Computer Science, commitments, composition theorems, cryptanalysis, general security definitions, concrete security arguments, Computer and Information Systems Security, special-purpose factoring devices, cryptographic protocols, algorithms, differential cryptanalysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+24.966J Laboratory on the Physiology, Acoustics, and Perception of Speech, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: models for speech recognition, other topics, computer-aided waveform analysis and spectral analysis of speech, speech disorders, Electrical Engineering and Computer Science, perception and discrimination of speechlike sounds, synthesis of speech, Linguistics and Philosophy, Experimental investigations of speech processes, Health Sciences and Technology, speech prosody, Acoustics, Topics: measurement of articulatory movements, measurements of pressures and airflows in speech production, Speech perception
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.034 Artificial Intelligence, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: genetic algorithms, Artificial Intelligence and Robotics, rule chaining, Meets with HST.947 spring only, heuristic search, inheritance, Electrical Engineering and Computer Science, learning paradigms, Speculations on the contributions of human vision and language systems to human intelligence, computational intelligence, constrained search, neural nets, identification trees, 4 Engineering Design Points, problem-solving paradigms, Introduces representations techniques and architectures used to build applied systems, constraint propagation
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.972 Game Theory and Mechanism Design, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: cooperative game theory, pricing, Computer Games and Programming Skills, auctions, games with incomplete/imperfect information, game theory, supermodular games, repeated games, dynamic games, existence and computation of equilibria, subgame perfect equilibrium, network and congestion games, Electrical Engineering and Computer Science, mechanism design, normal form games, price of anarchy, potential games, mathematical tools, bargaining
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.096 Algorithms for Computational Biology, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: clustering algorithms, machine learning applications, RNA folding, scale-free networks, genome duplication, gene finding, Bioinformatics, biological sequence analysis, genome assembly, genome rearrangements, evolutionary theory, gene expression, motif discovery, comparative genomics, Electrical Engineering and Computer Science, global and local sequence alignment
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.821 Programming Languages, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: polymorphism, imperative programming language, denotational semantics, type systems, Scheme+, inference, programming language, modules, multiprocessing, meta-circular interpreters, object oriented programming, ogic programming languages, Scheme, Computer Programming/Programmer General, functional programming language, Electrical Engineering and Computer Science, operational semantics, Programming languages (Electronic computers), programming, abstract types
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.011 Introduction to Communication, Control, and Signal Processing, Spring 2004 - Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sampling, deterministic and random signals, continuous-time signals, time- and transform-domain representations, Detection, state feedback, Wiener filtering, Input-output, Electrical Engineering and Computer Science, stochastic processes, observers, probabilistic models, matched filters, linear systems, discrete-time processing, correlation functions, Communication Studies/Speech Communication and Rhetoric, whitening filters, Least-mean square error estimation, state-space models, power spectra
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.426J Advanced Topics in Cryptography, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: zero-knowledge proofs of knowledge, multiparty secure computation, 6.876, non-interactive zero-knowledge proofs, Computer and Information Systems Security, interactive proofs, zero-knowledge proofs, secure protocols, 18.426, two-party secure computation, Mathematics, chosen-ciphertext security, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.661 Receivers, Antennas, and Signals, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: detection, spectrometer, radio signals, radar, optical signals, channel performance, aperture synthesis, antenna, digital correlation, statistics, signal processing, instrumentation, parameter estimation, remote sensing, angular filtering, ambiguity function, Communications Systems Installation and Repair Technology, Signal processing, matched filter, astronomy, statistical analysis, receiver, radiometer, electromagnetic, radiative transfer, Electrical Engineering and Computer Science, interferometer, communications
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.977 Ultrafast Optics, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: generation, high precision, optical communications, Electrical Engineering and Computer Science, measurements, x-ray generation, effects, non-linear, optical signal processing, picopulses, femtopulses, nonlinear optics, nanopulses, ultrashort pulses, propagation, attosecond pulses, ultrafast optics, Optics/Optical Sciences, linear
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.092 Introduction to Software Engineering in Java, January (IAP) 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: chat client and server, belote, conditionals, software engineering, introductory programming, inheritance, social network, Electrical Engineering and Computer Science, abstraction, Computer Software Engineering, loops, classes, object oriented programming, programming, java, arrays, methods, design, software design, exceptions, objects
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.864 Advanced Natural Language Processing, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: text processing, voice response, translation, NLP, lexical, linguistics, machine learning, lexicon, parsing, Artificial Intelligence and Robotics, syntax, dialogue, comprehension, speech processing, language model, speech recognition, speech generation, understanding, voice processing, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.794J Quantitative Physiology: Cells and Tissues, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Biological Engineering, 2.794, resting potential, 20.470, 6.021, Mechanical Engineering, quantitative physiology, biological membranes, equilibrium potential, diffusion, cells, voltage-gated ion channels, Health Sciences and Technology, ion transport, 2.791, membranes, 6.521, chemically mediated transport, mass transport, osmosis, active transport, Electrical Engineering and Computer Science, electrical signal generation, Electrical Electronics and Communications Engineering, tissues, 20.370, action potential, HST.541
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.730 Physics for Solid-State Applications, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: band structure, Electrical Engineering and Computer Science, transport properties, elastic properties, cystal lattice, Boltzmann transport, solid state application, phonon dispersion relatons, effective mass theorem, quasifermi, quantum model, electron, semiconductor, quantum theory of solids, lattice vibration, heat capacity, electronic transport, motion equation, impurity state, device modeling, electronic energy band, physics, Engineering Physics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.829 Computer Networks, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: multicast, congestion control, mobile networking, computer, Electrical Engineering and Computer Science, unicast, router architectures, network, content dissemination systems, routing, network security, Electrical Electronics and Communications Engineering, quality of service, internetworking, network-aware applications
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.415J Advanced Algorithms, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: network flow, linear programming, fixed-parameter algorithms, fingerprinting, randomization, external streaming, approximation algorithms, word-level parallelism, dynamic programming, network optimization, Electrical Engineering and Computer Science, bit scaling, parallel algorithms, external memory, amortization, Computational Mathematics, string algorithms, online algorithms, external cache, data structures, Mathematics, computational geometry
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.827 Multithreaded Parallelism: Languages and Compilers, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: compilers, Parallel processing (Electronic computers), multithreaded parallelism, term rewriting, symmetric multiprocessors, Electrical Engineering and Computer Science, clusters, non-strictness, polymorphism, languages, Electrical Electronics and Communications Engineering, compiler optimizations, nondeterminism, static analysis, higher order functions, explicit parallel programming, implicit parallel programming, lambda calculus
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.035 Computer Language Engineering (SMA 5502), Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computer language engineering, machine code, MIPS, computer language, Electrical Engineering and Computer Science, program optimization, software, compilers, Computer Programming Other, high-level programming, Java
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.033 Computer System Engineering (SMA 5501), Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: encryption, strong modularity, parallel activities, impact on society, computer software, case studies, recovery, virtual memory, controlling complexity, threads, computer systems, client-server design, privacy, atomicity, security, Computer Engineering General, coordination, hardware systems, reliability, Electrical Engineering and Computer Science, networks
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.828 Operating System Engineering, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.973 Communication System Design, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: communication, Communications Systems Installation and Repair Technology, Electrical Engineering and Computer Science, coders and decoders filters multi-tone modulation synchronization sub-systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.374 Analysis and Design of Digital Integrated Circuits, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: clock skew, combinational logic, clock distribution techniques, sequential circuits, sense amplifiers, Electrical Engineering and Computer Science, Integrated circuits, digital integrated circuit, Nanosim, circuit design, interconnect models, logic, Magic, MOS, device sizing, Deep Sub-Micron effects, parasitics, HSPICE, Electrical Electronics and Communications Engineering, device level optimization, timing, memory architectures, CMOS inverter, jitter, SPICE, Avanwaves
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.410J Introduction to Algorithms (SMA 5503), Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: network flow, sorting, Mathematics, hashing, Electrical Engineering and Computer Science, computational geometry, number-theoretic algorithms, caching, shortest paths, algorithms, Electrical and Electronic Engineering Technologies/Technicians Other, graph algorithms, efficient algorithms, Computer Programming/Programmer General, search trees, polynomial and matrix calculations, divide-and-conquer, heaps, dynamic programming, parallel computing, amortized analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.453 Quantum Optical Communication, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: radiation field quantization and quantum field propagation, quantum teleportation, Quantum systems theory: optimum binary detection, Second-order nonlinear optics: phasematched interactions, optical parametric amplifiers, quantum precision measurements, quantum cryptography, beam splitters, Optics/Optical Sciences, generation of squeezed states photon-twin beams non-classical fourth-order interference and polarization entanglement, number states coherent states and squeezed states, Quantum photodetection: direct detection heterodyne detection and homodyne detection, harmonic oscillator quantization, phase-insensitive and phase-sensitive amplifiers, Linear loss and linear amplification: commutator preservation and the Uncertainty Principle, P-representation and classical fields, Electrical Engineering and Computer Science, Quantum optics: Dirac notation quantum mechanics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.391J Submicrometer and Nanometer Technology, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Resist technology, Lift-off and electroplating, optical projection, microelectronics, interferometric, Mechanical Engineering, and plasma etching techniques, information storage, Ion implantation, and nanotechnology, Aqueous, Electrical Engineering and Computer Science, preparation, ion, Surface characterization, X-ray, microphotonics, optical and electron microscopy, and electron lithography, submicron and nanometer structures, and measurement techniques
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.895 Theory of Parallel Systems (SMA 5509), Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: VLSI layout theory, randomized algorithms, message-routing algorithms, parallel computing, parallel systems, high-probability arguments, Computer Graphics, routing networks, race detection, multithreading, memory consistency, Electrical Engineering and Computer Science, synchronization, probabilistic analysis, load balancing, algorithms
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.875 Cryptography and Cryptanalysis, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Cryptography, computational complexity, Electrical Engineering and Computer Science, two-party protocols, Computer and Information Systems Security, modern cryptography, public-key encryption, fundamental cryptographic primitives, pseudo-random number generation, basic protocols, digital signatures, zero-knowledge
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.826 Principles of Computer Systems, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "An ...
+Keywords: distributed cache management, specification, computer system, Electrical Engineering and Computer Science, concurrent system, networking, naming, concurrent algorithms, Computer Technology/Computer Systems Technology, synchronization, distributed system, replication techniques, verification
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.341 Discrete-Time Signal Processing, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sampling rate conversion, Hilbert transforms, FFT algorithm, discrete time signals and systems, Multirate techniques, interpolation, decimation, Telecommunications Technology/Technician, discrete-time processing of continuous-time signals, time- and frequency-domain design techniques for recursive (IIR) and non-recursive (FIR) filters, Flowgraph structures, Cepstral analysis, linear prediction, Discrete Fourier transform, Short-time Fourier analysis and filter banks, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.950J Engineering Biomedical Information: From Bioinformatics to Biosurveillance, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: pharmacogenomics, biosurveillance, Electrical Engineering and Computer Science, genomic privacy, microarrays, biomedical research, privacy, biomedical informatics, Health Sciences and Technology, Health Services/Allied Health/Health Sciences General, Biotechnology, biomedical computing, biological computing, bioinformatics, biotechnology, clinical informatics, genomics, computational genomics, proteomics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.081J Introduction to Mathematical Programming, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, integer programming, optimization, combinatorial problems, algorithms, linear programming, Sloan School of Management, 15.081, network flow problems, mathematics, 6.251, mathematical programming, Computational Mathematics, Programming (Mathematics)
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.450 Principles of Digital Communications I, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: QAM modulation, Nyquist criterion, Electrical Electronic and Communications Engineering Technology/Technician, scalar quantization, data compression, communication system design, signal constellations, Lempel-Ziv algorithm, PAM modulation, vector quantization, finite-energy waveform spaces, sampling, aliasing, Electrical Engineering and Computer Science, detection, digital communication
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.241 Dynamic Systems &amp; Control, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: continuous-time, Electrical Electronics and Communications Engineering, optimal regulation, control, minimality, state feedback, nonlinear systems, matrix perturbation, Automatic control, discrete, zeros, Computer and Information Sciences General, Electrical Engineering and Computer Science, linear systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.871 Knowledge-Based Applications Systems, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: application domains, Electrical Engineering and Computer Science, knowledge, artificial intelligence techniques, artificial intelligence, knowledge representation, Artificial Intelligence and Robotics, expert system, building system, knowledge acquisition, system development
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.098 Special Seminar in Applied Probability and Stochastic Processes, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: artificial intelligence, Sloan School of Management, doctoral, Mathematical Statistics and Probability, computer science, belief propagation algorithms, applied probability, coloring, stochastic processes, low density parity check codes, K-SAT problem, average case complexity, statistical physics, seminar
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.171 Software Engineering for Web Applications, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Internet, software engineering, load, user experience, Web Page Digital/Multimedia and Information Resources Design, usability, Web services, concurrency, online learning community, development schedules, WAP, Electrical Engineering and Computer Science, Web, security risks, multi-modal interface, wide-area distributed computing
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.085J Fundamentals of Probability, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Familiarity with elementary notions in probability and real analysis is desirable, Abstract integration, Multivariate normal distribution, Convergence notions and their relations, Electrical Engineering and Computer Science, Bernoulli and Poisson process, Mathematical Statistics and Probability, and related convergence results, Discrete and continuous random variables, Sloan School of Management, expectation, Finite-state Markov chains, Probability spaces and measures, Introduction to probability theory, Limit theorems, Moment generating and characteristic functions, Conditioning and independence
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.186 Mobile Autonomous Systems Laboratory, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: artificial intelligence, microcontroller, laboratory, IAP, odometry, MASLab, map, camera, computer vision, Artificial Intelligence and Robotics, competition, computer, mobile, mapping, Edwin Olson, ORC, robotics, Electrical Engineering and Computer Science, Java, autonomous systems, mechanical, sensor
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.416J Randomized Algorithms, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: conditional expectation, hash tables, algebraic techniques, computational problems, Chernoff bound, 6.856, random selection of witnesses, coupon collection, distributed algorithms, fixed dimension, randomized complexity classes, derandomization techniques, Computational Mathematics, Randomized Algorithms, sorting, Algorithms, random walks, data structures, searching, moment inequalities, Chebyshev, graph algorithms, probability amplification, combinatorial optimization, probabilistic analysis, geometric algorithms, efficient in time and space, computational number theory, Mathematics, approximate counting, 18.416, occupancy problems, random sampling, minimum cuts, skip lists, linear programming, counting problems, randomized computational models, game-theoretic techniques, application, convex hulls, minimum spanning trees, randomization, estimation, basic probability theory, design, optimization, limited independence, symmetry breaking, geometry, probabilistic method, Electrical Engineering and Computer Science, shortest paths, tail inequalities, approximation, speed, Markov chains, arbitrary dimension, parallel algorithms, simplicity, online algorithms
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.091 Hands-On Introduction to Electrical Engineering Lab Skills, January (IAP) 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: op-amps, analog, function generators, digital to analog, Electrical and Electronic Engineering Technologies/Technicians Other, introduction to electronics, Electrical Engineering and Computer Science, digital, timers, digital design, passive electronic components, electronic components, analog to digital, integrated circuits, digital circuits, oscilloscopes, multimeters, debugging, logic analyzers, active electronic components, soldering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.156J Dynamics of Nonlinear Systems, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: 16.337, nonlinear circuits, Nonlinear systems -- Mathematical models, local behavior, input/output, Lyapunov methods, differential equations, contraction mapping theorem, ordinary differential equations, singular perturbations, continuity, feedback linearization, system analysis, Aeronautics and Astronautics, system models, deterministic dynamical systems, trajectories, state-space, volume evolution, control systems, Picard iteration, storage functions, nonlinear systems, local controllability, equilibria, Bellman-Gronwall lemma, parameters, Operations Research, stability analysis, planar autonomous systems, Electrical Engineering and Computer Science, averaging, Mechanical Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.095J Computational Biology: Genomes, Networks, Evolution, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: evolutionary theory, scale-free networks, network evolution, phylogenetics, regulatory motifs, network motifs, Electrical Engineering and Computer Science, genome duplication, graph algorithms, gene finding, genome assembly, rapid evolution, sequence alignment, Networks: Gene expression analysis, genome rearrangements, RNA folding, hidden Markov models, Evolution: Comparative genomics, Genomes: Biological sequence analysis, Bioinformatics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.012 Microelectronic Devices and Circuits, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: bipolar transistor, MOS device, physical electronics, large-signal technique, digital circuit, design, integrated circuit, Electrical Electronics and Communications Engineering, microelectronic device, circuit, differential linear amplifier, Electrical Engineering and Computer Science, single-ended amplifier, semiconductor junction, electrical behavior, field effect transistor, incremental technique
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.973 Organic Optoelectronics, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: organic thin films, Electrical Engineering and Computer Science, xerography, organic LEDs, polymers, transistors, non-vacuum organic deposition, memory cells, photodetectors, nanoscale patterning, vacuum organic deposition, miniaturization limit, chemical sensors, molecular electronics, Laser and Optical Technology/Technician, solar cells, organic optoelectronics, electronic, organic non-linear optics, optical, electrochromic devices
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.714J Acoustics of Speech and Hearing, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: acoustical waves, human anatomy, speech production, sound production, physical processes, speech communication, sound perception, Electrical Engineering and Computer Science, human speech, auditory frequency selectivity, mechanical vibrations, Audiology/Audiologist and Hearing Sciences, 6.551, airflow, sound direction, HST.714, sound, cochlear structures, masking, filtering, ear, sound propagation, spatial hearing, auditory system, speech mechanics, vocal tract, auditory physiology, acoustics, Health Sciences and Technology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.034 Artificial Intelligence, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: inheritance, constraint propagation, neural nets, constrained search, artificial intelligence, intelligent systems, applied systems, rule chaining, knowledge representation, genetic algorithms, human intelligence, Artificial Intelligence and Robotics, heuristic search, Electrical Engineering and Computer Science, identification trees
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.012 Microelectronic Devices and Circuits, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: microelectronic device, incremental technique, Electrical Electronics and Communications Engineering, integrated circuit, physical electronics, single-ended amplifier, design, MOS device, digital circuit, electrical behavior, bipolar transistor, circuit, large-signal technique, semiconductor junction, differential linear amplifier, field effect transistor, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.881 Representation and Modeling for Image Analysis, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: images, Artificial Intelligence and Robotics, mathematical foundations, markov random fields, expectation maximization, modeling techniques, manifold fitting, clustering, level sets, computer vision, representations, estimation algorithm, modeling, representation algorithm, image information, information, deformation fields, medical and biological imaging, Electrical Engineering and Computer Science, contours, objects, Computer Graphics, image analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.831 User Interface Design and Implementation, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Computer Software Technology/Technician, user-centered design, human information processor, human-computer interfaces, GUI, low-fidelity prototyping, heuristic evaluation, programming project, human capabilities, formative evaluation, hearing, color, Fitts s Law, keystroke-level models, perception, model-view-controller, iterative design, output models, Java, input models, toolkits, task analysis, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.949J Computational Evolutionary Biology, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Evolutionary Biology, computational and algorithmic implications and requirements of evolutionary models, disease evolution, computational approaches, whole-genome species comparison, phylogenetic tree construction, detecting selection in human populations and evolution of language, Health Sciences and Technology, heritability, extensive laboratory exercises in model-building and analyzing evolutionary data, evolutionary theory and inferential logic of evolution by natural selection, molecular evolution, homology and development, evolutionary biology, optimization and evolvability, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.345 Automatic Speech Recognition, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: speech recognition, stochastic modelling, Computer Programming Specific Applications, signal representation, Electrical Engineering and Computer Science, search algorithms, speech production, pattern classification, acoustic theory, speaker adaptation, language modelling, paralinguistic information, Speech processing systems, Automatic speech recognition, acoustic-phonetics, speech understanding, multimodal processing, automatic speech recognition
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.301 Solid-State Circuits, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: high-frequency analysis, analog, JFET, bandgap references, solid state circuits, charge control model, MESFET, references, Electrical Engineering and Computer Science, transimpedance amps, high speed logic, circuit, Solid state electronics, MOSFET, op amps, transistor, vacuum tubes, bipolar junction transistor, translinear circuits, Electrical Electronics and Communications Engineering, open-circuit time constants, multipliers, single-transistor common-emitter amplifier
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+3.172 Inventions and Patents, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: private and public rights in scientific discoveries and applied engineering, Aeronautics and Astronautics, Inventions, software protection, court cases, patents, patent law, Materials Science and Engineering, 16.652, Publishing, procedures in protecting inventions in the Patent Office, copyright laws, Electrical Engineering and Computer Science, engineering patents
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.637 Optical Signals, Devices, and Systems, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: optoelectronic neural networks, optical storage media, Fourier optics, detection, fiberoptic communication, Optical data processing, pattern recognition, 3-D holographic material, Electrical Electronics and Communications Engineering, processing, thermal photodetector, incoherent optical processor, display technologies, adaptive optical systems, optical interconnection device technologies, Electrical Engineering and Computer Science, optical waveguides, image processing, disks, display, spatial light modulation, radar systems, optical signals, acousto-optics, LEDs, holography, lasers, optical devices, quantum photodetector, 6.161, diffraction, electromagnetic waves, transmission, optical, storage, coherent optical processor
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.062J Mathematics for Computer Science (SMA 5512), Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, state machines, discrete mathematics, Mathematics, graphs, definitions, discrete probability theory, 18.062, probability, Mathematics and Computer Science, proofs, functions, sets, discrete structures, counting, modular arithmetic, computer science, 6.042, relations
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.857 Network and Computer Security, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, electronic cash, information-flow models, authentication schemes, secret-key, identification schemes, signature, multi-user computer systems, intrusion detection, software protection, mandatory access control, email security, World Wide Web, secure operating systems, viruses, public-key, physical security, elementary cryptography, covert channels, authentication logic, Computer and Information Systems Security, www, secure web browsers, network security, formal models, electronic mail security, electronic voting, Computer Systems Networking and Telecommunications, certificates, discretionary access control, firewalls, biometrics, digital signatures, integrity models, distributed computer systems, ecommerce, payment protocols, architecture engineering, electronic commerce, System Administration/Administrator, computer security, risk assessment
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.690 Introduction to Electric Power Systems, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: electromechanical apparatus, electric circuits, electric power system, electric power, synchronous machinery, energy, linear electric machinery, dc machinery., rotating electric machinery, new applications, induction machinery, Electrical Electronic and Communications Engineering Technology/Technician, Electrical Engineering and Computer Science, magnetic field devices, mechanical energy conversion, lumped parameter electromechanics, transformation techniques, magnetic circuits
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+8.371J Quantum Information Science, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Physics, Media Arts and Sciences, quantum entanglement, quantum protocols, fault tolerance, 8.371, MAS.865, adiabatic quantum computation, quantum computation, communication complexity, Nuclear Physics, quantum algorithms, quantum error correction codes, quantum cryptography, Electrical Engineering and Computer Science, 6.443
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.097J Numerical Methods for Partial Differential Equations (SMA 5212), Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: 6.339, differential equations, partial differential equations, finite difference, elliptic, 2.097, Differential equations Partial, Aeronautics and Astronautics, 16.920, Aerospace Aeronautical and Astronautical Engineering, finite element, boundary element, hyperbolic, discretisation, iteration, mathematics, mathematical formulations, nonlinear, integral equations, Mechanical Engineering, numerical methods, linear, Electrical Engineering and Computer Science, finite volume, parabolic
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.369 Mathematical Methods in Nanophotonics, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: linear algebra, mechanisms for optical confinement, Mathematics, anomalous diffraction, eigensystems for Maxwell s equations, Applied Mathematics, numerical eigensolver methods, time and frequency-domain computation, integrated optical devices, perturbation theory, adiabatic transitions, photonic crystals, waveguide theory, coupled-mode theories, Optical phenomena, representation theory, Bloch s theorem, optical fibers, band gaps, symmetry groups
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.792J Quantitative Physiology: Organ Transport Systems, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: ischemia, electrocardiogram, 2.792, electrophysiology, pulmonary mechanics, electrocardiography, arrhythmia, renal physiology, Cell Physiology, 20.371J20.371, tachycardia, Health Sciences and Technology, quantitative physiology, ECG, afterdepolarization, respiratory physiology, Biological Engineering, cardiovascular physiology, infarction, Cardiovascular Science, heart, purkinje fibers, action potential, residual volume, Electrical Engineering and Computer Science, 6.022, depolarization, pulmonary modeling, clinical electrocardiography, EKG, vital capacity, Physiology General, Physiology Pathology and Related Sciences Other, vector cardiogram, HST.542, systolic, diastolic, QRS waveform, total lung capacity, myocardial cells, physiological fluid mechanics, cardiovascular system, Mechanical Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.952 Computing for Biomedical Scientists, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Medical informatics, biomedical, Biomedical Sciences General, database, computer science, Health Sciences and Technology, java
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.581J Foundations of Algorithms and Computational Techniques in Systems Biology, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: systems biology, 6.581, Electrical Engineering and Computer Science, nonlinear dynamics, algorithms, network models, molecular dynamics, deconvolution, 
+20.482, computational techniques, electrostatics, protein modeling, Biological Engineering, Molecular Biology, discrete conformational search
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.098 Street-Fighting Mathematics, January (IAP) 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: square roots, differentiation, pictorial proofs, logarithms, dimensional analysis, integration, fluid mechanics, Mathematics General, Electrical Engineering and Computer Science, operators, discretization, extreme-cases reasoning, pendulum, drag, summation, Mathematics, musical intervals, taking out the big part, analogy
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.951J Medical Decision Support, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: decision support, classification trees, computer-based diagnosis, neural networks, learning systems, Health Sciences and Technology, Health/Health Care Administration/Management, therapeutic interventions, knowledge-based systems, logistic regression, rough sets, predictive model construction, evaluation, machine learning methods, Electrical Engineering and Computer Science, artificial intelligence, decision analysis, planning monitoring, medical software
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.072J Queues: Theory and Applications, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: single-server, adversarial queueing, heavy-traffic theory, multi-server, computers, Electrical Engineering and Computer Science, modeling, birth-death processes, Sloan School of Management, manufacturing, service industries, diffusion approximations, transportation, fluid models, applications, queueing systems, multi-class queueing, communications, queues, networks, Mathematical Statistics and Probability, queueing, markovian queues, call centers
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+22.002 Management in Engineering, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Aeronautics and Astronautics, engineering management, human factors, engineering project planning, Nuclear Science and Engineering, Financial principles, career planning, Electrical Engineering and Computer Science, Mechanical Engineering, technical strategy, innovation management, patents, Chemical Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.405J Advanced Complexity Theory, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Pseudo-random generators, basic space classes, 18.405, 6.841, Non-uniform classes, polynomial-time hierarchy, circuit lower bonds, Electrical Engineering and Computer Science, RP, Counting classes: #P, Mathematics Other, RL, randomness, monotone, oracles, relativization, basic time classes, Interactive proof systems, Mathematics, PH, AC0, randomized classes, BPP
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.073J Logistical and Transportation Planning Methods, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: ESD.216, TSP, barrier example, 16.76, Electrical Engineering and Computer Science, logistics, 15.073, transportation, heuristics, 1.203, Markov, Aeronautics and Astronautics, network models, Transportation and Highway Engineering, operations research, Operations Research, queueing models, hypercube models, Sloan School of Management, Civil and Environmental Engineering, geometrical probablities, Engineering Systems Division, spatial queues, 6.281
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.793J Fields, Forces and Flows in Biological Systems, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Zeta potential, cell, Debye layer, electroosmosis, molecular biology, diffusion, inviscid flow, Mechanical Engineering, electrokinetics, Cell Physiology, tissue, bioMEMS, reaction, electrophoresis, Electrical Engineering and Computer Science, Van der Waals, biomolecule, organ, Biological Engineering, hydrodynamic flow, electro-quasistatics, biology, membrane, ion transport, Maxwell s equations, viscous flow, microfluidics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.950J Medical Computing, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computing, HST.950, 6.872, Medical Informatics, decision analysis, medical education, genomic medicine, healthcare information systems, Health Sciences and Technology, security, clinical data, patient privacy, Electrical Engineering and Computer Science, Medicine -- Data processing
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.795J Fields, Forces, and Flows in Biological Systems (BE.430J), Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: diffusion reaction, orthopaedic cardiovascular, HST.544, electrophoretic flow, electrode, diffusion, ECG, conduction, electrical double layers, 2.795, fluid and solid continua, Electrical Engineering and Computer Science, electroosmotic flow, Maxwell stress tensor, Chemical Engineering, convection in electrolytes, Biological Engineering, Agricultural/Biological Engineering and Bioengineering, membrane transport, 20.430, fields in heterogeneous media, biomaterials, Mechanical Engineering, Health Sciences and Technology, 10.539, transduction, 6.561, biological tissues
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+8.613J Introduction to Plasma Physics I, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Nuclear Science and Engineering, streaming instabilities, kinetic theory, magnetic fields, wave propagation, Coulomb collisions, stability analysis, simple equilibrium, plasma confinement schemes, MHD models, Two-fluid hydrodynamic plasma models, Vlasov plasma model, electron plasma waves, plasma phenomena, Electrical Engineering and Computer Science, charged particles, astrophysics, controlled thermonuclear fusion, Physics, transport processes, Nuclear Engineering, energy generation, Landau damping, ion-acoustic waves, Plasma and High-Temperature Physics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.830J Control of Manufacturing Processes, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: semiconductor manufacturing, manufacturing process, Electrical Engineering and Computer Science, off-line optimization, discrete system feedback control theory, 2.830, robustness, Process control, Mechanical Engineering, one-factor-at-a-time, empirical and adaptive modeling, Engineering Systems Division, Shewhart Hypothesis, real-time control, statistical process control
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.082J Network Optimization, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: minimum, applications, finance, equilibrium, path, traffic, network, algorithms, transportation, problems, systems, manufacturing, maximum, Network analysis (Planning), computer, project, 6.855, science, efficiency, Electrical Engineering and Computer Science, design, linear, shortest, implementation, management, 15.082, flow, Mathematical optimization, System Networking and LAN/WAN Management/Manager, cost, multi-commodity, logistics, extensions, Sloan School of Management, communication, programming
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.337J Applied Parallel Computing (SMA 5505), Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: partitioning, Mathematics, Electrical Engineering and Computer Science, Fourier transforms, N-body problems, 18.337, 6.338, Computational Mathematics, dense and sparse linear algebra, mesh generation
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+STS.003 The Rise of Modern Science, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: ethics, technology and society, geology, eugenics, Freud, modern, biology, psychology, chemistry, Einstein, genetics, present, seventeenth century, evolution, discovery, race, technology, progress, history, warfare, Science Technology and Society, medicine, experiment, society, History and Philosophy of Science and Technology, computer science, Darwin, scientific revolution, physics, policy
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+7.89 Topics in Computational and Systems Biology, Fall 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: genomics, mapping, systems, statistics, Cell/Cellular Biology and Histology, seminar, devices, protein structure, Biology, physics, developmental, biochemistry, literature review, biology, medicine, synthesis, networks, kinetics, genetics, regulation, computational, signal transduction
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.062J Mathematics for Computer Science, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: counting principles, permutations and combinations, integer congruences, proofs and applicable methods, relations, Elementary discrete mathematics for computer science and engineering, mathematical definitions, Electrical Engineering and Computer Science, elementary graph theory, 6.042, 18.062, discrete probability, recurrences, generating functions, well-ordering, proof methods, Mathematics, Computational Mathematics, asymptotic notation and growth of functions, structural induction, formal logic notation, recursive definition, induction, state machines and invariants, sets, Mathematics and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.790J Introduction to Bioengineering (BE.010J), Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: biomechanical engineering, Biological Engineering, biological materials, biomaterials, engineering, biological engineering, bioprocessing, bioengineering, Biology, biological engineers, biology, Mechanical Engineering, biomems, Chemical Engineering, Agricultural/Biological Engineering and Bioengineering, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.996 Biomedical Devices Design Laboratory, Fall 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, op amp circuits, microprocessor programming, PCB design, biomedical devices, Electrical Electronic and Communications Engineering Technology/Technician, analog signal conditioning, Mechanical Engineering, op amp, electrical engineering in medicine, microprocessors, printed circuit board, wireless communication, basic electronic circuits
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.951J Medical Decision Support, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: rough sets, Health Sciences and Technology, therapeutic interventions, HST.951, predictive model construction, planning monitoring, Health/Health Care Administration/Management, neural networks, 6.873, machine learning methods, decision analysis, artificial intelligence, Electrical Engineering and Computer Science, learning systems, computer-based diagnosis, evaluation, logistic regression, medical software, knowledge-based systems, Medical technology, classification trees, decision support
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+WGS.484J The Anthropology of Computing, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Ada Lovelace, machines and culture, Computing, African mathematical systems, gaming, Industrial Revolution, operations research, commodification, artifical intelligence, Charles Babbage, computation theory, calculating machine, personal computer, indentity in cyberspace, 21A.350, cosmology, hacking, Special Programs, Science Technology and Society, Computer and Information Sciences General, counterculture, Internet, coding, PC, free software, clockwork, hacker, software, cold war, cybernetics, SP.484, open source, Alan Turing, Women s and Gender Studies, STS.086, cyberspace, Anthropology Other, Anthropology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+4.285 Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "In ...
+Keywords: networked computers, Architecture and Related Programs Other., Digital environment, Physical architectures, Architecture, Online spaces as part of an interdependent human environment, Mapped work processes, Social/political dimensions
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.410J Projects in Microscale Engineering for the Life Sciences, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: cell traps, experimental design, cell manipulation, laminar flow, Health Sciences and Technology, rapid prototyping, microchips, coulter counter, lithography, plasma bonding, microfluidics, cell sorting, microfabrication, optical imaging of cells, casting PDMS, Health Services/Allied Health/Health Sciences General, models of diffusion, osmosis, computer simulation of neural behavior, MATLAB data analysis, diffusion, cytometry techniques, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.013 Electromagnetics and Applications, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: diffraction, forces, peripherals, guided waves, Electrical Engineering and Computer Science, power generation, microwave communications, antennas, Computer Science, circuits, Maxwell, sensors, micro-electromechanical systems, power transmission, quasistatic solutions, power, computer interconnects, radar, electromagnetics, waves, optical fiber links, resonance, dynamic solutions, energy, unguided waves, Electromagnetism, radiation, wireless communications, Maxwell s equations, applications
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Mathematics and Statisticsematics Across the Community College Curriculum
+provides course descriptions and student projects in anthropology, art, biology, business, chemistry, computer science, economics, English, environmental science, health, marketing, mathematics, nursing, physics, policy studies, political science, social services, and urban planning.
+Keywords: Mathematics and Statistics
+
+STS.035 The History of Computing, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: aerospace, supercomputing, computers, cognitive psychology, linguistics, Artificial Intelligence and Robotics, nuclear physics, logic, humanities, Computer and Information Sciences General, scientific instrument, Information Technology, meteorology, mathematics, distributed computing, biochemistry, applied science, history, hypertext, medicine, digital, Science Technology and Society
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.452 Principles of Wireless Communications, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.415J Advanced Algorithms, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: Approximation Algorithms, Planarity Testing of Graphs, Number-Theoretic Algorithms, Computational Mathematics, 18.415, Mathematics, Electrical Engineering and Computer Science, Linear Programming, Network Flows, Data Structures, 6.854
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.825 Techniques in Artificial Intelligence (SMA 5504), Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: first order logic, Java, inference, Artificial Intelligence and Robotics, Electrical Engineering and Computer Science, Bayesian network inference, supervised learning methods, representation, learning, decision-theoretic planning, deterministic planning, artificial intelligence
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.996 Topics in Theoretical Computer Science : Internet Research Problems, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "We ...
+Keywords: Mathematics, Computational Mathematics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Computing
+describes research efforts in computer science and engineering aimed to create information systems of the future -- virtual one-on-one instruction for students of all ages, robots to amplify physical abilities and software agents to carry out specialized thought processes, a web of systems to ...
+Keywords: Science and Technology
+
+6.004 Computation Structures, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Computers -- Circuits, computation, sequential circuit, programming, Electrical Engineering and Computer Science, finite-state machines, software structure, computer architecture, Computer Programming Other, Logic design, MOS transistor, gates, procedures, Computer architecture, RISC processor, digital system, processes, primitives, logic gate, instruction set design, concurrency, instructions, combinational circuit, computation structure
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.110J Information and Entropy, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: second law of thermodynamics quantum computation, communications, Mathematical Statistics and Probability, probability, information in biological systems, temperature, codes, computing, Communications Technology/Technician, irreversible operations, maximum-entropy formalism, channel capacity, digital signals and streams, Materials Science, Electrical Engineering and Computer Science, thermodynamic equilibrium, reversible operations, noise, Mechanical Engineering, thermodynamics, information and entropy, compression
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.331 Advanced Circuit Techniques, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: analog multipliers, gain-controlled amplifiers, sample-and-holds, Electrical Engineering and Computer Science, digital-to-analog, advanced circuit techniques, Electrical Electronics and Communications Engineering, analog-to-digital, modern analog, multiplexers, power amplifiers, circuit
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.431 Probabilistic Systems Analysis and Applied Probability, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: uncertainty modeling, uncertainty, Electrical Engineering and Computer Science, applied probability, probability distribution, transform techniques, random variables, probabilistic systems analysis, uncertainty analysis, uncertainty quantification, sample space, Markov process, limit theorem, analysis of uncertainty, probabilistic systems, statistical inference, simple random processes, Mathematical Statistics and Probability
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+STS.420J The Structure of Engineering Revolutions, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: engineering artifacts, integrated approach, 6.933, Electrical Engineering and Computer Science, Engineering General, patents, invention, Science Technology and Society, engineering revolution, engineering, STS.420, interdisciplinary, history
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.370 Robocraft Programming Competition, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Robocraft programming competition, Electrical Engineering and Computer Science, software engineering, best player program, computer game Robocraft, Robotics Technology/Technician, Computer Software Engineering, best program, Artificial Intelligence and Robotics, battle strategy
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.097 Fundamentals of Photonics: Quantum Electronics, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+3.155J Micro/Nano Processing Technology, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: processing, evaporation, reliability, CVD, etching, Microelectronics processing, chemical vapor deposition, oxidation, lithography, MOS, soft lithography, microcantilever, diffusion, interconnect, crystal growth, photolithography, implantation, sputtering, Electrical Engineering and Computer Science, Engineering Science, vacuum, physical vapor deposition, integrated circuits, fabrication, Materials Science and Engineering, microfluidic., MOS capacitor, metallization, microelectronics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.163 Strobe Project Laboratory, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: strobe, fundamentals of photography, electronic flash sources, strobe laboratory, experiments on application of electronic flash to photography stroboscopy motion analysis and high-speed videography, Electrical Engineering and Computer Science, light measurement, independent projects, Photography, measurement, electronic imaging, edgerton
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.823 Computer System Architecture, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: hardware design, computer system, software design, Electrical Engineering and Computer Science, computer architecture, Computer and Information Sciences General
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.003 Signals and Systems, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: fourier transforms, modulation, Signal theory (Telecommunication), Fourier series, discrete-time processing, audio processing, filtering, automatic control, communications, convolution, signal and system analysis, audio, System analysis, feedback systems, sampling, Z-transforms, image processing, Laplace transforms, Electrical Electronics and Communications Engineering, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.632 Electromagnetic Wave Theory, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: waves in media, Fraunhofer diffraction, complementarity, Electromagnetism, Electrical Electronics and Communications Engineering, equivalence principle, duality, Maxwell, dyadic Green s functions, Huygens principle, Electrical Engineering and Computer Science, Maxwell-Minkowski theory, scattering, electromagnetic wave theory, diffraction, Lorentz transformation, Fresnel diffraction
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.231 Dynamic Programming and Stochastic Control, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: algorithms, optimization, Markov chains, Dynamic programming, mathematics, dynamic programming, probability, Computational Mathematics, Stochastic control theory, stochastic control, optimal control, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.896 Theory of Parallel Hardware (SMA 5511), Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sorting networks, parallel hardware, systolic arrays, hypercubic networks, P-completeness, algorithms, physical design, Electrical and Electronic Engineering Technologies/Technicians Other, reconfigurable wiring, Electrical Engineering and Computer Science, arithmetic circuits, computer arithmetic, retiming, interconnection networks, fat-trees, area-time complexity, VLSI layout theory, boolean logic, clocking methodologies, parallel prefix
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.006 Introduction to Algorithms, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: divide and conquer, Information Technology, fibonacci, sorting, shortest paths, binary search trees, searching, image resizing, hashing, breadth first search, depth first search, document distance, algorithms, python, hash functions, chaining, Electrical Engineering and Computer Science, numerics, dijkstra, python cost model, longest common substring, priority queues, memoization, dynamic programming
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.833 The Human Intelligence Enterprise, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Artificial Intelligence and Robotics, computational models, artificial intelligence, Turing, language evolution, Electrical Engineering and Computer Science, neuroscience, human behavior, cognition, 6.833, perception, Computer Science, communication, object recognition, object tracking, Human Intelligence Enterprise, Minsky, change representation, heuristics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.270 Autonomous Robot Design Competition, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: c code, Robotics Technology/Technician, contest, IR LEDs, handy board, gearboxes, soldering, Artificial Intelligence and Robotics, Electrical Engineering and Computer Science, sensors, lego, robot, motors, shaft encoding
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+4.491 Form-Finding and Structural Optimization: Gaudi Workshop, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: procedural methods for creating structural elements, advanced dynamics, Architecture, interactive design tools, computer science, statics, shaping structures, Computer Graphics, Gaudi, physical simulation procedures, Computer Software Engineering, structures, structural analysis, computer graphics, mesh generation, form-finding, Barcelona, mathematics of nodal systems, computer modeling, architecture, Structural Engineering, structural systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+ESD.013J Electromagnetics and Applications, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: radar, Engineering Systems Division, Electrical Engineering and Computer Science, applications, radiation, wireless communications, Maxwell s equations, micro-electromechanical systems, circuits, power, resonance, antennas, waves, dynamic solutions, Computer and Information Sciences General, power transmission, Maxwell, optical fiber links, power generation, forces, energy, quasistatic solutions, diffraction, computer interconnects, electromagnetics, microwave communications, sensors, peripherals, unguided waves, guided waves
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.451 Principles of Digital Communication II, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sum-product, Viterbi and BCJR algorithms, finite fields, Coding for the bandwidth-limited regime, Small signal constellations, binary linear convolutional codes, Reed-Solomon and BCH codes, Electrical Engineering and Computer Science, the Shannon limit of additive white Gaussian noise channels, Shaping, Multilevel coding, performance analysis, Hard-decision and soft-decision decoding, LDPC codes and RA codes, trellis-based ML decoding, Trellis representations of binary linear block codes, Lattice codes, Trellis-coded modulation, Digital Communication and Media/Multimedia, Reed-Muller codes, Electrical Electronics and Communications Engineering, Turbo codes, Introduction to binary linear block codes, decoding algorithms, coding gain, Codes on graphs, max-product, coding techniques
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.092 Java Preparation for 6.170, January (IAP) 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Advanced control flow, Primitives, Defensive programming, Object oriented programming, class file main methods fields, Collections, Computer Programming/Programmer General, True subtyping composite, Arrays, Objects declaration assignment mutation scope, Inheritence, Throwing and catching exceptions, Nested classes, Data structures, Control flow method calls if/then for loop while loop, Electrical Engineering and Computer Science, Interfaces, Classes vs Objects/Instances, Abstract superclasses, Java program structure, Hashing, Writing interfaces abstract classes, Method Overloading, Method Overriding, Floating point precision, Polymorphism, Depth First Search alogithm
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.685 Electric Machines, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: dc, linear electric machines, lumped parameter, Electrical Engineering and Computer Science, Electrical Electronics and Communications Engineering, mechatronics, electromechanics, transformer, induction, rotating, transducers, electric, energy conversion, electromechanical, synchronous, machines
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.253 Convex Analysis and Optimization, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Fenchel duality, Electrical Electronic and Communications Engineering Technology/Technician, subgradients, convexity, convex analysis, saddle point theory, convex functions, global minima, recession cones, conjugate duality, real analysis, optimization, polyhedral sets, dual computational methods, convex sets, affine hulls, linear algebra, directional derivatives, Electrical Engineering and Computer Science, conjugate functions, exact penalty functions, continuous optimization, extreme points, Exact penalty functions, polyhedral cones, Fritz John optimality, Lagrange multipliers, subdifferentials, minimax theory, optimal solutions, constrained optimization, polyhedral convexity, conical approximations, local minima, hyper planes, duality
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.111 Introductory Digital Systems Laboratory, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Digital Communication and Media/Multimedia, digital oscilloscopes, VHDL, digital systems laboratory, laboratory, digital circuit design, PAL, microprogrammed systems, FSM, digital abstractions, counters, finite-state machines, flip-flops, FPGA, wireless communications, Electrical Engineering and Computer Science, digital logic, PROM, digital paradigm, verilog, Boolean algebra, timing, synchronization, digital filters
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.780 Semiconductor Manufacturing, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: equipment diagnosis, Semiconductors, control chart design, distributions, factory modeling, statistics, factory infrastructure, factory operation, estimation, advanced process control, spatial models, experimental design, process modeling, run by run, factory design, health and safety, yield learning, statistical process control, yield models, Electrical Electronics and Communications Engineering, hypothesis testing, multistage process control, equipment monitoring, computer integrated manufacturing, spatial variation, equipment control, empirical equipment, Semiconductor manufacturing, scheduling, planning, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.883 Program Analysis, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: dynamic analysis, fault isolation (debugging), decision procedures (SAT BDDs), Computer Systems Analysis/Analyst, abstract interpretation (dataflow), model checking, model inference and visualization, testing, type systems, Electrical Engineering and Computer Science, program analysis, theorem-proving, static analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.772 Compound Semiconductor Devices, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: photonic devices, compound semiconductor processing, MESFET, integrated circuits, Electrical Engineering and Computer Science, pseudomorphic strained layers, Electrical Electronics and Communications Engineering, applications, optoelectronic devices, Semiconductors, laser diodes, vertical-cavity laser diodes, metal-semiconductor field effect transistors, compound semiconductors, in-plane-cavity laser diodes, photodiodes, Elementary Particle Physics, physics, modeling, heterojunctions, HBT, heterojunction field effect transistors, quantum structures, electronic devices, HFET, bipolar transistors
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.931 Development of Inventions and Creative Ideas, Spring 2008 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Congress, rights, creativity, innovation, modernization, Electrical Engineering and Computer Science, law, Electrical Electronic and Communications Engineering Technology/Technician, inventions, patents, Alexander Graham Bell, American Telephone and Telegraph Company, Constitution, Patent Act, original, courts, inventors, telephone patent, ideas, United States, Thomas Edison
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+22.071J Introduction to Electronics, Signals, and Measurement, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electricity, measurement fundamentals, electronics applications, analog and digital circuits, 22.071, laboratory, 6.071, Electrical Engineering and Computer Science, Electrical Electronics and Communications Engineering, Nuclear Science and Engineering, signals
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.092 Bioinformatics and Proteomics, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: signal processing, robotics, biotechnology applications, Electrical Engineering and Computer Science, actual implementations, machine learning, Bioinformatics, scale-free networks, sequence analysis, proteomics, control theory, network theory, engineering design issues, bioinformatics, Bayesian methods, microarray expression analysis, real-world examples
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.837 Computer Graphics, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: presenting data visually, animation, graphics hardware, Electrical Engineering and Computer Science, image-based rendering, computer graphics, Computer Graphics, acceleration structures, illumination, radiosity, procedural textures, transformation, colors, altialiasing, hierarchy, ray casting, ray tracing, shading, data structures, curves, visibility, key frames, algorithms, surfaces, computer graphics applications, rasterization, programming, clipping, perspective, rendering, shadows, texture mapping
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.883 Pervasive Human Centric Computing (SMA 5508), Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: programming exercises, Python, Cell phones, Speech processing, iPaq, Cricket location systems, Electrical Engineering and Computer Science, Vision, GPS, post-pc era of computing, Computer and Information Sciences General
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.637 Modern Optics Project Laboratory, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: coherent optical processors, Optics/Optical Sciences, electro-optic, imaging, holography, laboratory, light, coherence, Fraunhofer diffraction, fiber optics, modern optics, optical properties of materials, lenses, interference, Electrical Engineering and Computer Science, refraction, acousto-optic, optical detectors, nonlinear optics, modern optics lab, polarization, spatial filtering, optical communication, lasers, transforming, Fresnel diffraction, reflection
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.432 Stochastic Processes, Detection, and Estimation, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: whitening filter, Cramer-Rao bounds, minimum-variance unbiased estimator, communications, stochastic process, estimation, Electrical Engineering and Computer Science, vector spaces, control, linear prediction, detection, Neyman-Pearson, Kalman filter, Karhunen-Loeve expansion, waveform observation, spectral estimation, Bayesian, Wiener filter, signal processing, Mathematical Statistics and Probability, shaping filter
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.891 Computational Evolutionary Biology, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, evolutionary extinction, AIDS, modern genomics, polio vaccine, parasites, hands-on, polio, Evolutionary Biology, vaccine, influenza, sex, evolution from a computational modeling and engineering perspective, analyzing evolutionary data
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.776 High Speed Communication Circuits, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Electronics and Communications Engineering, communication systems, phase-locked loops, integrated circuit design, power amplifiers, communication transceivers, circuit blocks, mixers, Smith Chart, voltage-controlled oscillators, low-noise, Computer Hardware Engineering, S-parameters, amplifiers, wireless, PLL, passive component design, capacitors, transmission line modeling, data links, narrowband, Electrical Engineering and Computer Science, broadband, on-chip inductors, high speed frequency dividers
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.441 Transmission of Information, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: the source-channel separation theorem, Electrical Engineering and Computer Science, Computer and Information Sciences General, telecommunications, Information theory, source coding theorem, noisy communication channels, mathematical definition of information, transmission of information, quantitative theory of information, lossless data compression, efficient communication systems, data transmission, gaussian noise, optimal lossless coding, properties of information, channel coding theorem, broadcast channels, time-varying channels, multiple access channels
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.833 The Human Intelligence Enterprise, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: artificial intelligence, Human Intelligence Enterprise, Minsky, cognition, object recognition, computational models, perception, object tracking, language evolution, Electrical Engineering and Computer Science, human behavior, Artificial Intelligence and Robotics, change representation, heuristics, communication, Turing, neuroscience
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.096J Introduction to Numerical Simulation (SMA 5211), Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Numerical Simulation, integral equations, discretization methods, network problems, Mechanical Engineering, Electrical and Electronic Engineering Technologies/Technicians Other, mathematics, 6.336, Electrical Engineering and Computer Science, matrix solution, model-order reduction, differential equations, Aeronautics and Astronautics, 16.910, Computer Engineering Technologies/Technicians Other, simulation, nonlinear problems, Monte Carlo, Newton method, 2.096
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.084J Nonlinear Programming, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: quasi-Newton methods, 15.084, Lagrangian relaxation, Nonlinear programming, Lagrange multiplier theory, Computer Programming Other, interior point, non-linear programming, feasible directions, integer programming, Sloan School of Management, control, optimality conditions, projection, resource allocation, conjugate direction, communications, nonlinear programming, Newton, power systems, Electrical Engineering and Computer Science, nondifferentiable optimization, duality theory, constrained optimization, unconstrained optimization, nonlinear optimization, 6.252, Lagrange multiplier, gradient, convex analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.245 Multivariable Control Systems, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: MATLAB, optimization, engineering design, H-infinity controller design, Mu-synthesis, model-based compensators, Electrical Engineering and Computer Science, Q-parameterization, CAD/CADD Drafting and/or Design Technology/Technician, Systems Engineering, multivariable control systems, linear-quadratic optimization, dynamic augmentation, multivariable feedback control systems, nonlinear systems, computer-aided design
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.263J Data Communication Networks, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Local Area Networks, high-speed packet switching, network operation, Electrical Electronics and Communications Engineering, mathematics, next generation data networks, Aeronautics and Astronautics, probability theory, Electrical Engineering and Computer Science, 16.37, queueing theory, network performance, network algorithms, Link Layer protocols, layered network architecture, data communication networks, Wide Area Networks, Process control -- Data processing, 6.263, architecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.866 Machine Vision, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: image filtering, computational vision, Computational Mathematics, Electrical Engineering and Computer Science, orientation, motion vision, image formation physics, environment interaction, photometric stereo, robot vision, 6.866, stereo, analog VLSI, binary image processing, extended Gaussian, image analysis, photogrammetry, lightness, recovering, shape from shading, object representation alignment, Robot vision
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.844 Computability Theory of and with Scheme, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: programming theory, programming semantics, Incompleteness Theorems, Halting Problem for Scheme, Electrical Engineering and Computer Science, computability, logic of programming, Computer Programming Specific Applications, Hilbert s Tenth Problem, programming language, Scheme evaluation, term rewriting theory, algebraic manipulation, Scheme
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.838 Algorithms for Computer Animation, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, computer animation, inverse kinematics, physical simulation, keyframing, algorithms, data-driven methods, optimization, optimal control, Animation Interactive Technology Video Graphics and Special, Computer animation, motion capture
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.830 Database Systems, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: semi structured data and XML querying, parallel, isolation and consistency, adaptive databases, concurrency control, schema normalization and integrity constraints, database and schema design, pub-sub systems, query processing, recovery, engineering and design of database systems data models, trigger systems, transactions, heterogeneous databases, Data Modeling/Warehousing and Database Administration, query optimization and cost estimation, distributed, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.874J Computational Functional Genomics, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, gene expression, proteome, systems biology, genomic sequence, error model, genome structure, statistical data analysis, transcription, gene sequence, RNA, Cell/Cellular and Molecular Biology, protein, microarray, chromatin, 7.90, Molecular Genetics, DNA, Biology, clustering, stem cell, biology, gene clustering, motif, phenotype, diagnostic, 6.874
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.404J Theory of Computation, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: Time and space measures on computation completeness hierarchy theorems inherently complex problems oracles probabilistic computation and interactive proof systems, Mathematics, Electrical Engineering and Computer Science, Regular and context-free languages, Computability computational complexity theory, Decidable and undecidable problems reducibility recursive function theory, Computational Mathematics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+24.941J The Lexicon and Its Features, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Linguistics and Philosophy, Electrical Engineering and Computer Science, acoustic and articulatory correlates, Cognitive Science, models of word recognition, lexicon, Linguistics, cognitive science, linguistics, languages, features, Brain and Cognitive Sciences, Health Sciences and Technology, sound categories
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Gdel, Escher, Bach
+What do one mathematician, one artist, and one musician all have in common? Are you interested in zen Buddhism, math, fractals, logic, paradoxes, infinities, art, language, computer science, physics, music, intelligence, consciousness and unified theories? Get ready to chase me down a rabbit hole ...
+Keywords: Science and Technology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.160 Signals, Systems, and Information for Media Technology, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Walsh functions and other basis sets, Computer Science Other, Aliasing, Signal processing, Basic math concepts, Definition of orthogonality, Fourier series, Complex exponentials, AM, Reconstruction, Notation, Spectrum plots, Media Arts and Sciences, Sampling theorem, FM, Representation of systems, Vocabulary
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+18.335J Introduction to Numerical Methods, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: IEEE floating point standard, QR/SVD factorization, structured matrices, Matlab, numerical linear algebra, Electrical Engineering and Computer Science, eigenvalue decomposition, linear systems, preconditioning, sparse matrices, linear algebra software, Mathematics, numerical algorithms
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+8.351J Classical Mechanics: A Computational Approach, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: classical mechanics, generating functions, phase space, Lagrangian formulation, Mechanics, equations of motion, rigid bodies and tops, resonance overlap, Earth Atmospheric and Planetary Sciences, KAM theorem, action, variational principles, cantori, 12.620, Geology/Earth Science General, chaotic motion, Poincaré integral invariants, Poincaré-Birkhoff, 8.351, chaos, conserved quantities, computation, invariant curves, canonical equations, 6.946, Hamilton s principle, nonlinear resonances, surfaces of section, canonical transformations, Hamiltonian formulation, Electrical Engineering and Computer Science, transition to chaos, Liouville s theorem, Physics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+22.82 Engineering Risk-Benefit Analysis, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: decision analysis, Engineering Systems Division, fault-tolerant design, axioms of rational behavior, design decisions, uncertainty, Nuclear Science and Engineering, Electrical Engineering and Computer Science, environmental remediation, Engineering General, risk management, Aeronautics and Astronautics, risk aversion, remedial action alternative, Materials Science and Engineering, utility functions, Civil and Environmental Engineering, risk analysis, probability, cost-benefit analysis, multistage decision models, Chemical Engineering, Mechanical Engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.582J Biomedical Signal and Image Processing, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: signal processing, speech recognition, FFT, electrocardiogram, speech processing, physiology, MATLAB, digital filter, MRI, ECG, biological signal, applications of probabilitym, noise, Electrical Engineering and Computer Science, ultrasound, medical imaging, imaging, diagnostic tool, medicine, fourier, diagnosis, Health Sciences and Technology, Radiologic Technology/Science - Radiographer, DSP, Aeronautics and Astronautics, cardiology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.083J Integer Program Combination Optimization, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: theory, extensions of integer optimization, Sloan School of Management, algorithms, algebra and geometry of integer optimization, formulations and relaxations, 15.083, Electrical Engineering and Computer Science, algorithms for integer optimization, integer optimization, Operations Research
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.073J Logistical and Transportation Planning Methods, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: geometrical probabilities, network analysis, Transportation and Highway Engineering, Operations Research, heuristics, spatial location theory, hypercube models, queueing models, urban OR, Civil and Environmental Engineering, operations research, logistics, spatial queues, network models, emergency services, Engineering Systems Division, multi-server queueing theory, random variables, quantitative techniques, graph theory, Aeronautics and Astronautics, urban service systems, simulation, transportation, TSP, Sloan School of Management, Electrical Engineering and Computer Science, barrier example, transportation systems analysis, Markov
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.798J Molecular, Cellular and Tissue Biomechanics (BE.410J), Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Chemical Engineering, 2.798, continuum mechanics, Mechanical Engineering, tissue structure, length scales, biomembranes, 6.524, biomolecular mechanics and molecular motors, Biological Engineering, chemical and electrical effects on mechanical behavior, Scaling laws, molecular basis for macroscopic properties, Cell/Cellular Biology and Anatomical Sciences Other, Electrical Engineering and Computer Science, biomechanical phenomena, BE.410J, Experimental methods, BE.410, cell mechanics motility and adhesion
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.084J Nonlinear Programming, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: 15.084, Algorithmic methods include steepest descent, unconstrained and constrained optimization, Newton s method, Electrical Engineering and Computer Science, Sloan School of Management, semi-definite programming, interior-point methods and penalty and barrier methods, lagrange and conic duality theory, Lagrangean relaxation, Mathematics General, interior-point algorithms and theory, generalized programming, Operations Research, Management Science General, 6.252, linear and quadratic programming, conditional gradient and subgradient optimization
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+2.797J Molecular, Cellular, and Tissue Biomechanics, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: cell mechanics, muscle constriction, Materials Science and Engineering, Electrical Engineering and Computer Science, tissue-level deformation, Anatomy, Mechanical Engineering, electromechanical and physiochemical properties of tissues, physical regulation, Biomedical/Medical Engineering, Biological Engineering, molecular electromechanics, cellular metabolism, molecular mechanics, tissue mechanics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.804J Computational Cognitive Science, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Cognitive Science, cognitive science, 9.660, inductive learning, artificial intelligence, computational theory, machine learning, human cognition, innate knowledge, inductive reasoning, human knowledge representation, computational cognitive science, Electrical Engineering and Computer Science, 9.66, Brain and Cognitive Sciences, 6.804
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+7.36J Foundations of Computational and Systems Biology, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: DNA microarrays, clustering, sequence analysis, bioinformatics, proteome, RNA, genome sequencing, ncbi, DNA, Neuroanatomy, 20.490, network modeling, blast, protein structure, systems biology, 7.36, 7.91, 20.490J, pairwise sequence comparisons, Biology, NMR, structure prediction, sequence alignment, Biological Engineering, x-ray crystallography, dynamic programming, computational annotation, protein folding, ab initio structure prediction, computational biology, proteomics, homologs, phylogenetics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+8.613J Introduction to Plasma Physics I, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: cross-sections, dynamics in two-fluid plasmas, transport processes, Physics, astrophysics, plasma state, Nuclear Science and Engineering, Plasma and High-Temperature Physics, 8.613, Debye Shielding, energy generation, EM Fields, two-fluid hydrodynamic plasma models, controlled thermonuclear fusion, instabilities, charged particle motion, kinetic theory, magnetic fields, Electrical Engineering and Computer Science, wave propagation, 6.651, fluid plasma descriptions, collective effects, motion of charged particles, stability analysis, simple equilibrium, streaming instabilities, charged particles, Vlasov-Maxwell kinetic theory, Coulomb collisions, ion-acoustic waves, visible universe, fourth state of matter, MHD dynamics, cold plasma waves, relaxation, plasma phenomena, Vlasov plasma model, linear Landau growth, kinetic description of waves, plasmas, microscopic to fluid plasma descriptions, plasma confinement schemes, Landau damping, MHD equilibrium, 22.611, electron plasma waves, economics, MHD models
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/ 

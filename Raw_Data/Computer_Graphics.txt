@@ -1,0 +1,72 @@
+9.520 Statistical Learning Theory and Applications, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ... 
+Keywords: Support Vector Machines, Brain and Cognitive Sciences, computer vision, multivariate function, classification, regression, Neuroscience, VC theory, statistical learning, Statistics, bioinformatics, supervised learning, computer graphics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+1.00 Introduction to Computers and Engineering Problem Solving, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computer, Civil and Environmental Engineering, software development, searching, object oriented, numerical methods, Java, data structures, computer graphics, graphical user interface, sorting, software, problem solving, programming, Computer Engineering General, C++, C, Computer Programming/Programmer General, engineering
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+9.357 Special Topics in Vision Science, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "An ...
+Keywords: materials, computer vision, psychophysics, optics, perception, computer graphics, Vision Science/Physiological Optics, vision, Brain and Cognitive Sciences
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+4.206 Introduction to Design Computing, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: digital fabrication, Architectural Drafting and Architectural CAD/CADD, information visualization, exploration of space, design construction, programming, computer aided drawings, CAD CAM fabrication, representational mediums, architecture, data respresentation, computation, Architectural drawing -- Computer-aided design, rapid prototyped models, computer rendering, Architecture, computer models, place making, architectural design, computer graphics, constructs, complex phenomena, computer modeling
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Amiens Cathedral Project
+presents a virtual tour of this gothic cathedral with interior and exterior photographs, drawings, computer graphics, and explanatory text.
+Keywords: Arts
+
+6.895 Theory of Parallel Systems (SMA 5509), Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: VLSI layout theory, randomized algorithms, message-routing algorithms, parallel computing, parallel systems, high-probability arguments, Computer Graphics, routing networks, race detection, multithreading, memory consistency, Electrical Engineering and Computer Science, synchronization, probabilistic analysis, load balancing, algorithms
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.837 Computer Graphics, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: presenting data visually, animation, graphics hardware, Electrical Engineering and Computer Science, image-based rendering, computer graphics, Computer Graphics, acceleration structures, illumination, radiosity, procedural textures, transformation, colors, altialiasing, hierarchy, ray casting, ray tracing, shading, data structures, curves, visibility, key frames, algorithms, surfaces, computer graphics applications, rasterization, programming, clipping, perspective, rendering, shadows, texture mapping
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.881 Representation and Modeling for Image Analysis, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: images, Artificial Intelligence and Robotics, mathematical foundations, markov random fields, expectation maximization, modeling techniques, manifold fitting, clustering, level sets, computer vision, representations, estimation algorithm, modeling, representation algorithm, image information, information, deformation fields, medical and biological imaging, Electrical Engineering and Computer Science, contours, objects, Computer Graphics, image analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Grand Challenges for Engineering
+presents essays and opinions from engineers, scientists, and others: What will be the next great ideas in engineering? Read about the challenges of landing on Mars, engineering for the developing world, and illumination in computer graphics.
+Keywords: Science and Technology
+
+1.001 Introduction to Computers and Engineering Problem Solving, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: C, numerical methods, graphical user interface, software development, computer graphics, computer, engineering, data structures, searching, object oriented, sorting, Java, Civil and Environmental Engineering, Civil Engineering General, C++, problem solving, software, programming
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+9.520 Statistical Learning Theory and Applications, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Support Vector Machines, Brain and Cognitive Sciences, Neuroscience, computer vision, supervised learning, multivariate function, bioinformatics, regression, classification, computer graphics, statistical learning, VC theory
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+4.491 Form-Finding and Structural Optimization: Gaudi Workshop, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: procedural methods for creating structural elements, advanced dynamics, Architecture, interactive design tools, computer science, statics, shaping structures, Computer Graphics, Gaudi, physical simulation procedures, Computer Software Engineering, structures, structural analysis, computer graphics, mesh generation, form-finding, Barcelona, mathematics of nodal systems, computer modeling, architecture, Structural Engineering, structural systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+9.520-A Networks for Learning: Regression and Classification, Spring 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Networks, Finance, Boosting, Computer Vision, Approximation Theory, Brain and Cognitive Sciences, Regularized, Empirical Risk, Nonparametric, Approximation Error, Minimization Principle, Perspective, Bagging, Statistical Learning Theory, Bioinformatics, Approximation, Kernel Engineering, Regression, Support Vector Machines, Structural Risk Minimization, Kernel Hilbert Spaces, Learning, Frames, Ridge Approximation, Consistency, Computer Graphics, Neuroscience, VC-Dimension, VC-bounds, Wavelets
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.838 Algorithms for Computer Animation, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science, computer animation, inverse kinematics, physical simulation, keyframing, algorithms, data-driven methods, optimization, optimal control, Animation Interactive Technology Video Graphics and Special, Computer animation, motion capture
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+4.521 Computational Design I: Theory and Applications, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: computation, generative algorithms, design process, design software, Computer Graphics, digital computing, generative design, Architecture, human interaction, intermediary objects, design generatives, representaion, expressive objects, shape grammars, object design
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/

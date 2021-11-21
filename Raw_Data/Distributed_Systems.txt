@@ -1,0 +1,434 @@
+Distributed Web Systems - Distributed Systems Architectures
+These quiz answers form part of the "Distributed Systems Architectures" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed systems architectures quiz, distributed system quiz, web systems quiz, distributed systems architecture quiz, web system quiz, distributed systems quiz, distributed web system quiz, distributed web systems quiz, distributed systems, distributed web system, distributed web systems, distributed systems architectures, web system, distributed system, web systems, distributed systems architecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed Systems Architectures
+This lecture forms part of the "Distributed Systems Architectures" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed systems architecture, web systems, distributed system, web system, distributed systems architectures, distributed web systems, distributed web system, distributed systems, web systems lecture, distributed systems architecture lecture, distributed systems lecture, distributed web system lecture, distributed web systems lecture, web system lecture, distributed system lecture, distributed systems architectures lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Understanding of Distributed Systems by IT Services 
+Discusses the need for IT service staff to understand distributed systems in order to facilitate the uptake of e-Infrastructure services by researchers.
+Keywords: e-Infrastructure, e-Research, Inhibitor, IT Services, Understanding Distributed Systems
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Distributed Web Systems - Fundamental models in distributed systems
+These quiz answers form part of the "Fundamental models in distributed systems" topic in the Distributed Web Systems module.
+Keywords:
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Fundamental models in distributed systems
+These practical answers form part of the "Fundamental models in distributed systems" topic in the Distributed Web Systems module.
+Keywords: ukoer, java networking practical, distributed web system practical, distributed web systems practical, web systems practical, fundamental models in distributed systems practical, web system practical, distributed system practical, distributed systems practical, distributed web system, distributed web systems, web systems, fundamental models in distributed systems, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Fundamental models in distributed systems
+This practical forms part of the "Fundamental models in distributed systems" topic in the Distributed Web Systems module.
+Keywords: ukoer, java networking practical, distributed web system practical, distributed web systems practical, web systems practical, fundamental models in distributed systems practical, web system practical, distributed system practical, distributed systems practical, distributed web system, distributed web systems, web systems, fundamental models in distributed systems, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+What is a Distributed System?
+Discusses the differences between distributed systems and desktop computers, how the distributed nature has both benefits and some disadvantages, and points out the relevance of this for researchers. That is then followed by an example of how collections of distributed systems can be used to solve a ...
+Keywords: challenges, computer networks, distributed systems, solutions
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Research in a Connected World
+Introduction to distributed systems and their uses in research.
+Keywords: computing in research, distributed systems, e-Research, research in a connected world
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Trust in Distributed Systems
+Discusses the issue of trust in distributed systems, especially relating to data security.
+Keywords: e-Infrastructure, e-Research, Inhibitor, Trust
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Understanding of Distributed Computing Principles
+Discusses the need for researchers to understand distributed systems principles in order for them to make effective use of e-Infrastructure services.
+Keywords: Distributed Systems, e-Infrastructure, e-Research, Inhibitor, Understanding
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Access Control
+Understanding Authentication and Access Control in Distributed Systems
+Keywords: Information Security
+
+Access Control in Distributed Systems
+Treatments of access control and authorization typically focus on individual mechanisms (access control lists, capabilities) or types of policies. This module seeks to isolate the basic concepts underlying many types of authorization in distributed systems, and then to show how this perspective can ...
+Keywords: Information Security
+
+The Center for Networking and Distributed Systems
+The Center for Networking and Distributed Systems and John Hopkins University "focuses on the interplay between theory and practice in distributed systems and networks." There are many resources on the centers Web site, including numerous research papers and publications. One of the papers listed ...
+Keywords: Distributed databases, Electronic data processing -- Distributed processing, Distributed shared memory.
+
+Distributed Web Systems - Introduction
+This lecture forms part of the "Introduction" topic in the Distributed Web Systems module.
+Keywords: ukoer, introduction to distributed systems lecture, distributed systems, introduction to distributed web systems, web systems, distributed web systems, distributed web system, web system, distributed system, introduction to distributed web systems lecture, distributed systems lecture, distributed system lecture, web system lecture, distributed web system lecture, distributed web systems lecture, web systems lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Replication
+These quiz answers form part of the "Replication" topic in the Distributed Web Systems module.
+Keywords: ukoer, replication quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, replication, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Replication
+This quiz forms part of the "Replication" topic in the Distributed Web Systems module.
+Keywords: ukoer, replication quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, replication, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Replication
+This lecture forms part of the "Replication" topic in the Distributed Web Systems module.
+Keywords: ukoer, replication lecture, web systems lecture, distributed web systems lecture, distributed web system lecture, web system lecture, distributed system lecture, distributed systems lecture, replication, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Readme file for Distributed Web Systems
+This readme file contains details of links to all the Distributed Web Systems module's material held on Jorum and information about the module as well.
+Keywords:
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Logical notions of time in distributed systems
+Looks at Lamport's logical timestamps in a simple way and, at the cost of more overhead, represent time in a more accurate way.
+Keywords: Trustworthy Systems
+
+Distributed Web Systems - Accessing databases with JDBC
+These practical answers form part of the "Accessing databases with JDBC" topic in the Distributed Web Systems module.
+Keywords: ukoer, JDBC practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, Java Database Connectivity practical, JDBC, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, Java Database Connectivity
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Interprocess Communications
+This quiz forms part of the "Interprocess Communications" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, interprocess communication quiz, interprocess communications quiz, web systems quiz, distributed web systems quiz, interprocess communications, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, interprocess communication
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Coordination and agreement
+This quiz forms part of the "Coordination and agreement" topic in the Distributed Web Systems module.
+Keywords: ukoer, coordination and agreement quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, coordination and agreement, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Java Server Pages
+This tutorial forms part of the "Java Server Pages" topic in the Distributed Web Systems module.
+Keywords: ukoer, java server pages tutorial, web systems tutorial, distributed web systems tutorial, distributed web system tutorial, web system tutorial, distributed system tutorial, distributed systems tutorial, java server page tutorial, jsp tutorial, java server pages, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java server page, jsp
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed Objects and Remote Method Invocation
+This practical forms part of the "Distributed Objects and Remote Method Invocation" topic in the Distributed Web Systems module.
+Keywords: ukoer, remote methods invocation practical, distributed objects practical, remote method invocation practical, distributed objects and remote method invocation practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, distributed object practical, distributed objects, remote method invocation, distributed objects and remote method invocation, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, distributed object
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed Objects and Remote Method Invocation
+These practical answers form part of the "Distributed Objects and Remote Method Invocation" topic in the Distributed Web Systems module.
+Keywords: ukoer, remote methods invocation practical, distributed objects practical, remote method invocation practical, distributed objects and remote method invocation practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, distributed object practical, distributed objects, remote method invocation, distributed objects and remote method invocation, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, distributed object
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Coordination and agreement
+This lecture forms part of the "Coordination and agreement" topic in the Distributed Web Systems module.
+Keywords: ukoer, coordination and agreement lecture, web systems lecture, distributed web systems lecture, distributed web system lecture, web system lecture, distributed system lecture, distributed systems lecture, coordination and agreement, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Web Services and the Semantic Web
+These quiz answers form part of the "Web Services and the Semantic Web" topic in the Distributed Web Systems module.
+Keywords: ukoer, web services quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, semantic web quiz, web services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, semantic web
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Transactions and concurrency control
+These quiz answers form part of the "Transactions and Concurrency Control" topic in the Distributed Web Systems module.
+Keywords:
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Handling request and response data in servlets
+This tutorial forms part of the "Handling request and response data in servlets" topic in the Distributed Web Systems module.
+Keywords: ukoer, servlets tutorial, distributed systems tutorial, distributed web systems tutorial, request data tutorial, response data tutorial, servlet tutorial, distributed web system tutorial, web system tutorial, distributed system tutorial, java servlets tutorial, web systems tutorial, java servlets, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, request data, response data, servlet
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Web Services and the Semantic Web
+These practical answers form part of the "Web Services and the Semantic Web" topic in the Distributed Web Systems module.
+Keywords: ukoer, web services practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, semantic web practical, web services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, semantic web
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Handling request and response data in servlets
+This practical forms part of the "Handling request and response data in servlets" topic in the Distributed Web Systems module.
+Keywords: ukoer, java servlets practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, request data practical, response data practical, servlet practical, java servlets, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, request data, response data, servlet
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Handling request and response data in servlets
+These practical answers form part of the "Handling request and response data in servlets" topic in the Distributed Web Systems module.
+Keywords: ukoer, java servlets practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, request data practical, response data practical, servlet practical, java servlets, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, request data, response data, servlet
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed File Systems
+These quiz answers form part of the "Distributed File Systems" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed file systems quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, distributed file systems, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed Objects and Remote Method Invocation
+This quiz forms part of the "Distributed Objects and Remote Method Invocation" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed objects and rmi quiz, distributed objects quiz, remote method invocation quiz, distributed objects and remote method invocation quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, distributed object quiz, distributed objects, remote method invocation, distributed objects and remote method invocation, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, distributed object
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Using Java beans with JSP
+This tutorial forms part of the "Using Java beans with JSP" topic in the Distributed Web Systems module.
+Keywords: ukoer, java beans tutorial, web systems tutorial, distributed web systems tutorial, distributed web system tutorial, web system tutorial, distributed system tutorial, distributed systems tutorial, jsp tutorial, java server page tutorial, java beans, web systems, distributed web systems, distributed web system, web system, distributed systems, jsp, java server page
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Interprocess Communications
+This lecture forms part of the "Interprocess Communications" topic in the Distributed Web Systems module.
+Keywords: ukoer, web system lecture, interprocess communications, interprocess communications lecture, distributed web system lecture, web systems lecture, distributed system lecture, distributed systems lecture, interprocess communication lecture, distributed web systems lecture, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, interprocess communication
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Accessing databases with JDBC
+This tutorial forms part of the "Accessing databases with JDBC" topic in the Distributed Web Systems module.
+Keywords: ukoer, JDBC tutorial, web systems tutorial, distributed web systems tutorial, distributed web system tutorial, web system tutorial, distributed system tutorial, distributed systems tutorial, Java Database Connectivity tutorial, JDBC, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, Java Database Connectivity
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Time and global state
+This lecture forms part of the "Time and global state" topic in the Distributed Web Systems module.
+Keywords:
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Name Services
+These quiz answers form part of the "Name Services" topic in the Distributed Web Systems module.
+Keywords: ukoer, name services quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, name service quiz, name services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, name service
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Java Servlets
+This practical forms part of the "Java Servlets" topic in the Distributed Web Systems module.
+Keywords: ukoer, servlets practical, distributed system practical, distributed systems practical, java servlet practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, java servlets practical, java servlets, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java servlet
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Java Server Pages
+These practical answers form part of the "Java Server Pages" topic in the Distributed Web Systems module.
+Keywords: ukoer, java server pages practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, java server page practical, jsp practical, java server pages, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java server page, jsp
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Model-view-controller architecture: integrating servlets and JSPs
+This tutorial forms part of the "Model-view-controller architecture: integrating servlets and JSPs" topic in the Distributed Web Systems module.
+Keywords: ukoer, model-viewer-controller architecture tutorial, web systems tutorial, distributed web systems tutorial, distributed web system tutorial, web system tutorial, distributed system tutorial, distributed systems tutorial, java server pages tutorial, model-view-controller architecture, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java server pages
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Interprocess Communications
+This practical forms part of the "Interprocess Communications" topic in the Distributed Web Systems module.
+Keywords: ukoer, java networking practical, interprocess communication practical, distributed system practical, distributed web systems practical, distributed systems practical, web system practical, distributed web system practical, web systems practical, interprocess communications practical, interprocess communications, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, interprocess communication
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Time and global state
+This quiz forms part of the "Time and global state" topic in the Distributed Web Systems module.
+Keywords: ukoer, time and global state quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, time and global states quiz, time and global state, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, time and global states
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed File Systems
+This lecture forms part of the "Distributed File Systems" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed file systems lecture, web systems lecture, distributed web systems lecture, distributed web system lecture, web system lecture, distributed system lecture, distributed systems lecture, distributed file systems, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Cookies and session tracking
+This practical forms part of the "Cookies and session tracking" topic in the Distributed Web Systems module.
+Keywords: ukoer, cookies practical, session tracking practical, cookies and session tracking practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, cookies, session tracking, cookies and session tracking, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Peer-to-peer systems
+These quiz answers form part of the "Peer-to-peer systems" topic in the Distributed Web Systems module.
+Keywords: ukoer, p2p quiz, peer to peer systems quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, peer to peer system quiz, p2p, peer to peer systems, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, peer to peer system
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Cookies and session tracking
+This lecture forms part of the "Cookies and session tracking" topic in the Distributed Web Systems module.
+Keywords: ukoer, web system tutorial, distributed system tutorial, web systems tutorial, cookies tutorial, session tracking tutorial, distributed web system tutorial, distributed web systems tutorial, cookies and session tracking tutorial, distributed systems tutorial, cookies, session tracking, cookies and session tracking, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Web Services and the Semantic Web
+This practical forms part of the "Web Services and the Semantic Web" topic in the Distributed Web Systems module.
+Keywords: ukoer, web services practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, semantic web practical, web services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, semantic web
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Name Services
+This lecture forms part of the "Name Services" topic in the Distributed Web Systems module.
+Keywords: ukoer, name services lecture, web systems lecture, distributed web systems lecture, distributed web system lecture, web system lecture, distributed system lecture, distributed systems lecture, name service lecture, name services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, name service
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Transactions and concurrency control
+This quiz forms part of the "Transactions and Concurrency Control" topic in the Distributed Web Systems module.
+Keywords: ukoer, transactions and currency control quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, transaction quiz, concurrency quiz, concurrency control quiz, transactions and currency control, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, transaction, concurrency, concurrency control
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Interprocess Communications
+These quiz answers form part of the "Interprocess Communications" topic in the Distributed Web Systems module.
+Keywords: ukoer, web system quiz, distributed system quiz, distributed systems quiz, interprocess communication quiz, interprocess communications quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, interprocess communications, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, interprocess communication
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Model-view-controller architecture: integrating servlets and JSPs
+These practical answers form part of the "Model-view-controller architecture: integrating servlets and JSPs" topic in the Distributed Web Systems module.
+Keywords: ukoer, mvc approach practical, model-view-controller architecture practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, java server pages practical, model-view-controller architecture, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java server pages
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Coordination and agreement
+These practical answers form part of the "Coordination and agreement" topic in the Distributed Web Systems module.
+Keywords: ukoer, election algorithms practical, coordination and agreement practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, coordination and agreement, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Using Java beans with JSP
+This practical forms part of the "Using Java beans with JSP" topic in the Distributed Web Systems module.
+Keywords: ukoer, java beans practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, jsp practical, java server page practical, java beans, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, jsp, java server page
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Java Servlets
+These practical answers form part of the "Java Servlets" topic in the Distributed Web Systems module.
+Keywords: ukoer, servlets practical, distributed system practical, distributed systems practical, java servlets practical, java servlet practical, distributed web systems practical, distributed web system practical, web system practical, web systems practical, java servlets, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java servlet
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Peer-to-peer systems
+This quiz forms part of the "Peer-to-peer systems" topic in the Distributed Web Systems module.
+Keywords: ukoer, p2p quiz, peer to peer systems quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, peer to peer system quiz, p2p, peer to peer systems, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, peer to peer system
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed File Systems
+This quiz forms part of the "Distributed File Systems" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed file systems quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, distributed file systems, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Accessing databases with JDBC
+This practical forms part of the "Accessing databases with JDBC" topic in the Distributed Web Systems module.
+Keywords: ukoer, JDBC practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, Java Database Connectivity practical, JDBC, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, Java Database Connectivity
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Model-view-controller architecture: integrating servlets and JSPs
+This practical forms part of the "Model-view-controller architecture: integrating servlets and JSPs" topic in the Distributed Web Systems module.
+Keywords: ukoer, mvc approach practical, model-view-controller architecture practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, java server pages practical, model-view-controller architecture, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java server pages
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Using Java beans with JSP
+These practical answers form part of the "Using Java beans with JSP" topic in the Distributed Web Systems module.
+Keywords: ukoer, java beans practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, jsp practical, java server page practical, java beans, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, jsp, java server page
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Distributed Objects and Remote Method Invocation
+This lecture forms part of the "Distributed objects and Remote Method Invocation" topic in the Distributed Web Systems module.
+Keywords: ukoer, distributed system lecture, web systems lecture, distributed objects and remote method invocation lecture, web system lecture, distributed objects lecture, distributed object lecture, distributed systems lecture, distributed web systems lecture, distributed web system lecture, remote method invocation lecture, distributed objects, remote method invocation, distributed objects and remote method invocation, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, distributed object
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Web Services and the Semantic Web
+This lecture forms part of the "Web Services and the Semantic Web" topic in the Distributed Web Systems module.
+Keywords: ukoer, web services lecture, web systems lecture, distributed web systems lecture, distributed web system lecture, web system lecture, distributed system lecture, distributed systems lecture, semantic web lecture, web services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, semantic web
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Transactions and concurrency control
+This lecture forms part of the "Transactions and Concurrency Control" topic in the Distributed Web Systems module.
+Keywords: ukoer, transactions and currency control lecture, web systems lecture, distributed web systems lecture, distributed web system lecture, web system lecture, distributed system lecture, distributed systems lecture, transaction lecture, concurrency lecture, concurrency control lecture, transactions and currency control, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, transaction, concurrency, concurrency control
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Name Services
+This quiz forms part of the "Name Services" topic in the Distributed Web Systems module.
+Keywords: ukoer, name services quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, name service quiz, name services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, name service
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Time and global state
+These quiz answers form part of the "Time and global state" topic in the Distributed Web Systems module.
+Keywords: ukoer, time and global state quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, time and global states quiz, time and global state, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, time and global states
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Cookies and session tracking
+These practical answers form part of the "Cookies and session tracking" topic in the Distributed Web Systems module.
+Keywords: ukoer, cookies practical, session tracking practical, cookies and session tracking practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, cookies, session tracking, cookies and session tracking, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Java Servlets
+This lecture forms part of the "Java Servlets" topic in the Distributed Web Systems module.
+Keywords: ukoer, java servlet, distributed systems, web system, distributed system, distributed web system, distributed web systems, web systems, java servlets, java servlets lecture, web systems lecture, distributed web system lecture, web system lecture, distributed system lecture, distributed systems lecture, java servlet lecture, distributed web systems lecture
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Time and global state
+This practical forms part of the "Time and global state" topic in the Distributed Web Systems module.
+Keywords: ukoer, time control practical, time and global state practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, distributed systems practical, time and global states practical, time and global state, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, time and global states
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Java Servlets
+This reading material forms part of the "Java Servlets" topic in the Distributed Web Systems module.
+Keywords: ukoer, tomcat reading material, java servlet, distributed systems, distributed system, web system, distributed web system, distributed web systems, web systems, java servlets, java servlet reading material, web system reading material, java servlets reading material, web systems reading material, distributed web systems reading material, distributed web system reading material, distributed system reading material, distributed systems reading material
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Distributed Web Systems - Web Services and the Semantic Web
+This quiz forms part of the "Web Services and the Semantic Web" topic in the Distributed Web Systems module.
+Keywords: ukoer, web services quiz, web systems quiz, distributed web systems quiz, distributed web system quiz, web system quiz, distributed system quiz, distributed systems quiz, semantic web quiz, web services, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, semantic web
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Operating Systems
+CSC 342. Operating Systems (3) Prerequisite: CSC 332. Study of supervisory programs. System services and file systems; CPU scheduling; memory management; virtual memory; disk scheduling. Deadlock characterization, prevention, and avoidance; concurrent processes; semaphores; critical sections; ...
+Keywords: Computer Science/Operating Systems/
+
+Distributed web systems : past exam questions : level 3
+This resource (B359 Distributed Web Systems Level 3) contains past examination questions from the Department of Electronic and Computer Engineering at the University of Portsmouth. From mobile phones to the Internet, our lives depend increasingly on distributed systems linking computers and other ...
+Keywords: ukoer, engscoer, ccby, portsmouthUniOER, University of Portsmouth, electronic and computer engineering, ExamopediaUKOER
+Rights: http://creativecommons.org/licenses/by/2.0/uk/
+
+Mathematics and Computer Science Division (MCS)
+One of the U.S. Department of Energy's largest energy research centers. Research falls into broad categories: Numerical Methods and Software Development; Systems Software and Parallel Programming Tools; Applied Mathematics and Logic-Based Systems; Distributed Systems Research; Collaborative and ...
+Keywords: Analysis, Astronomy, Biology, Chemistry, Computer Science, Engineering, Fluid Dynamics, Linear Algebra, Nonlinear Dynamics, Operations Research, Optimization, Partial Differential Equations, Physics
+
+Implementation of a distributed, model-based integrated asset management system
+This paper presents the development of a generic framework for asset maintenance management, and an object model for the maintenance management of roofing systems as a case study to demonstrate the applicability of the framework. The model builds upon the Industry Foundation Classes (IFCs) to ...
+Keywords: Asset Management, IFC, Model-Based Distributed Systems, Asset Management Tool
+
+Implementation of Agent Based Dynamic Distributed Service
+The concept of distributed computing implies a network/internet-work of independent nodes which are logically configured in such a manner as to be seen as one machine by an application. Agents and multi-agent systems are useful in modeling complex distributed processes. They focus on support for, ...
+Keywords: Engineering, Computer science, Technology, Distributed Systems
+
+Fault-tolerant Distributed Computer Systems
+Distributed systems are difficult to build and understand, for all sorts of reasons. Failures are common in large systems, and we can't let them shut the application down; a well-engineered system will tolerate failures and repair any damage they caused. A single event, perceived at multiple ...
+Keywords: Trustworthy Systems
+
+New Methodologies in Architectural Design inspired by Self-Organization
+This paper introduces a potential application of construction systems seen in biological systems to overcome various shortcomings in human architecture. Unlike human constructions, some social insects can produce habitable structures with simple rules without predetermined blueprints or central ...
+Keywords: Algorithm, Construction, Flocking, Genetic, Self-Organization
+
+Distributed Web Systems - Java Server Pages
+This practical forms part of the "Java Server Pages" topic in the Distributed Web Systems module.
+Keywords: ukoer, java server pages practical, web systems practical, distributed web systems practical, distributed web system practical, web system practical, distributed system practical, java server page practical, jsp practical, java server pages, web systems, distributed web systems, distributed web system, web system, distributed system, distributed systems, java server page, jsp
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.0/uk/
+
+Communication in Cooperative Building Design
+This paper addresses communication issues, which are crucial in any implementation of distributed design environments. Communication needs are specified and implemented in a prototype based on a modular knowledge-based approach for simulation of a distributed multi-user system. The results of these ...
+Keywords: Building Design, Distributed Design Environments, Cooperative Design, Communication
+
+6.824 Distributed Computer Systems Engineering, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Mobile Information and Communcation Systems
+Mobile Information and Communication Systems (MICS) is part of the Swiss National Science Foundation's National Centres of Competence in Research. The goal of MICS is "to study fundamental and applied questions raised by new generation mobile communication and information services, based on ...
+Keywords: Communication, Communication and technology, Science, Science -- Technology
+
+.NET P2P: Writing Peer-to-Peer Networked Apps with the Microsoft .NET Framework
+Peer-to-peer applications such as Napster, Gnutella, and Scour that communicate as peers sharing and receiving information are becoming commonplace as a means for users connected on large networks to take advantage of the vast resources available to them. The Microsoft .NET Framework provides a rich ...
+Keywords: IP Multicast, Web Services, Namespace, SOAP, Visual Studio .NET, Firewalls and Ports, SharaBaby, Service Process, Computer Science/Net-Centric Computing/Communication and Networking, Computer Science/Architecture and Organization/Architecture for Networks and Distributed Systems
+
+Abstract State Machines
+The Abstract State Machine (ASM) Project (formerly known as the Evolving Algebras Project) was started by Yuri Gurevich as an attempt to bridge the gap between formal models of computation and practical specification methods. The ASM thesis is that any algorithm can be modeled at its natural ...
+Keywords: Computer Science, Operations Research
+
+Analysis of timed Petri nets for reachability in construction applications
+Petri nets have been used for many years to model complex processes. Examples are software design, workflow management, data analysis, concurrent programming, reliability engineering, real-time computing systems, operating systems, distributed systems, and biological processes. Timed petri nets ...
+Keywords: Timed Petri nets, activity cycle diagrams, simulation, construction, reachability 
+
+Embedded, Everywhere 
+Advances in the miniaturization and networking of microprocessors promise a _day when networked computers are embedded throughout the everyday world. However, our current understanding of what such systems would be like is insufficient to bring the promise to reality. Embedded, Everywhere explores ...
+Keywords: General science
+
+Protecting Applications against Malice Using Adaptive Middleware
+Security in distributed computing systems is a very important area of research, especially as malicious behavior is a growing cause of concern for businesses and organizations. This paper addresses an emerging method of maintaining security in untrustworthy environments. Until recently, the ...
+Keywords: Computer security, Computer networks -- Security measures, Middleware -- Security measures., Electronic data processing -- Distributed processing -- Security measures.
+
+AUTOMATION AND ROBOTICS IN POST DISASTER WASTE MANAGEMENT: POST TSUNAMI SRI LANK A
+In recent years, automation and robots have been applied at different domains to coordinate collaborative behavior in distributed systems and providing a powerful basis for proactive applications of complex nature, specially in large scale disasters requiring complex tasks to be performed by groups ...
+Keywords: automation and robotics, post disaster, waste management, tsunami
+
+Structured Graphics for Distributed Systems
+includes bibliography: pp. 48-51. One of the most important functions of an intelligent workstation is to provide a state-of-the-art user interface to distributed resources. One aspect of such an interface is virtual terminal support for both local and remote applications with a range of ...
+Keywords: user interface, windowing, computer graphics, programming
+
+Mobile Information and Communcation Systems
+Mobile Information and Communication Systems (MICS) is part of the Swiss National Science Foundation's National Centres of Competence in Research. The goal of MICS is "to study fundamental and applied questions raised by new generation mobile communication and information services, based on ...
+Keywords: Communication and technology, Communication, Science, Science -- Technology
+
+6.826 Principles of Computer Systems, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "An ...
+Keywords: distributed cache management, specification, computer system, Electrical Engineering and Computer Science, concurrent system, networking, naming, concurrent algorithms, Computer Technology/Computer Systems Technology, synchronization, distributed system, replication techniques, verification
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/  

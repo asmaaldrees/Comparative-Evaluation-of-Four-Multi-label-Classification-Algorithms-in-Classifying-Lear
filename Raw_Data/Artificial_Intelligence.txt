@@ -1,0 +1,224 @@
+6.034 Artificial Intelligence, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ..
+Keywords: inheritance, constraint propagation, neural nets, constrained search, artificial intelligence, intelligent systems, applied systems, rule chaining, knowledge representation, genetic algorithms, human intelligence, Artificial Intelligence and Robotics, heuristic search, Electrical Engineering and Computer Science, identification trees
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.947 Medical Artificial Intelligence, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: clinical simulation, neural nets, constrained search, Health Sciences and Technology, Bioinformatics, intelligent systems, identification trees, human intelligence, inheritance, bioinformatics, genetic algorithms, Artificial Intelligence and Robotics, artificial intelligence, diagnosis, applied systems, constraint propagation, proteomics, heuristic search, genomics, knowledge representation, rule chaining
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.871 Knowledge-Based Applications Systems, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: application domains, Electrical Engineering and Computer Science, knowledge, artificial intelligence techniques, artificial intelligence, knowledge representation, Artificial Intelligence and Robotics, expert system, building system, knowledge acquisition, system development
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+9.69 Foundations of Cognition, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: structure, cognitive science, psychology, reasoning, neuroscience, consciousness, Brain and Cognitive Sciences, time, decision-making, Western philosophy, philosophy, computation, linguistics, color, artificial intelligence, similarity, number, morality, Cognitive Psychology and Psycholinguistics, development, space, objects, inductive inference
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.951J Medical Decision Support, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: decision support, classification trees, computer-based diagnosis, neural networks, learning systems, Health Sciences and Technology, Health/Health Care Administration/Management, therapeutic interventions, knowledge-based systems, logistic regression, rough sets, predictive model construction, evaluation, machine learning methods, Electrical Engineering and Computer Science, artificial intelligence, decision analysis, planning monitoring, medical software
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.964 Common Sense Reasoning for Interactive Applications, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Reasoning, Artificial Intelligence and Robotics, Common Sense, Computer applications, Media Arts and Sciences, Interactive multimedia, Human-Computer Collaboration, Artificial Intelligence, Common Sense Knowledge, Interactive
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+21W.765J Theory and Practice of Non-linear and Interactive Narrative, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: multiple points of view, eliza, storyline, Comparative Media Studies, Narration (Rhetoric), computers, 21W.765, Film, Story, Practice, Web, book-based narratives, digression, Interactive, 21L.489, Literature, hypertexts, structure, artificial intelligence programs, computer-based narratives, Theory, Narrative, Creative Writing, HTML, Writing and Humanistic Studies, Multilinear, adventure games, Games, modeling, Non-linear, creative writing
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.034 Artificial Intelligence, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: genetic algorithms, Artificial Intelligence and Robotics, rule chaining, Meets with HST.947 spring only, heuristic search, inheritance, Electrical Engineering and Computer Science, learning paradigms, Speculations on the contributions of human vision and language systems to human intelligence, computational intelligence, constrained search, neural nets, identification trees, 4 Engineering Design Points, problem-solving paradigms, Introduces representations techniques and architectures used to build applied systems, constraint propagation
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.864 Advanced Natural Language Processing, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: text processing, voice response, translation, NLP, lexical, linguistics, machine learning, lexicon, parsing, Artificial Intelligence and Robotics, syntax, dialogue, comprehension, speech processing, language model, speech recognition, speech generation, understanding, voice processing, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+21W.739J Darwin and Design, Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "In ...
+Keywords: feedback mechanism, artificial intelligence, H.G. Wells, Malthus, eighteenth century, Hume, Voltaire, Butler, Literature, literature, speculative thought, Hardy, Origin of Species, 21W.739, Darwin, Darwin Charles 1809-1882, Writing and Humanistic Studies, English Language and Literature General, intelligent agency, Freud
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+SP.293 Lego Robotics, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Experimental Study Group, lego, robot, Artificial Intelligence and Robotics, building techniques, Special Programs, robotics, sensors, motors, Handyboards, gearing
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.098 Special Seminar in Applied Probability and Stochastic Processes, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: artificial intelligence, Sloan School of Management, doctoral, Mathematical Statistics and Probability, computer science, belief propagation algorithms, applied probability, coloring, stochastic processes, low density parity check codes, K-SAT problem, average case complexity, statistical physics, seminar
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+
+6.186 Mobile Autonomous Systems Laboratory, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: artificial intelligence, microcontroller, laboratory, IAP, odometry, MASLab, map, camera, computer vision, Artificial Intelligence and Robotics, competition, computer, mobile, mapping, Edwin Olson, ORC, robotics, Electrical Engineering and Computer Science, Java, autonomous systems, mechanical, sensor
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.951J Medical Decision Support, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: rough sets, Health Sciences and Technology, therapeutic interventions, HST.951, predictive model construction, planning monitoring, Health/Health Care Administration/Management, neural networks, 6.873, machine learning methods, decision analysis, artificial intelligence, Electrical Engineering and Computer Science, learning systems, computer-based diagnosis, evaluation, logistic regression, medical software, knowledge-based systems, Medical technology, classification trees, decision support
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+16.413 Principles of Autonomy and Decision Making, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: propositional inference, execution, a.i., uncertainty, reasoning, autonomous systems, Markov processes, decision analysis, constraint satisfaction, reinforcement learning, limitations, local stochastic search, function approximators, network optimization, genetic algorithms, decision trees, scheme, operations research, search trees, artificial intelligence, algorithms, plan spaces, logic, optimization algorithms, decision theoretic planning, linear programming, heuristic search, constraint-based search, tradeoffs, learning algorithms, decision support, decision-making, web-based, state, Aeronautics and Astronautics, integer programming, model theory, constraints, Operations Research, neural nets, model-based reasoning, autonomy, Decision making, stochastic, Markov decision process, game tree search, propositional logic, system state, satisfaction, deduction, planning, dynamic programming, machine learning, 16.413, rule-based systems, search and reasoning, model-based diagnosis, computational performance
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+STS.035 The History of Computing, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: aerospace, supercomputing, computers, cognitive psychology, linguistics, Artificial Intelligence and Robotics, nuclear physics, logic, humanities, Computer and Information Sciences General, scientific instrument, Information Technology, meteorology, mathematics, distributed computing, biochemistry, applied science, history, hypertext, medicine, digital, Science Technology and Society
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+The game of life
+teaching unit which uses simulations to explain Conway's game of life and studies different configurations (tetrominos and pentominos) and comments some of the implications and discussions about artificial intelligence.
+Keywords: artificial intelligence, Conway, tetromino, pentomino, game of life
+Rights: http://creativecommons.org/licenses/by-sa/3.0/
+
+6.892 Computational Models of Discourse, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: natural language, automatic discourse processing, plan recognition algorithms, speech processing, automatic essay writing, Speech and Rhetorical Studies, symbolic learning, machine learning, discourse analysis, models of coherence and cohesion, discourse structure, text segmentation, Electrical Engineering and Computer Science, dialogue systems
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+9.916-A Probability and Causality in Human Cognition, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Brain and Cognitive Sciences, Cognitive Science, Mathematical Statistics and Probability
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+21W.765J Interactive and Non-Linear Narrative: Theory and Practice, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: LARP, MMO, multi-linear narrative, digital narrative, media, Second Life, CMS.845, synchronic narrative, communication culture, Humanities/Humanistic Studies, digital, game culture platforms, video games, nonlinear narrative, 21L.489, contemporary media, television, digital aesthetics, ARG, 21W.765, gaming, Writing and Humanistic Studies, Comparative Media Studies, Literature, film, contemporary art
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.961 Ambient Intelligence, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: ubiquitous computing, wearable computing, pervasive computing, HCI, Artificial Intelligence and Robotics, Media Arts and Sciences, smart networked objects, augmented and mixed realities, tangible computing, smart environments, intelligent interfaces, Industrial and Organizational Psychology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+24.945J Language Processing, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: thought, access, computation, language processing, Linguistics and Philosophy, Discourse processing, word acquisition, language, English Language and Literature General, Brain and Cognitive Sciences, cross-modal priming, 9.591, storage, eye-tracking, critical period phenomena, 24.945, Sentence processing, acquisition, neural imaging methods, Ambiguity, connectionist models, Cognitive Psychology and Psycholinguistics, Morphological processing, Neuroscience, acquisition of speech, Speech processing
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.965 Special Topics in Media Technology: Cooperative Machines, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: behavior and the mind, teamwork, electrical engineering, Artificial Intelligence and Robotics, human interaction, Computer Software and Media Applications Other, robots, intention and action, theory of mind, human-machine collaboration, manufacture, cooperative machines, robotics, perception, Media Arts and Sciences, emotion
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.965 Relational Machines, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Media Arts and Sciences, language processing, human relationships, machine teammates, Artificial Intelligence and Robotics, emotional expression, representation and manipulation, interactive learning, ambient agent interaction, collaboration, emotional design, measuring relationships and interactions, wearable agent interaction, tutorials, relational machines, technology, robotic therapy, assitive robotics for elderly, robotic pets
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.964 Common Sense Reasoning for Interactive Applications, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: user goals, culture, common sense knowledge, artificial intelligence, partial knowledge, Media Arts and Sciences, semantics, common sense reasoning, language, knowledge collection, inference, human-computer interaction, machine understanding, education, interface design, interactive applications, knowledge quality
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.825 Techniques in Artificial Intelligence (SMA 5504), Fall 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: first order logic, Java, inference, Artificial Intelligence and Robotics, Electrical Engineering and Computer Science, Bayesian network inference, supervised learning methods, representation, learning, decision-theoretic planning, deterministic planning, artificial intelligence
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+24.905J Psycholinguistics, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Ambiguity, connectionist, 24.905, working memory, psychology, contextual, Linguistics and Philosophy, pragmatic, sentence, language, comprehension, symbolic, Brain and Cognitive Sciences, syntactic, 9.59, semantic, artificial intelligence, lexicon, prosodic, Cognitive Psychology and Psycholinguistics, linguistic, processing
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+21W.739J Darwin and Design, Fall 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "In ...
+Keywords: Charles Darwin, mechanism, existence, creationism, evolution, ethics, model, argument from design, self-sustaining systems, organisms, Darwin Charles 1809-1882, eighteenth century, planet, theory of natural selection, Adam Smith, literary texts, values, H.G. Wells, Liberal Arts and Sciences General Studies and Humanities Other, material universe, objects, Voltaire, ethical, On the Origin of Species, Evolution, designer, philosophical texts, human intelligence, feedback mechanism, life, unconscious agency, artificial intelligence, 21L.448, Writing and Humanistic Studies, human design, conscious agency, literature, unintelligent, natural history, pre-Darwinian, Western tradition, speculative thought, creation, Malthus, self-guiding systems, Freud, mechanical, 21W.739, natural selection, Butler, design, nature, Literature, Hardy, Hume, Thomas Malthus, intellectual history, Darwinian, philosophy, purpose, intelligent agency
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.578J Integrating eSystems &amp; Global Information Systems, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: database, artificial intelligence, stragegy, distributed architecture, Information Technology, business processes, transformation, connectivity, ESD.565, Transaction systems (Computer systems), Engineering Systems Division, Sloan School of Management, application, emerging technology, 15.578, standards, data communication, web, 15.565, information
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.863J Natural Language and the Computer Representation of Knowledge, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: phonology, 9.611, artificial intelligence, 6.863, language learning, Computer Engineering General, shift-reduce parsers, syntax, chart parsing, compositionality, computational methods, part of speech tagging, semantic interpretation, Earley s algorithm, computational models of language, Brain and Cognitive Sciences, origins of language, applications, feature-based parsing, 2-level morphology, natural language system design, semantics, syntactic features, lexical semantic, parsing algorithms, thematic structure, machine translation, quantifiers, grammars, Computational linguistics, discourse structure, computer science, automata, morphology, rule-based tagging, kimmo, pragmatic structure, context-free parsing, integrated lexicon, semantic structure, word modeling, Electrical Engineering and Computer Science, tagging, lexical-conceptual structure, brill tagger, hmm tagging, psycholinguistics, natural language processing, parsing, linguistic theory
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.881 Representation and Modeling for Image Analysis, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: images, Artificial Intelligence and Robotics, mathematical foundations, markov random fields, expectation maximization, modeling techniques, manifold fitting, clustering, level sets, computer vision, representations, estimation algorithm, modeling, representation algorithm, image information, information, deformation fields, medical and biological imaging, Electrical Engineering and Computer Science, contours, objects, Computer Graphics, image analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+WGS.484J The Anthropology of Computing, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Ada Lovelace, machines and culture, Computing, African mathematical systems, gaming, Industrial Revolution, operations research, commodification, artifical intelligence, Charles Babbage, computation theory, calculating machine, personal computer, indentity in cyberspace, 21A.350, cosmology, hacking, Special Programs, Science Technology and Society, Computer and Information Sciences General, counterculture, Internet, coding, PC, free software, clockwork, hacker, software, cold war, cybernetics, SP.484, open source, Alan Turing, Women s and Gender Studies, STS.086, cyberspace, Anthropology Other, Anthropology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+"School at home". "Look what we do!" Building tracking robots (La Garrotxa Secondary School)
+With the aim of encouraging research, pupils at La Garrotxa Secondary School in Olot build tracking robots using the knowledge acquired in other classes, and with the idea of participating in the annual Robolot competition.
+Keywords: artificial intelligence, automation, information and communications technology, robotics, school activities
+
+21W.765J Interactive and Non-Linear Narrative: Theory and Practice, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Games, 21L.489, Comparative Media Studies, Text, Print, Digital, Narrative, Novel, Story, Storyline, CMS.845, Writing and Humanistic Studies, Non-Linear, Film, Media, Interactive, 21W.765, Multi-Linear, Humanities/Humanistic Studies, Literature, Talmud
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Twentieth century science
+An interdisciplinary variable credit on relativity, quantum mechanics, the chemical industry, genetics, evolution, medicine, astronautics, transport, information, and energy and the environment. It includes information pages, interactive activities, a glossary, and links to other pages.
+Keywords: artificial intelligence, electromagnetism, evolution (biology), information and communications technology, quantum mechanics, space sciences
+Rights: http://creativecommons.org/licenses/by-nc-sa/2.5/es/deed.ca
+
+6.833 The Human Intelligence Enterprise, Spring 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: artificial intelligence, Human Intelligence Enterprise, Minsky, cognition, object recognition, computational models, perception, object tracking, language evolution, Electrical Engineering and Computer Science, human behavior, Artificial Intelligence and Robotics, change representation, heuristics, communication, Turing, neuroscience
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.833 The Human Intelligence Enterprise, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Artificial Intelligence and Robotics, computational models, artificial intelligence, Turing, language evolution, Electrical Engineering and Computer Science, neuroscience, human behavior, cognition, 6.833, perception, Computer Science, communication, object recognition, object tracking, Human Intelligence Enterprise, Minsky, change representation, heuristics
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.804J Computational Cognitive Science, Fall 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Cognitive Science, cognitive science, 9.660, inductive learning, artificial intelligence, computational theory, machine learning, human cognition, innate knowledge, inductive reasoning, human knowledge representation, computational cognitive science, Electrical Engineering and Computer Science, 9.66, Brain and Cognitive Sciences, 6.804
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+9.52-C Computational Cognitive Science, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "An ...
+Keywords: Brain and Cognitive Sciences, Computational learning theory, Cognitive Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.834J Cognitive Robotics, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Robotics Technology/Technician, decision-theoretic planning, real-time deduction, robustness algorithms, cooperative air vehicles, reasoning, Aeronautics and Astronautics, cooperative robotics, temporal planning, Artificial Intelligence and Robotics, robotic systems, museum tourguide, nursebot, mars exploration rover, reasoning under uncertainty, path planning, mars explorers, distributed robotics, embedded devices, dynamics re-planning, dynamic execution, robustness paradigms, intelligence paradigms, contingency planning, real-time search, human-interaction systems, cognitive robotics, intelligence algorithms, Electrical Engineering and Computer Science, autonomous robots, mapping, localization, Aeronautics/Aviation/Aerospace Science and Technology General
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.370 Robocraft Programming Competition, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Robocraft programming competition, Electrical Engineering and Computer Science, software engineering, best player program, computer game Robocraft, Robotics Technology/Technician, Computer Software Engineering, best program, Artificial Intelligence and Robotics, battle strategy
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.963 Techno-identity: Who we are and how we perceive ourselves and others, Spring 2002 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Post-human identity, artificial intelligence, philosophical theories, privacy, Identity (Philosophical concept), Media Arts and Sciences, social mores, sensing identity, mediated identity, what does it mean to be human, human identity, Mass Communications/Media Studies, religious beliefs
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.270 Autonomous Robot Design Competition, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: c code, Robotics Technology/Technician, contest, IR LEDs, handy board, gearboxes, soldering, Artificial Intelligence and Robotics, Electrical Engineering and Computer Science, sensors, lego, robot, motors, shaft encoding
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.963 Out of Context: A Course on Computer Systems That Adapt To, and Learn From, Context, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: input, intelligent agent software, artificial intelligence, digital devices of the future, Media Arts and Sciences, computer systems, smart computers, context, Computer Software and Media Applications Other, context-aware application, computer systems that adapt
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.062 Data Mining, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Data mining, electronic banking, internet, data warehouses, point-of-sale devices, e-commerce, bar-code readers, Marketing Research, Sloan School of Management, intelligent machines
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/

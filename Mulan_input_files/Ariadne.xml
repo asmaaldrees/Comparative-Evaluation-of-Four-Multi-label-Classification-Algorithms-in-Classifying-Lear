@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<labels xmlns="http://mulan.sourceforge.net/labels">
+<label name= "Aero_Dynamics"></label>
+<label name= "Algorithm_Design"></label>
+<label name= "Artificial_Intelligence"></label>
+<label name= "Biology"></label>
+<label name= "C++_Programming"></label>
+<label name= "Circuit_Design"></label>
+<label name= "Compilers"></label>
+<label name= "Computer_Architecture"></label>
+<label name= "Computer_Graphics"></label>
+<label name= "Computer_Networks"></label>
+<label name= "Computer_Programming"></label>
+<label name= "Computer_Science"></label>
+<label name= "Computer_Security"></label>
+<label name= "Distributed_Systems"></label>
+<label name= "Electronic_Engineering"></label>
+<label name= "Embedded_Systems"></label>
+<label name= "Fault_Tolerance"></label>
+<label name= "Human_Computer_Interaction"></label>
+<label name= "Image_Processing"></label>
+<label name= "Java_Programming"></label>
+<label name= "Machine_Learning"></label>
+<label name= "Maths"></label>
+<label name= "Medical_Systems"></label>
+<label name= "Modeling"></label>
+<label name= "Operating_Systems"></label>
+<label name= "Physics"></label>
+<label name= "Real-time_Systems"></label>
+<label name= "Signal_Processing"></label>
+<label name= "VLSI_Design"></label>
+<label name= "Web_Systems"></label>
+</labels>

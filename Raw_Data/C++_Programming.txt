@@ -1,0 +1,99 @@
+Introduction to C Programming
+Computer programming can be both a delight and a challenge, so it is nice to know that there are a number of online tutorials designed to provide information about entering the world of C programming and other such applications. This particular C programming tutorial was created at the University
+Keywords: Science, Science -- Technology, Vocational Education, Vocational Education -- Technology
+
+Exercise in Computer Programming / Exercise in Bioinformatics
+To introduce basic methods to analyze bioinformatic data, using Pascal programming language.
+Keywords: bioinformatics, C programming language, genetic
+
+Using C and Linear ASM
+In this module you will learn basic C programming using TI's optimizing C compiler.
+Keywords: ELEC 434, Lab 7
+Rights: http://creativecommons.org/licenses/by/2.0/
+
+Boolean Numbers
+Our C Programming course said a Boolean number was a number that was either true or false. I'm not sure what a true or false number is.
+Keywords: Logic/Foundations
+
+Displaying Array Members
+Examples of displaying members of an array with for loops and using the sizeof operator within the C++ programming language.
+Keywords: array members
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Using a Header File for User Defined Specific Task Functions
+Concepts and an example of how to create a user library within the C++ programming language.
+Keywords: user defined header file, user library
+Rights: http://creativecommons.org/licenses/by/2.0/
+
+TTMath / big online calculator
+This big numbers library for C++ programming language performs mathematical operations with unsigned/signed integers and floating point numbers.
+Keywords: Basic Operations, Exponents/Roots, Logarithms, Trigonometry
+
+Recursion vs Iteration
+An introduction to recursion with the alternate method of using a for loop as the solution to a repetitive algorithm. C++ programming code for factorial is included.
+Keywords: iteration as alt to recursion, repetitive algorithms
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Array Data Type
+An introduction to the array data type with some examples in the C++ programming language.
+Keywords: array data type
+Rights: http://creativecommons.org/licenses/by/3.0/
+
+Algebra linear functions in C.
+MS-DOS / C programming language. Basic functions (use fractions): addm, subm, multm, powm, smultm, transpose, trace, det, minor, cofactor, mcofactor, adjoint, inverse, gauss, gaussjordan. Elementary row operations: swaprow, multrow, addrow. Useful Functions: printm, prtcopy, printrow, printcol, ...
+Keywords: Linear Algebra
+
+CS61C Machine Structures
+CS 61C - Spring 2008 - The internal organization and operation of digital computers. Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching). Elements of computer logic design. ...
+Keywords: c programming language
+
+Intel C++ Compiler 7.1 for Linux
+Software developers in academia and not-for-profit research institutions may find this tool to be helpful for creating applications in the C++ programming language. Intel offers a free C++ compiler for the Linux operating system for non-commercial uses. After completing a brief registration process, ...
+Keywords: Computer software
+
+Bit Manipulation in C for TI MSP430 Microcontrollers
+Microcontrollers require more bit manipulation than most typical C programs. The intent of this module is to help programmers new to the MSP430 processor get the results they need from C language bit manipulation instructions. Much of this content applies to C programming for many microcontrollers ...
+Keywords: ANSI C, bit, bitwise, C, embedded, header, microcontroller, MSP430, truth table
+Rights: http://creativecommons.org/licenses/by/2.0/
+
+Computer Programming and Discrete Mathematics: A Learning Community
+Created by Patrick and Nannette Bibby at Miami Dade College, this learning community combines courses in Discrete Mathematics and C++ Programming integrating mathematical topics such as set theory, relations, and combinatorics with programming topics such as algorithms, selection structure, and ...
+Keywords: Science, Mathematics, Mathematics -- Instructional issues, Science -- Technology, Mathematics -- Applied mathematics
+
+Exercising C language
+. This is a virtual online lecture through the Internet . This course is on the C language which is one of the most popular computer language. . As the basis of the C++, Java, etc., C language must be mastered. . All the students of college of engineering, especially those who major in computer ...
+Keywords: C programming Language
+
+Reliable Data Structures in C
+Cardiff, New Jersey: Plum Hall Inc., 1985. includes index and bibliography. Requires some knowledge of C. It introduces important topics of data structures: arrays, strings, pointers, records, stacks, queues, double-ended queues, trees, hashed files and record files. Discussion of the formal aspects ...
+Keywords: programming, languages, C, data structures, techniques, education
+
+C# Computing
+Microsoft's C# programming language, which was integrated into the recent Visual Studio .NET release, is the main subject of this instructional Web site. Maintained by the C# Computing company, the site's most useful section is .NET tutorials. There are 21 lessons that provide an excellent start ...
+Keywords: Programming languages (Electronic computers), Computer programming -- Programmed instruction., C# (Computer program language), Science, Science -- Technology
+
+Cplusplus: The C++ Resources Network
+Despite being introduced in the 1980's, the C++ programming language remains one of the most commonly used languages for a variety of applications. People who are learning the basics of C++, or more seasoned programmers who just need a refresher, can find a great deal of useful information on this ...
+Keywords: Programming languages (Electronic computers) -- Computer network resources, Computer programming -- Handbooks, manuals, etc., Computer programming -- Computer 
+
+network resources, C++ (Computer program language).
+Introduction to Object-Oriented Programming Using C++
+Peter Mueller at the Globewide Network Academy created these lectures to be used in an online introductory course to object-oriented programming (OOP). The tutorial guides users through a survey of programming techniques, an introduction to data types, object-oriented concepts, an introduction to ...
+Keywords: Computer programming -- Programmed instruction., Computer programming -- Handbooks, manuals, etc., C (Computer program language), C (Computer program language) -- Programmed instruction., Science, Mathematics, Mathematics -- Technology, Science -- Technology
+
+C# Computing
+Microsoft's C# programming language, which was integrated into the recent Visual Studio .NET release, is the main subject of this instructional Web site. Maintained by the C# Computing company, the site's most useful section is .NET tutorials. There are 21 lessons that provide an excellent start ...
+Keywords: Programming languages (Electronic computers), Computer programming -- Programmed instruction., C# (Computer program language)
+
+Numerical Recipes in C: The Art of Scientific Computing - Books On-Line
+An on-line book available in Adobe Acrobat or PostScript formats that outlines the method of organizing a program, and then provides the methodology and (copyrighted) source code in the C programming language for: linear algebraic equations, interpolation and extrapolation, function integration, ...
+Keywords: Computer Science, Fourier Analysis/Wavelets, Linear Algebra, Modern Algebra, Number Sense/About Numbers, Operations Research, Ordinary Differential Equations, 
+
+Partial Differential Equations, Statistics, Calculus (Single Variable)
+Application of Modified Perceived Learning Problem Inventory (PLPI) to Investigate Performance in Introductory Programming
+Abstract & amp; C Programming has been recognized by universities as a complex and difficult intellectual activity, with students struggling through their first programming subject and educators struggling to teach it. Several universities have embarked on using innovative practices to improve ...
+Keywords: Introductory Programming, PLPI, Abstraction
+
+Summer Institute for Computer Science Advanced Placement Teachers (6APT)
+The Carnegie Mellon Summer Institute for Computer Science Advanced Placement Teachers (6APT), an NSF funded three year project that delivered integrated instruction in gender equity and the C++ programming language. 6APT integrates gender equity and disciplinary issues for recruiting, pedagogical ...
+Keywords: teaching gender equity, advanced placement, AP 

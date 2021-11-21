@@ -1,0 +1,64 @@
+6.661 Receivers, Antennas, and Signals, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: detection, spectrometer, radio signals, radar, optical signals, channel performance, aperture synthesis, antenna, digital correlation, statistics, signal processing, instrumentation, parameter estimation, remote sensing, angular filtering, ambiguity function, Communications Systems Installation and Repair Technology, Signal processing, matched filter, astronomy, statistical analysis, receiver, radiometer, electromagnetic, radiative transfer, Electrical Engineering and Computer Science, interferometer, communications
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.961 Numeric Photography, Fall 1998 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: interaction design, visual arts, Photography, signal processing, numeric photography, java, digital photography, Media Arts and Sciences, interactive design, computation, interactive media, photography, digital artworks, aesthetics, programming
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.977 Ultrafast Optics, Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: generation, high precision, optical communications, Electrical Engineering and Computer Science, measurements, x-ray generation, effects, non-linear, optical signal processing, picopulses, femtopulses, nonlinear optics, nanopulses, ultrashort pulses, propagation, attosecond pulses, ultrafast optics, Optics/Optical Sciences, linear
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+24.910 Topics in Linguistic Theory: Laboratory Phonology, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: lexicon, Linguistics, licensing by cue, cntext, phonology, laboratory phonology, Linguistics and Philosophy, adaptive dispersion, source-filter theory, meaning of intonation, A/D conversion, acoustics of vowels, audition, phonetics, Linguistic Comparative and Related Language Studies and Services Other, accent variation, speech perception, acoustics, intonation, spectral analysis, digital signal processing
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.011 Introduction to Communication, Control, and Signal Processing, Spring 2004 - Spring 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sampling, deterministic and random signals, continuous-time signals, time- and transform-domain representations, Detection, state feedback, Wiener filtering, Input-output, Electrical Engineering and Computer Science, stochastic processes, observers, probabilistic models, matched filters, linear systems, discrete-time processing, correlation functions, Communication Studies/Speech Communication and Rhetoric, whitening filters, Least-mean square error estimation, state-space models, power spectra
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.341 Discrete-Time Signal Processing, Fall 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: sampling rate conversion, Hilbert transforms, FFT algorithm, discrete time signals and systems, Multirate techniques, interpolation, decimation, Telecommunications Technology/Technician, discrete-time processing of continuous-time signals, time- and frequency-domain design techniques for recursive (IIR) and non-recursive (FIR) filters, Flowgraph structures, Cepstral analysis, linear prediction, Discrete Fourier transform, Short-time Fourier analysis and filter banks, Electrical Engineering and Computer Science
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.583 Functional Magnetic Resonance Imaging: Data Acquisition and Analysis, Fall 2006 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Health Sciences and Technology, medical lab, function, cerebrovascular neuroanatomy, institutional review board requirements, medical, functional data analysis, human brain mapping, psychology, magnetic resonance imaging, Medical Informatics, medical technology, image formation physics, experimental design, human subjects, image signals, medical imaging, parenchymal, signal processing, metabolism, safety, fMRI, statistical models, informed consent, brain scan
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+HST.582J Biomedical Signal and Image Processing, Spring 2007 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: signal processing, speech recognition, FFT, electrocardiogram, speech processing, physiology, MATLAB, digital filter, MRI, ECG, biological signal, applications of probabilitym, noise, Electrical Engineering and Computer Science, ultrasound, medical imaging, imaging, diagnostic tool, medicine, fourier, diagnosis, Health Sciences and Technology, Radiologic Technology/Science - Radiographer, DSP, Aeronautics and Astronautics, cardiology
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.092 Bioinformatics and Proteomics, January (IAP) 2005 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: signal processing, robotics, biotechnology applications, Electrical Engineering and Computer Science, actual implementations, machine learning, Bioinformatics, scale-free networks, sequence analysis, proteomics, control theory, network theory, engineering design issues, bioinformatics, Bayesian methods, microarray expression analysis, real-world examples
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+6.432 Stochastic Processes, Detection, and Estimation, Spring 2004 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: whitening filter, Cramer-Rao bounds, minimum-variance unbiased estimator, communications, stochastic process, estimation, Electrical Engineering and Computer Science, vector spaces, control, linear prediction, detection, Neyman-Pearson, Kalman filter, Karhunen-Loeve expansion, waveform observation, spectral estimation, Bayesian, Wiener filter, signal processing, Mathematical Statistics and Probability, shaping filter
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.962 Digital Typography, Fall 1997 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: interaction design, digital typography, interactive media, type, Media Arts and Sciences, java, communication, signal processing, visual arts, design, computation, Computer Typography and Composition Equipment Operator, transformations, typographic design, interactive design, programming, text, aesthetics, digital artworks
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+MAS.160 Signals, Systems, and Information for Media Technology, Fall 2001 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: ...
+Keywords: Walsh functions and other basis sets, Computer Science Other, Aliasing, Signal processing, Basic math concepts, Definition of orthogonality, Fourier series, Complex exponentials, AM, Reconstruction, Notation, Spectrum plots, Media Arts and Sciences, Sampling theorem, FM, Representation of systems, Vocabulary
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+15.084J Nonlinear Programming, Spring 2003 (MIT)
+An online course from the MIT OpenCourseWare website (http://ocw.mit.edu) operated by Massachusetts Institute of Technology. This course material is free for anyone to use who accept the terms and conditions of use. The description of this course, published on the MIT OpenCourseWare website, is: "A ...
+Keywords: quasi-Newton methods, 15.084, Lagrangian relaxation, Nonlinear programming, Lagrange multiplier theory, Computer Programming Other, interior point, non-linear programming, feasible directions, integer programming, Sloan School of Management, control, optimality conditions, projection, resource allocation, conjugate direction, communications, nonlinear programming, Newton, power systems, Electrical Engineering and Computer Science, nondifferentiable optimization, duality theory, constrained optimization, unconstrained optimization, nonlinear optimization, 6.252, Lagrange multiplier, gradient, convex analysis
+Rights: http://creativecommons.org/licenses/by-nc-sa/3.0/ 
